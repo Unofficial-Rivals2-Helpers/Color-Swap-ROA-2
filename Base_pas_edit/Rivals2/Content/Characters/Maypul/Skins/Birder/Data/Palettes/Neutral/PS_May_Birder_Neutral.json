@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Terry",
-          "Name": "Terry",
           "Value": {
             "R": 0.147027,
             "G": 0.130136,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "TPattern",
-          "Name": "TPattern",
           "Value": {
             "R": 0.072272,
             "G": 0.042311,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "TBelly",
-          "Name": "TBelly",
           "Value": {
             "R": 0.022174,
             "G": 0.011612,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "THead",
-          "Name": "THead",
           "Value": {
             "R": 0.036889,
             "G": 0.174647,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "TBeak",
-          "Name": "TBeak",
           "Value": {
             "R": 0.5625,
             "G": 0.229434,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "TNeck",
-          "Name": "TNeck",
           "Value": {
             "R": 0.617051,
             "G": 0.625,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "TFeathers",
-          "Name": "TFeathers",
           "Value": {
             "R": 0.244792,
             "G": 0.139432,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Lily",
-          "Name": "Lily",
           "Value": {
             "R": 0.088883,
             "G": 0.084961,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "LPattern",
-          "Name": "LPattern",
           "Value": {
             "R": 0.630208,
             "G": 0.61214,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "LBeak",
-          "Name": "LBeak",
           "Value": {
             "R": 0.557292,
             "G": 0.285937,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "LBeakTip",
-          "Name": "LBeakTip",
           "Value": {
             "R": 0.171875,
             "G": 0.060156,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "LTongue",
-          "Name": "LTongue",
           "Value": {
             "R": 0.484375,
             "G": 0.11006,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "LFeathers",
-          "Name": "LFeathers",
           "Value": {
             "R": 0.02257,
             "G": 0.02257,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "PVine",
-          "Name": "PVine",
           "Value": {
             "R": 0.411458,
             "G": 0.10154,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Base",
-          "Name": "Base",
           "Value": {
             "R": 0.045186,
             "G": 0.038204,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Rubber",
-          "Name": "Rubber",
           "Value": {
             "R": 0.171441,
             "G": 0.141263,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Clasp",
-          "Name": "Clasp",
           "Value": {
             "R": 0.693872,
             "G": 0.610496,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.290616,
             "G": 0.281715,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "Lens",
-          "Name": "Lens",
           "Value": {
             "R": 0.374747,
             "G": 0.672443,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "ClaspAccent",
-          "Name": "ClaspAccent",
           "Value": {
             "R": 0.921875,
             "G": 0.777865,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.109462,
             "G": 0.270498,
@@ -263,7 +242,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.434154,
             "G": 0.371238,
@@ -274,7 +252,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.036458,
             "G": 0.022882,
@@ -285,7 +262,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.036889,
             "G": 0.450786,
@@ -296,7 +272,6 @@
         },
         {
           "Key": "Scelera",
-          "Name": "Scelera",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -307,7 +282,6 @@
         },
         {
           "Key": "Poppy",
-          "Name": "Poppy",
           "Value": {
             "R": 0.043735,
             "G": 0.074214,
@@ -318,7 +292,6 @@
         },
         {
           "Key": "PBelly",
-          "Name": "PBelly",
           "Value": {
             "R": 0.671875,
             "G": 0.662485,
@@ -329,7 +302,6 @@
         },
         {
           "Key": "PSkin",
-          "Name": "PSkin",
           "Value": {
             "R": 0.760417,
             "G": 0.393837,
@@ -340,7 +312,6 @@
         },
         {
           "Key": "PEyes",
-          "Name": "PEyes",
           "Value": {
             "R": 0.526042,
             "G": 0.068495,
@@ -351,7 +322,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.799103,
             "G": 0.73791,
@@ -362,7 +332,6 @@
         },
         {
           "Key": "Vest",
-          "Name": "Vest",
           "Value": {
             "R": 0.427083,
             "G": 0.153565,
@@ -373,7 +342,6 @@
         },
         {
           "Key": "VestAccent",
-          "Name": "VestAccent",
           "Value": {
             "R": 0.828125,
             "G": 0.556334,
@@ -384,7 +352,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.116971,
             "G": 0.08022,
@@ -395,7 +362,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.03434,
             "G": 0.019382,
@@ -406,7 +372,6 @@
         },
         {
           "Key": "Hat",
-          "Name": "Hat",
           "Value": {
             "R": 0.508881,
             "G": 0.571125,

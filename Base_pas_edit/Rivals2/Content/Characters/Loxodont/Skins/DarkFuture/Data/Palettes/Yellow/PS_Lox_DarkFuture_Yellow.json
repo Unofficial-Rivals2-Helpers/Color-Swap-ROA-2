@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Lights",
-          "Name": "Lights",
           "Value": {
             "R": 0.365618,
             "G": 0.048427,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.052861,
             "G": 0.040915,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.505208,
             "G": 0.263217,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.06975,
             "G": 0.012614,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "ClothTrim",
-          "Name": "ClothTrim",
           "Value": {
             "R": 0.609375,
             "G": 0.244043,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Hands",
-          "Name": "Hands",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "AxeMetal",
-          "Name": "AxeMetal",
           "Value": {
             "R": 0.505208,
             "G": 0.263217,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "AxeCloth",
-          "Name": "AxeCloth",
           "Value": {
             "R": 0.06975,
             "G": 0.012614,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "BoulderMetal",
-          "Name": "BoulderMetal",
           "Value": {
             "R": 0.505208,
             "G": 0.263217,

@@ -1,0 +1,176 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Eta_Default_Orange_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Eta_Default_Orange_C'Default__PS_Eta_Default_Orange_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Etalus/Skins/Default/Data/Palettes/Orange/PS_Eta_Default_Orange.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Eta_Default_Orange_C",
+    "Name": "Default__PS_Eta_Default_Orange_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Etalus/Skins/Default/Data/Palettes/Orange/PS_Eta_Default_Orange.PS_Eta_Default_Orange_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.394,
+            "G": 0.058339,
+            "B": 0.006698,
+            "A": 1.0,
+            "Hex": "A94413"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.029,
+            "G": 0.024145,
+            "B": 0.020909,
+            "A": 1.0,
+            "Hex": "2F2B27"
+          }
+        },
+        {
+          "Key": "Nose",
+          "Value": {
+            "R": 0.086,
+            "G": 0.032594,
+            "B": 0.056311,
+            "A": 1.0,
+            "Hex": "533243"
+          }
+        },
+        {
+          "Key": "Scars",
+          "Value": {
+            "R": 0.073329,
+            "G": 0.036064,
+            "B": 0.161,
+            "A": 1.0,
+            "Hex": "4C3570"
+          }
+        },
+        {
+          "Key": "PawPads",
+          "Value": {
+            "R": 0.2,
+            "G": 0.0758,
+            "B": 0.130955,
+            "A": 1.0,
+            "Hex": "7C4E65"
+          }
+        },
+        {
+          "Key": "InnerEars",
+          "Value": {
+            "R": 0.056,
+            "G": 0.016688,
+            "B": 0.01064,
+            "A": 1.0,
+            "Hex": "43221A"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 1.0,
+            "G": 0.963464,
+            "B": 0.91039,
+            "A": 1.0,
+            "Hex": "FFFBF5"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.498264,
+            "G": 0.480059,
+            "B": 0.453614,
+            "A": 1.0,
+            "Hex": "BBB8B4"
+          }
+        },
+        {
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.462077,
+            "G": 0.004025,
+            "B": 0.004025,
+            "A": 1.0,
+            "Hex": "B50D0D"
+          }
+        },
+        {
+          "Key": "LeftIris",
+          "Value": {
+            "R": 0.462077,
+            "G": 0.004025,
+            "B": 0.004025,
+            "A": 1.0,
+            "Hex": "B50D0D"
+          }
+        },
+        {
+          "Key": "LeftPupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "RightPupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Eyeliner",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Wraps",
+          "Value": {
+            "R": 0.073329,
+            "G": 0.036064,
+            "B": 0.161,
+            "A": 1.0,
+            "Hex": "4C3570"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.093059,
             "G": 0.093059,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Under",
-          "Name": "Under",
           "Value": {
             "R": 0.0185,
             "G": 0.016807,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Jersey",
-          "Name": "Jersey",
           "Value": {
             "R": 0.0,
             "G": 0.136,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "JStripes",
-          "Name": "JStripes",
           "Value": {
             "R": 0.666,
             "G": 0.666,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.376262,
             "G": 0.371238,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "PStripes",
-          "Name": "PStripes",
           "Value": {
             "R": 0.0,
             "G": 0.136,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Gloves",
-          "Name": "Gloves",
           "Value": {
             "R": 0.376262,
             "G": 0.371238,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Shoe",
-          "Name": "Shoe",
           "Value": {
             "R": 0.0,
             "G": 0.136,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "ShStripes",
-          "Name": "ShStripes",
           "Value": {
             "R": 0.376262,
             "G": 0.371238,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "SStripes",
-          "Name": "SStripes",
           "Value": {
             "R": 0.930111,
             "G": 0.806177,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "BatTrim",
-          "Name": "BatTrim",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "BatHandle",
-          "Name": "BatHandle",
           "Value": {
             "R": 0.039,
             "G": 0.039,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "BatMain",
-          "Name": "BatMain",
           "Value": {
             "R": 0.197556,
             "G": 0.768151,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "BatAccent",
-          "Name": "BatAccent",
           "Value": {
             "R": 0.930111,
             "G": 0.806177,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "BatGrip",
-          "Name": "BatGrip",
           "Value": {
             "R": 0.135633,
             "G": 0.332452,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "NumberBorder",
-          "Name": "NumberBorder",
           "Value": {
             "R": 0.0,
             "G": 0.0,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "NumberFill",
-          "Name": "NumberFill",
           "Value": {
             "R": 0.666,
             "G": 0.666,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Logo1",
-          "Name": "Logo1",
           "Value": {
             "R": 0.930111,
             "G": 0.806177,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "Logo2",
-          "Name": "Logo2",
           "Value": {
             "R": 0.191539,
             "G": 0.696,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "Fill",
-          "Name": "Fill",
           "Value": {
             "R": 0.0,
             "G": 0.136,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "Border",
-          "Name": "Border",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -263,7 +242,6 @@
         },
         {
           "Key": "BLogo1",
-          "Name": "BLogo1",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -274,7 +252,6 @@
         },
         {
           "Key": "BLogo2",
-          "Name": "BLogo2",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -285,7 +262,6 @@
         },
         {
           "Key": "BFill",
-          "Name": "BFill",
           "Value": {
             "R": 0.930111,
             "G": 0.806177,
@@ -296,7 +272,6 @@
         },
         {
           "Key": "BBorder",
-          "Name": "BBorder",
           "Value": {
             "R": 0.191539,
             "G": 0.696,
@@ -307,7 +282,6 @@
         },
         {
           "Key": "HTrim",
-          "Name": "HTrim",
           "Value": {
             "R": 0.666,
             "G": 0.666,
@@ -318,7 +292,6 @@
         },
         {
           "Key": "Rim",
-          "Name": "Rim",
           "Value": {
             "R": 0.039931,
             "G": 0.038211,
@@ -329,7 +302,6 @@
         },
         {
           "Key": "Lens",
-          "Name": "Lens",
           "Value": {
             "R": 0.930111,
             "G": 0.806177,
@@ -340,7 +312,6 @@
         },
         {
           "Key": "Helmet",
-          "Name": "Helmet",
           "Value": {
             "R": 0.143104,
             "G": 0.52,
@@ -351,7 +322,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.039423,
             "G": 0.039423,
@@ -362,7 +332,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.093059,
             "G": 0.097587,
@@ -373,7 +342,6 @@
         },
         {
           "Key": "Muzzle",
-          "Name": "Muzzle",
           "Value": {
             "R": 0.093059,
             "G": 0.097587,
@@ -384,7 +352,6 @@
         },
         {
           "Key": "InnerEar",
-          "Name": "InnerEar",
           "Value": {
             "R": 0.162029,
             "G": 0.093059,
@@ -395,7 +362,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.191202,
             "G": 0.117102,
@@ -406,7 +372,6 @@
         },
         {
           "Key": "Brows",
-          "Name": "Brows",
           "Value": {
             "R": 0.039423,
             "G": 0.039423,
@@ -417,7 +382,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.022192,
             "G": 0.022192,
@@ -428,7 +392,6 @@
         },
         {
           "Key": "HLogo1",
-          "Name": "HLogo1",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -439,7 +402,6 @@
         },
         {
           "Key": "HLogo2",
-          "Name": "HLogo2",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -450,7 +412,6 @@
         },
         {
           "Key": "HFill",
-          "Name": "HFill",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -461,7 +422,6 @@
         },
         {
           "Key": "HBorder",
-          "Name": "HBorder",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -472,7 +432,6 @@
         },
         {
           "Key": "Stitches",
-          "Name": "Stitches",
           "Value": {
             "R": 0.930111,
             "G": 0.806177,
@@ -483,7 +442,6 @@
         },
         {
           "Key": "Ball",
-          "Name": "Ball",
           "Value": {
             "R": 0.0,
             "G": 0.136,

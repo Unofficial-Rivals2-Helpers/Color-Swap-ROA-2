@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Gal_Dozer_Green_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Gal_Dozer_Green_C'Default__PE_Gal_Dozer_Green_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Dozer/Data/Palettes/Green/PE_Gal_Dozer_Green.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Gal_Dozer_Green_C",
+    "Name": "Default__PE_Gal_Dozer_Green_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Dozer/Data/Palettes/Green/PE_Gal_Dozer_Green.PE_Gal_Dozer_Green_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.895833,
+            "G": 0.0,
+            "B": 0.298611,
+            "A": 1.0,
+            "Hex": "F30095"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 1.0,
+            "G": 0.130208,
+            "B": 0.420139,
+            "A": 1.0,
+            "Hex": "FF65AE"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.042146,
+            "G": 0.411458,
+            "B": 0.008572,
+            "A": 1.0,
+            "Hex": "3AAC17"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.169129,
+            "G": 0.796875,
+            "B": 0.112061,
+            "A": 1.0,
+            "Hex": "72E75E"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 0.276042,
+            "G": 0.276042,
+            "B": 0.276042,
+            "A": 1.0,
+            "Hex": "8F8F8F"
+          }
+        }
+      ]
+    }
+  }
+]

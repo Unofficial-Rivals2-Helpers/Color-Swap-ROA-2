@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.57758,
             "G": 0.435024,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.026241,
             "G": 0.007499,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.871367,
             "G": 0.381326,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.171441,
             "G": 0.006995,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Bone",
-          "Name": "Bone",
           "Value": {
             "R": 0.386429,
             "G": 0.341914,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "ClothTrim",
-          "Name": "ClothTrim",
           "Value": {
             "R": 0.039,
             "G": 0.0195,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.039,
             "G": 0.0195,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "White",
-          "Name": "White",
           "Value": {
             "R": 0.88368,
             "G": 0.88368,

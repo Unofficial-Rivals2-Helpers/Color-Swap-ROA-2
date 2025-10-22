@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Mask",
-          "Name": "Mask",
           "Value": {
             "R": 0.508881,
             "G": 0.508881,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Vest",
-          "Name": "Vest",
           "Value": {
             "R": 0.03125,
             "G": 0.03125,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.610496,
             "G": 0.590619,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Bowtie",
-          "Name": "Bowtie",
           "Value": {
             "R": 0.445201,
             "G": 0.445201,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.010417,
             "G": 0.010417,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Chain",
-          "Name": "Chain",
           "Value": {
             "R": 0.351533,
             "G": 0.162029,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "WeaponBlade",
-          "Name": "WeaponBlade",
           "Value": {
             "R": 0.341914,
             "G": 0.346704,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "WeaponHilt",
-          "Name": "WeaponHilt",
           "Value": {
             "R": 0.514918,
             "G": 0.309469,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "WeaponRose",
-          "Name": "WeaponRose",
           "Value": {
             "R": 0.423268,
             "G": 0.012286,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "WeaponGrip",
-          "Name": "WeaponGrip",
           "Value": {
             "R": 0.045,
             "G": 0.040801,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "WeaponThorns",
-          "Name": "WeaponThorns",
           "Value": {
             "R": 0.028426,
             "G": 0.152926,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.141263,
             "G": 0.096836,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "InnerEar",
-          "Name": "InnerEar",
           "Value": {
             "R": 0.396755,
             "G": 0.258183,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Socket",
-          "Name": "Socket",
           "Value": {
             "R": 0.0,
             "G": 0.0,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "LeftIris",
-          "Name": "LeftIris",
           "Value": {
             "R": 0.809,
             "G": 0.36405,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.133,
             "G": 0.045619,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.407,
             "G": 0.027676,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Stripes",
-          "Name": "Stripes",
           "Value": {
             "R": 0.151,
             "G": 0.0,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Mask",
-          "Name": "Mask",
           "Value": {
             "R": 0.696,
             "G": 0.696,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Rope",
-          "Name": "Rope",
           "Value": {
             "R": 0.165,
             "G": 0.08055,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Grip",
-          "Name": "Grip",
           "Value": {
             "R": 0.019382,
             "G": 0.016807,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.109462,
             "G": 0.107023,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Weapon",
-          "Name": "Weapon",
           "Value": {
             "R": 0.266,
             "G": 0.011172,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.254,
             "G": 0.014732,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Pumpkin_Face",
-          "Name": "Pumpkin_Face",
           "Value": {
             "R": 0.973445,
             "G": 0.491021,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Pumpkin_Shell",
-          "Name": "Pumpkin_Shell",
           "Value": {
             "R": 0.235,
             "G": 0.030785,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Pumpkin_Vines",
-          "Name": "Pumpkin_Vines",
           "Value": {
             "R": 0.303,
             "G": 0.063034,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "RightIris",
-          "Name": "RightIris",
           "Value": {
             "R": 0.809,
             "G": 0.36405,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Armor",
-          "Name": "Armor",
           "Value": {
             "R": 0.5,
             "G": 0.475,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.024158,
             "G": 0.015225,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Padding",
-          "Name": "Padding",
           "Value": {
             "R": 0.213542,
             "G": 0.03559,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.072917,
             "G": 0.01633,

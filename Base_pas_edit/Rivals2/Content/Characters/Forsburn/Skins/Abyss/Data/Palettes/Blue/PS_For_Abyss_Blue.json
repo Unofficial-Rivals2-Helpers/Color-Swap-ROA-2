@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.089518,
             "G": 0.257569,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Horn",
-          "Name": "Horn",
           "Value": {
             "R": 0.020833,
             "G": 0.015263,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.0,
             "G": 0.182595,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Hair2",
-          "Name": "Hair2",
           "Value": {
             "R": 0.231279,
             "G": 0.524556,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.024972,
             "G": 0.022659,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Bone",
-          "Name": "Bone",
           "Value": {
             "R": 0.455375,
             "G": 0.452577,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "AbyssEyesSclera",
-          "Name": "AbyssEyesSclera",
           "Value": {
             "R": 0.439657,
             "G": 0.41904,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "AbyssEyesIris",
-          "Name": "AbyssEyesIris",
           "Value": {
             "R": 0.009721,
             "G": 0.144404,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.038249,
             "G": 0.090493,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Braid",
-          "Name": "Braid",
           "Value": {
             "R": 0.0,
             "G": 0.313368,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Fur",
-          "Name": "Fur",
           "Value": {
             "R": 0.046665,
             "G": 0.046665,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Hoodie",
-          "Name": "Hoodie",
           "Value": {
             "R": 0.467784,
             "G": 0.012983,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "HoodieTrim",
-          "Name": "HoodieTrim",
           "Value": {
             "R": 0.412543,
             "G": 0.412543,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.48515,
             "G": 0.309469,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Wristband",
-          "Name": "Wristband",
           "Value": {
             "R": 0.658375,
             "G": 0.012286,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Shoe",
-          "Name": "Shoe",
           "Value": {
             "R": 0.658375,
             "G": 0.012286,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "ShoeTrim",
-          "Name": "ShoeTrim",
           "Value": {
             "R": 0.412543,
             "G": 0.412543,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.025187,
             "G": 0.023153,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "RightIris",
-          "Name": "RightIris",
           "Value": {
             "R": 0.645833,
             "G": 0.0,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "LeftIris",
-          "Name": "LeftIris",
           "Value": {
             "R": 0.645833,
             "G": 0.0,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Sword",
-          "Name": "Sword",
           "Value": {
             "R": 0.401042,
             "G": 0.394775,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Grip",
-          "Name": "Grip",
           "Value": {
             "R": 0.115668,
             "G": 0.11896,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Laser",
-          "Name": "Laser",
           "Value": {
             "R": 0.375,
             "G": 0.0,

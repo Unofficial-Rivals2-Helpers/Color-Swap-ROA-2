@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.022523,
             "G": 0.205,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.083427,
             "G": 0.341914,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.462077,
             "G": 0.385972,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.057292,
             "G": 0.017352,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Wood",
-          "Name": "Wood",
           "Value": {
             "R": 0.125,
             "G": 0.061638,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 1.0,
             "G": 0.040594,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Fluff",
-          "Name": "Fluff",
           "Value": {
             "R": 0.417885,
             "G": 0.260924,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Iris",
-          "Name": "Iris",
           "Value": {
             "R": 1.0,
             "G": 0.157706,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "StemsDark",
-          "Name": "StemsDark",
           "Value": {
             "R": 0.057805,
             "G": 0.017642,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Flowers",
-          "Name": "Flowers",
           "Value": {
             "R": 1.0,
             "G": 0.040915,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "PuffBalls",
-          "Name": "PuffBalls",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Stems",
-          "Name": "Stems",
           "Value": {
             "R": 0.022174,
             "G": 0.205079,

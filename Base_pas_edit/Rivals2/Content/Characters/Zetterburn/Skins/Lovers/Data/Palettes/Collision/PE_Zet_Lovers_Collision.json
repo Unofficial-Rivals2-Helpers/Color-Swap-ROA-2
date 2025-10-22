@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Element0",
-          "Name": "Element0",
           "Value": {
             "R": 0.0,
             "G": 0.0,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Element1",
-          "Name": "Element1",
           "Value": {
             "R": 0.575,
             "G": 0.02806,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Element2",
-          "Name": "Element2",
           "Value": {
             "R": 0.921582,
             "G": 0.11856,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Element3",
-          "Name": "Element3",
           "Value": {
             "R": 0.973446,
             "G": 0.342425,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Element4",
-          "Name": "Element4",
           "Value": {
             "R": 0.991102,
             "G": 0.876443,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Element5",
-          "Name": "Element5",
           "Value": {
             "R": 1.0,
             "G": 1.0,

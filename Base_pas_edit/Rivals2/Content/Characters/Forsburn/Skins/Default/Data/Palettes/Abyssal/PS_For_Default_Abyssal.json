@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.170507,
             "G": 0.115022,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.320744,
             "G": 0.260926,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.077542,
             "G": 0.052309,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.564,
             "G": 0.006204,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Hair2",
-          "Name": "Hair2",
           "Value": {
             "R": 0.97,
             "G": 0.21825,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.219,
             "G": 0.002409,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Bone",
-          "Name": "Bone",
           "Value": {
             "R": 0.855,
             "G": 0.690099,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 1.0,
             "G": 0.633333,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "ClothTrim",
-          "Name": "ClothTrim",
           "Value": {
             "R": 0.183321,
             "G": 0.00095,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.024555,
             "G": 0.012675,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Mask Eyes",
-          "Name": "Mask Eyes",
           "Value": {
             "R": 1.0,
             "G": 0.433333,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "White",
-          "Name": "White",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Smokey",
-          "Name": "Smokey",
           "Value": {
             "R": 0.111833,
             "G": 0.014994,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "SmokeyDark",
-          "Name": "SmokeyDark",
           "Value": {
             "R": 0.04248,
             "G": 0.004752,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.023295,
             "G": 0.012025,

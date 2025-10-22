@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.010062,
             "G": 0.359375,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.53948,
             "G": 0.473532,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.004872,
             "G": 0.174,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Pattern2",
-          "Name": "Pattern2",
           "Value": {
             "R": 0.458333,
             "G": 0.385127,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Legs/Beak",
-          "Name": "Legs/Beak",
           "Value": {
             "R": 0.028426,
             "G": 0.026241,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.015209,
             "G": 0.01096,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Earrings",
-          "Name": "Earrings",
           "Value": {
             "R": 0.417885,
             "G": 0.396755,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.07,
             "G": 0.023095,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Goggles",
-          "Name": "Goggles",
           "Value": {
             "R": 0.014244,
             "G": 0.031,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.323143,
             "G": 0.287042,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Goggles Lens",
-          "Name": "Goggles Lens",
           "Value": {
             "R": 0.017642,
             "G": 0.095307,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Shirt Stripes",
-          "Name": "Shirt Stripes",
           "Value": {
             "R": 0.456,
             "G": 0.0608,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Scarf",
-          "Name": "Scarf",
           "Value": {
             "R": 0.199961,
             "G": 0.402,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Vest",
-          "Name": "Vest",
           "Value": {
             "R": 0.02284,
             "G": 0.049707,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Vest Trim",
-          "Name": "Vest Trim",
           "Value": {
             "R": 0.693,
             "G": 0.442076,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.572917,
             "G": 0.149943,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "White",
-          "Name": "White",
           "Value": {
             "R": 1.0,
             "G": 1.0,

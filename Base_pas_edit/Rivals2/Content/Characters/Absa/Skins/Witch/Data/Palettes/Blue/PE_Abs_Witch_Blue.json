@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Abs_Witch_Blue_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Abs_Witch_Blue_C'Default__PE_Abs_Witch_Blue_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Absa/Skins/Witch/Data/Palettes/Blue/PE_Abs_Witch_Blue.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Abs_Witch_Blue_C",
+    "Name": "Default__PE_Abs_Witch_Blue_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Absa/Skins/Witch/Data/Palettes/Blue/PE_Abs_Witch_Blue.PE_Abs_Witch_Blue_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.035294,
+            "G": 0.345751,
+            "B": 0.52549,
+            "A": 1.0,
+            "Hex": "349FC0"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.162029,
+            "G": 0.734642,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "70DFFF"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0759,
+            "B": 0.506,
+            "A": 1.0,
+            "Hex": "004EBD"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.053104,
+            "G": 0.042835,
+            "B": 0.659,
+            "A": 1.0,
+            "Hex": "413AD4"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.065268,
+            "G": 0.215001,
+            "B": 0.882,
+            "A": 1.0,
+            "Hex": "4880F2"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 0.745404,
+            "G": 0.177888,
+            "B": 0.022174,
+            "A": 1.0,
+            "Hex": "E07529"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.196531,
             "G": 0.348958,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "ShirtPattern",
-          "Name": "ShirtPattern",
           "Value": {
             "R": 0.001564,
             "G": 0.015625,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Coveralls",
-          "Name": "Coveralls",
           "Value": {
             "R": 0.067708,
             "G": 0.030689,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Gloves",
-          "Name": "Gloves",
           "Value": {
             "R": 0.255208,
             "G": 0.141783,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Hat",
-          "Name": "Hat",
           "Value": {
             "R": 0.302083,
             "G": 0.243083,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "GloveAccent",
-          "Name": "GloveAccent",
           "Value": {
             "R": 0.084228,
             "G": 0.359375,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.182292,
             "G": 0.085449,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Tools",
-          "Name": "Tools",
           "Value": {
             "R": 0.181164,
             "G": 0.181164,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "ToolsHandle",
-          "Name": "ToolsHandle",
           "Value": {
             "R": 0.182292,
             "G": 0.053801,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "HatAccent",
-          "Name": "HatAccent",
           "Value": {
             "R": 0.084228,
             "G": 0.359375,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "ShovelHandle",
-          "Name": "ShovelHandle",
           "Value": {
             "R": 0.083333,
             "G": 0.046275,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "ShovelHead",
-          "Name": "ShovelHead",
           "Value": {
             "R": 0.125,
             "G": 0.125,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "ShirtMolten",
-          "Name": "ShirtMolten",
           "Value": {
             "R": 0.064533,
             "G": 0.114583,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "ShirtPatternMolten",
-          "Name": "ShirtPatternMolten",
           "Value": {
             "R": 0.005208,
             "G": 0.005208,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "CoverallsMolten",
-          "Name": "CoverallsMolten",
           "Value": {
             "R": 0.026042,
             "G": 0.013949,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "GlovesMolten",
-          "Name": "GlovesMolten",
           "Value": {
             "R": 0.104167,
             "G": 0.056424,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "AccentMolten",
-          "Name": "AccentMolten",
           "Value": {
             "R": 0.048828,
             "G": 0.074219,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Root",
-          "Name": "Root",
           "Value": {
             "R": 0.078187,
             "G": 0.038204,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "Grass",
-          "Name": "Grass",
           "Value": {
             "R": 0.093059,
             "G": 0.191202,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "Leaves",
-          "Name": "Leaves",
           "Value": {
             "R": 0.205259,
             "G": 0.229,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "DaisyPetals",
-          "Name": "DaisyPetals",
           "Value": {
             "R": 0.366253,
             "G": 0.412543,
@@ -263,7 +242,6 @@
         },
         {
           "Key": "DaisyCenter",
-          "Name": "DaisyCenter",
           "Value": {
             "R": 0.73791,
             "G": 0.138432,
@@ -274,7 +252,6 @@
         },
         {
           "Key": "Tulip",
-          "Name": "Tulip",
           "Value": {
             "R": 0.007499,
             "G": 0.147027,

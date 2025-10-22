@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.079047,
             "G": 0.322917,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Shell",
-          "Name": "Shell",
           "Value": {
             "R": 0.882753,
             "G": 1.0,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Spikes",
-          "Name": "Spikes",
           "Value": {
             "R": 0.932292,
             "G": 0.123598,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Hat",
-          "Name": "Hat",
           "Value": {
             "R": 0.0,
             "G": 0.041667,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "HatRibbon",
-          "Name": "HatRibbon",
           "Value": {
             "R": 0.541667,
             "G": 0.0,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Branches",
-          "Name": "Branches",
           "Value": {
             "R": 0.182292,
             "G": 0.073537,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.916667,
             "G": 0.325286,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Ice",
-          "Name": "Ice",
           "Value": {
             "R": 0.675199,
             "G": 1.0,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Scarf",
-          "Name": "Scarf",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Scarf2",
-          "Name": "Scarf2",
           "Value": {
             "R": 0.0,
             "G": 0.088542,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Scarf3",
-          "Name": "Scarf3",
           "Value": {
             "R": 0.635417,
             "G": 0.0,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.041122,
             "G": 0.136938,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.575745,
             "G": 0.705857,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.009134,
             "G": 0.012286,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Legs",
-          "Name": "Legs",
           "Value": {
             "R": 0.065972,
             "G": 0.063599,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "White",
-          "Name": "White",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Scarf",
-          "Name": "Scarf",
           "Value": {
             "R": 0.444444,
             "G": 0.074849,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Goggles",
-          "Name": "Goggles",
           "Value": {
             "R": 0.0625,
             "G": 0.0625,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Lens",
-          "Name": "Lens",
           "Value": {
             "R": 0.637597,
             "G": 0.148773,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "LensGradient",
-          "Name": "LensGradient",
           "Value": {
             "R": 0.637597,
             "G": 0.366253,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Wings",
-          "Name": "Wings",
           "Value": {
             "R": 0.040915,
             "G": 0.135633,

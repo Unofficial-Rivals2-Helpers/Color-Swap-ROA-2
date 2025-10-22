@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.752942,
             "G": 0.610496,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.791298,
             "G": 0.381326,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "PatternLight",
-          "Name": "PatternLight",
           "Value": {
             "R": 0.879622,
             "G": 0.514918,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Hooves",
-          "Name": "Hooves",
           "Value": {
             "R": 0.033105,
             "G": 0.01707,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Horns",
-          "Name": "Horns",
           "Value": {
             "R": 0.686685,
             "G": 0.141263,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "HornsAccent",
-          "Name": "HornsAccent",
           "Value": {
             "R": 0.964686,
             "G": 0.630757,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.015415,
             "G": 0.014444,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.366253,
             "G": 0.174647,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Eye Left",
-          "Name": "Eye Left",
           "Value": {
             "R": 0.514918,
             "G": 0.030713,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Eye Right",
-          "Name": "Eye Right",
           "Value": {
             "R": 0.514918,
             "G": 0.030713,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Eyebrows",
-          "Name": "Eyebrows",
           "Value": {
             "R": 0.036458,
             "G": 0.014359,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Shorts",
-          "Name": "Shorts",
           "Value": {
             "R": 0.030713,
             "G": 0.013702,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.341914,
             "G": 0.035601,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "ClothAccent",
-          "Name": "ClothAccent",
           "Value": {
             "R": 0.603827,
             "G": 0.191202,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.854993,
             "G": 0.066626,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Cloud",
-          "Name": "Cloud",
           "Value": {
             "R": 0.879622,
             "G": 0.514918,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "CloudDark",
-          "Name": "CloudDark",
           "Value": {
             "R": 0.729167,
             "G": 0.317494,

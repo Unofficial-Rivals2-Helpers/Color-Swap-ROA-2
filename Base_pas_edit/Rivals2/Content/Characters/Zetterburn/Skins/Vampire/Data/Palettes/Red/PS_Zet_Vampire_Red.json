@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.439657,
             "G": 0.349527,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Pads",
-          "Name": "Pads",
           "Value": {
             "R": 0.031,
             "G": 0.022816,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Iris",
-          "Name": "Iris",
           "Value": {
             "R": 0.42,
             "G": 0.0,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.539479,
             "G": 0.260973,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Cravat",
-          "Name": "Cravat",
           "Value": {
             "R": 0.451389,
             "G": 0.451389,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.035601,
             "G": 0.023153,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Coat",
-          "Name": "Coat",
           "Value": {
             "R": 0.112,
             "G": 0.007504,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Inner",
-          "Name": "Inner",
           "Value": {
             "R": 0.047,
             "G": 0.029845,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.313989,
             "G": 0.194618,

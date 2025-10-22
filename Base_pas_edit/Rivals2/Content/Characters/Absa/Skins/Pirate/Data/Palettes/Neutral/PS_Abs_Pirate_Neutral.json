@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Pouch",
-          "Name": "Pouch",
           "Value": {
             "R": 0.234551,
             "G": 0.084376,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Blouse",
-          "Name": "Blouse",
           "Value": {
             "R": 0.48515,
             "G": 0.439657,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Corset",
-          "Name": "Corset",
           "Value": {
             "R": 0.028646,
             "G": 0.030154,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Skirt",
-          "Name": "Skirt",
           "Value": {
             "R": 0.48515,
             "G": 0.439657,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "WaistSash",
-          "Name": "WaistSash",
           "Value": {
             "R": 0.212,
             "G": 0.03498,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "SkirtFabric",
-          "Name": "SkirtFabric",
           "Value": {
             "R": 0.025187,
             "G": 0.122139,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Boots",
-          "Name": "Boots",
           "Value": {
             "R": 0.028646,
             "G": 0.030154,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.107023,
             "G": 0.055779,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Jewelry",
-          "Name": "Jewelry",
           "Value": {
             "R": 0.854993,
             "G": 0.508881,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "HeadScarf",
-          "Name": "HeadScarf",
           "Value": {
             "R": 0.141263,
             "G": 0.018647,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.06882,
             "G": 0.072617,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.15444,
             "G": 0.179859,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.554885,
             "G": 0.491088,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Hooves",
-          "Name": "Hooves",
           "Value": {
             "R": 0.032004,
             "G": 0.032004,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Horns",
-          "Name": "Horns",
           "Value": {
             "R": 0.644,
             "G": 0.431833,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Horn2",
-          "Name": "Horn2",
           "Value": {
             "R": 0.654,
             "G": 0.35312,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "InnerEar",
-          "Name": "InnerEar",
           "Value": {
             "R": 0.554885,
             "G": 0.491088,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.455,
             "G": 0.09009,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "IrisRight",
-          "Name": "IrisRight",
           "Value": {
             "R": 1.0,
             "G": 0.564712,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "IrisLeft",
-          "Name": "IrisLeft",
           "Value": {
             "R": 1.0,
             "G": 0.564712,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "Eyebrows",
-          "Name": "Eyebrows",
           "Value": {
             "R": 0.279,
             "G": 0.037665,
@@ -263,7 +242,6 @@
         },
         {
           "Key": "Scelera",
-          "Name": "Scelera",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -274,7 +252,6 @@
         },
         {
           "Key": "Cloud",
-          "Name": "Cloud",
           "Value": {
             "R": 0.266356,
             "G": 0.287441,
@@ -285,7 +262,6 @@
         },
         {
           "Key": "CloudDark",
-          "Name": "CloudDark",
           "Value": {
             "R": 0.095245,
             "G": 0.095245,

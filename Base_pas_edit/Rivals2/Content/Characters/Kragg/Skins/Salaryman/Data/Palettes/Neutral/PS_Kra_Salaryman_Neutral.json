@@ -1,0 +1,266 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Kra_Salaryman_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Kra_Salaryman_Neutral_C'Default__PS_Kra_Salaryman_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Kragg/Skins/Salaryman/Data/Palettes/Neutral/PS_Kra_Salaryman_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Kra_Salaryman_Neutral_C",
+    "Name": "Default__PS_Kra_Salaryman_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Kragg/Skins/Salaryman/Data/Palettes/Neutral/PS_Kra_Salaryman_Neutral.PS_Kra_Salaryman_Neutral_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Pants",
+          "Value": {
+            "R": 0.019694,
+            "G": 0.047013,
+            "B": 0.114583,
+            "A": 1.0,
+            "Hex": "263D5F"
+          }
+        },
+        {
+          "Key": "Jacket",
+          "Value": {
+            "R": 0.019694,
+            "G": 0.047013,
+            "B": 0.114583,
+            "A": 1.0,
+            "Hex": "263D5F"
+          }
+        },
+        {
+          "Key": "Shirt",
+          "Value": {
+            "R": 0.848958,
+            "G": 0.800927,
+            "B": 0.548286,
+            "A": 1.0,
+            "Hex": "EEE8C4"
+          }
+        },
+        {
+          "Key": "Glasses",
+          "Value": {
+            "R": 0.343474,
+            "G": 0.348958,
+            "B": 0.343474,
+            "A": 1.0,
+            "Hex": "9EA09E"
+          }
+        },
+        {
+          "Key": "Tie",
+          "Value": {
+            "R": 0.127484,
+            "G": 0.130208,
+            "B": 0.127484,
+            "A": 1.0,
+            "Hex": "646564"
+          }
+        },
+        {
+          "Key": "Tie Pattern",
+          "Value": {
+            "R": 0.0,
+            "G": 0.339254,
+            "B": 0.508881,
+            "A": 1.0,
+            "Hex": "009EBD"
+          }
+        },
+        {
+          "Key": "Tie Accent",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Shoe",
+          "Value": {
+            "R": 0.012678,
+            "G": 0.012288,
+            "B": 0.015625,
+            "A": 1.0,
+            "Hex": "1D1D21"
+          }
+        },
+        {
+          "Key": "Shoe Sole",
+          "Value": {
+            "R": 0.003035,
+            "G": 0.004777,
+            "B": 0.005182,
+            "A": 1.0,
+            "Hex": "0A0F10"
+          }
+        },
+        {
+          "Key": "Glasses Lens",
+          "Value": {
+            "R": 0.332452,
+            "G": 0.266356,
+            "B": 0.097587,
+            "A": 1.0,
+            "Hex": "9C8D58"
+          }
+        },
+        {
+          "Key": "Filing Cabinet",
+          "Value": {
+            "R": 0.147027,
+            "G": 0.168269,
+            "B": 0.104616,
+            "A": 1.0,
+            "Hex": "6B725B"
+          }
+        },
+        {
+          "Key": "Filing Cabinet Locks",
+          "Value": {
+            "R": 0.226966,
+            "G": 0.23074,
+            "B": 0.226966,
+            "A": 1.0,
+            "Hex": "838483"
+          }
+        },
+        {
+          "Key": "Briefcase",
+          "Value": {
+            "R": 0.151042,
+            "G": 0.059554,
+            "B": 0.031991,
+            "A": 1.0,
+            "Hex": "6C4532"
+          }
+        },
+        {
+          "Key": "Briefcase Latch",
+          "Value": {
+            "R": 0.270498,
+            "G": 0.165132,
+            "B": 0.022174,
+            "A": 1.0,
+            "Hex": "8E7129"
+          }
+        },
+        {
+          "Key": "Briefcase Handle",
+          "Value": {
+            "R": 0.093059,
+            "G": 0.042311,
+            "B": 0.030713,
+            "A": 1.0,
+            "Hex": "563A31"
+          }
+        },
+        {
+          "Key": "Paper",
+          "Value": {
+            "R": 0.391572,
+            "G": 0.391572,
+            "B": 0.391572,
+            "A": 1.0,
+            "Hex": "A8A8A8"
+          }
+        },
+        {
+          "Key": "Envelope",
+          "Value": {
+            "R": 0.270498,
+            "G": 0.205079,
+            "B": 0.119538,
+            "A": 1.0,
+            "Hex": "8E7D61"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.152945,
+            "G": 0.409722,
+            "B": 0.080715,
+            "A": 1.0,
+            "Hex": "6DAC50"
+          }
+        },
+        {
+          "Key": "Shell",
+          "Value": {
+            "R": 0.243055,
+            "G": 0.095834,
+            "B": 0.05148,
+            "A": 1.0,
+            "Hex": "875740"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.955973,
+            "G": 0.491021,
+            "B": 0.046665,
+            "A": 1.0,
+            "Hex": "FABA3D"
+          }
+        },
+        {
+          "Key": "LensTop",
+          "Value": {
+            "R": 1.0,
+            "G": 0.912852,
+            "B": 0.256247,
+            "A": 1.0,
+            "Hex": "FFF58B"
+          }
+        },
+        {
+          "Key": "LensBottom",
+          "Value": {
+            "R": 0.59375,
+            "G": 0.273796,
+            "B": 0.010104,
+            "A": 1.0,
+            "Hex": "CB8F19"
+          }
+        },
+        {
+          "Key": "LensShine",
+          "Value": {
+            "R": 1.0,
+            "G": 0.927832,
+            "B": 0.683189,
+            "A": 1.0,
+            "Hex": "FFF7D8"
+          }
+        }
+      ]
+    }
+  }
+]

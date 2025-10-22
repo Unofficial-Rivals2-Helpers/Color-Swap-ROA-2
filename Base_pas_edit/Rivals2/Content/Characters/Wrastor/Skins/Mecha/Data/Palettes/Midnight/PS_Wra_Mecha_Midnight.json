@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Wing",
-          "Name": "Wing",
           "Value": {
             "R": 0.123535,
             "G": 0.123535,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.043622,
             "G": 0.040039,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Beak",
-          "Name": "Beak",
           "Value": {
             "R": 0.064872,
             "G": 0.061144,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Scarf",
-          "Name": "Scarf",
           "Value": {
             "R": 0.015169,
             "G": 0.013102,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Joints",
-          "Name": "Joints",
           "Value": {
             "R": 0.017463,
             "G": 0.016683,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.206163,
             "G": 0.275343,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Warheads",
-          "Name": "Warheads",
           "Value": {
             "R": 0.21875,
             "G": 0.013672,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Lights",
-          "Name": "Lights",
           "Value": {
             "R": 1.0,
             "G": 0.0,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Emissive",
-          "Name": "Emissive",
           "Value": {
             "R": 0.270833,
             "G": 0.0,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Legs",
-          "Name": "Legs",
           "Value": {
             "R": 0.064872,
             "G": 0.061144,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "White",
-          "Name": "White",
           "Value": {
             "R": 0.911458,
             "G": 0.911458,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Wings",
-          "Name": "Wings",
           "Value": {
             "R": 0.123535,
             "G": 0.123535,

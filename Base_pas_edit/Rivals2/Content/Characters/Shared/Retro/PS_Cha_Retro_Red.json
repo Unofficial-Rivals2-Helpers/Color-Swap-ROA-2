@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Dark",
-          "Name": "Dark",
           "Value": {
             "R": 0.018,
             "G": 0.0,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Mid",
-          "Name": "Mid",
           "Value": {
             "R": 0.52,
             "G": 0.0078,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Bright",
-          "Name": "Bright",
           "Value": {
             "R": 0.791,
             "G": 0.362436,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Highlight",
-          "Name": "Highlight",
           "Value": {
             "R": 0.619608,
             "G": 0.933333,

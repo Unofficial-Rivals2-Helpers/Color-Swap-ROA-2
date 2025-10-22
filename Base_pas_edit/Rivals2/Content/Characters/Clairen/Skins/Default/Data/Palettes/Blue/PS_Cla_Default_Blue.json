@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.039423,
             "G": 0.039423,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.155926,
             "G": 0.152926,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Muzzle",
-          "Name": "Muzzle",
           "Value": {
             "R": 0.093059,
             "G": 0.097587,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "InnerEar",
-          "Name": "InnerEar",
           "Value": {
             "R": 0.162029,
             "G": 0.093059,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.162029,
             "G": 0.093059,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Brows",
-          "Name": "Brows",
           "Value": {
             "R": 0.039423,
             "G": 0.039423,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.022192,
             "G": 0.022192,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Clothing",
-          "Name": "Clothing",
           "Value": {
             "R": 0.031059,
             "G": 0.043303,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.03168,
             "G": 0.069453,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.031059,
             "G": 0.043303,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Gloves",
-          "Name": "Gloves",
           "Value": {
             "R": 0.031059,
             "G": 0.043303,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "GloveTrim",
-          "Name": "GloveTrim",
           "Value": {
             "R": 0.03168,
             "G": 0.069453,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Boot",
-          "Name": "Boot",
           "Value": {
             "R": 0.031059,
             "G": 0.043303,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "LegStraps",
-          "Name": "LegStraps",
           "Value": {
             "R": 0.01344,
             "G": 0.029465,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "BootToe",
-          "Name": "BootToe",
           "Value": {
             "R": 0.03168,
             "G": 0.069453,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "BootTop",
-          "Name": "BootTop",
           "Value": {
             "R": 0.03168,
             "G": 0.069453,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.077347,
             "G": 0.336145,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.027173,
             "G": 0.096017,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "RightIris",
-          "Name": "RightIris",
           "Value": {
             "R": 0.955973,
             "G": 1.0,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "LeftIris",
-          "Name": "LeftIris",
           "Value": {
             "R": 0.955973,
             "G": 1.0,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "Visor",
-          "Name": "Visor",
           "Value": {
             "R": 0.074214,
             "G": 0.109462,
@@ -263,7 +242,6 @@
         },
         {
           "Key": "Glow",
-          "Name": "Glow",
           "Value": {
             "R": 0.025187,
             "G": 0.514918,
@@ -274,7 +252,6 @@
         },
         {
           "Key": "Sword",
-          "Name": "Sword",
           "Value": {
             "R": 0.223,
             "G": 0.396677,
@@ -285,7 +262,6 @@
         },
         {
           "Key": "Grip",
-          "Name": "Grip",
           "Value": {
             "R": 0.34,
             "G": 0.226767,
@@ -296,7 +272,6 @@
         },
         {
           "Key": "Laser",
-          "Name": "Laser",
           "Value": {
             "R": 0.377333,
             "G": 0.066,
@@ -307,7 +282,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.031481,
             "G": 0.031481,
@@ -318,7 +292,6 @@
         },
         {
           "Key": "Braid",
-          "Name": "Braid",
           "Value": {
             "R": 0.188526,
             "G": 0.079692,

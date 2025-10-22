@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.004633,
             "G": 0.041,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.564712,
             "G": 0.708376,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Mouth",
-          "Name": "Mouth",
           "Value": {
             "R": 0.127438,
             "G": 0.01033,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Markings",
-          "Name": "Markings",
           "Value": {
             "R": 0.066626,
             "G": 0.061246,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Legs",
-          "Name": "Legs",
           "Value": {
             "R": 0.603827,
             "G": 0.072272,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Beak",
-          "Name": "Beak",
           "Value": {
             "R": 0.730461,
             "G": 0.234551,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Scarf",
-          "Name": "Scarf",
           "Value": {
             "R": 0.070983,
             "G": 0.717,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Goggles",
-          "Name": "Goggles",
           "Value": {
             "R": 0.093,
             "G": 0.047816,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Lens",
-          "Name": "Lens",
           "Value": {
             "R": 0.610133,
             "G": 0.704,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "LensGradient",
-          "Name": "LensGradient",
           "Value": {
             "R": 0.9778,
             "G": 1.0,

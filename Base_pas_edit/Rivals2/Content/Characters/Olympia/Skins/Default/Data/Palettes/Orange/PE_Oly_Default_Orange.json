@@ -1,0 +1,126 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Oly_Default_Orange_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Oly_Default_Orange_C'Default__PE_Oly_Default_Orange_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Olympia/Skins/Default/Data/Palettes/Orange/PE_Oly_Default_Orange.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Oly_Default_Orange_C",
+    "Name": "Default__PE_Oly_Default_Orange_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Olympia/Skins/Default/Data/Palettes/Orange/PE_Oly_Default_Orange.PE_Oly_Default_Orange_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.3564,
+            "G": 0.02376,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "A12A00"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 1.0,
+            "G": 0.124238,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF6300"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 1.0,
+            "G": 0.259105,
+            "B": 0.154,
+            "A": 1.0,
+            "Hex": "FF8B6D"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 0.259105,
+            "B": 0.154,
+            "A": 1.0,
+            "Hex": "FF8B6D"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 1.0,
+            "G": 0.124238,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF6300"
+          }
+        },
+        {
+          "Key": "Element7",
+          "Value": {
+            "R": 0.3564,
+            "G": 0.02376,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "A12A00"
+          }
+        },
+        {
+          "Key": "Element8",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        }
+      ]
+    }
+  }
+]

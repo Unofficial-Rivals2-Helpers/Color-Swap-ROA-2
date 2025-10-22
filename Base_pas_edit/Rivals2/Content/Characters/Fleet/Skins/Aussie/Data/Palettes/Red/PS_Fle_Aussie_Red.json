@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.16,
             "G": 0.08112,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.739,
             "G": 0.565518,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.383,
             "G": 0.112985,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Spots",
-          "Name": "Spots",
           "Value": {
             "R": 0.012983,
             "G": 0.011612,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.299212,
             "G": 0.032384,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.104616,
             "G": 0.025187,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "CapeTrim",
-          "Name": "CapeTrim",
           "Value": {
             "R": 0.769,
             "G": 0.042295,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.469,
             "G": 0.314527,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.022174,
             "G": 0.0185,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Shirt2",
-          "Name": "Shirt2",
           "Value": {
             "R": 0.769,
             "G": 0.042295,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Belts",
-          "Name": "Belts",
           "Value": {
             "R": 0.022174,
             "G": 0.0185,

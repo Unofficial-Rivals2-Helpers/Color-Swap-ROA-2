@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Piping",
-          "Name": "Piping",
           "Value": {
             "R": 0.533276,
             "G": 0.300544,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Hat",
-          "Name": "Hat",
           "Value": {
             "R": 0.040915,
             "G": 0.025187,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.040915,
             "G": 0.127438,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Bandana",
-          "Name": "Bandana",
           "Value": {
             "R": 0.250158,
             "G": 0.011612,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.40724,
             "G": 0.366253,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "BootTrim",
-          "Name": "BootTrim",
           "Value": {
             "R": 0.253,
             "G": 0.154781,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Feather",
-          "Name": "Feather",
           "Value": {
             "R": 0.456411,
             "G": 0.046665,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "FeatherTip",
-          "Name": "FeatherTip",
           "Value": {
             "R": 0.048172,
             "G": 0.527115,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "SwordHilt",
-          "Name": "SwordHilt",
           "Value": {
             "R": 0.274,
             "G": 0.189798,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "SwordBlade",
-          "Name": "SwordBlade",
           "Value": {
             "R": 0.139,
             "G": 0.135815,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "SwordHandle",
-          "Name": "SwordHandle",
           "Value": {
             "R": 0.063,
             "G": 0.041468,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "SwordTipper",
-          "Name": "SwordTipper",
           "Value": {
             "R": 0.015996,
             "G": 0.346704,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.174647,
             "G": 0.009134,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "CapePiping",
-          "Name": "CapePiping",
           "Value": {
             "R": 0.533276,
             "G": 0.300544,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.03,
             "G": 0.03,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Braid",
-          "Name": "Braid",
           "Value": {
             "R": 0.014304,
             "G": 0.596,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Sail",
-          "Name": "Sail",
           "Value": {
             "R": 0.016807,
             "G": 0.017642,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Wood",
-          "Name": "Wood",
           "Value": {
             "R": 0.104616,
             "G": 0.074214,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "Dirt",
-          "Name": "Dirt",
           "Value": {
             "R": 0.043735,
             "G": 0.045186,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "WoodAccent",
-          "Name": "WoodAccent",
           "Value": {
             "R": 0.102242,
             "G": 0.048172,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "Rope",
-          "Name": "Rope",
           "Value": {
             "R": 0.366253,
             "G": 0.351533,
@@ -263,7 +242,6 @@
         },
         {
           "Key": "Seaweed",
-          "Name": "Seaweed",
           "Value": {
             "R": 0.05448,
             "G": 0.171441,
@@ -274,7 +252,6 @@
         },
         {
           "Key": "Starfish",
-          "Name": "Starfish",
           "Value": {
             "R": 0.266356,
             "G": 0.109462,
@@ -285,7 +262,6 @@
         },
         {
           "Key": "Canon",
-          "Name": "Canon",
           "Value": {
             "R": 0.044892,
             "G": 0.046875,
@@ -296,7 +272,6 @@
         },
         {
           "Key": "Rust",
-          "Name": "Rust",
           "Value": {
             "R": 0.155926,
             "G": 0.056128,

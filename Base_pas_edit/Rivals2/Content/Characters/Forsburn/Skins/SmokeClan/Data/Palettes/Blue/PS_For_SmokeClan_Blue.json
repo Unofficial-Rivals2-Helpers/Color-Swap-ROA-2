@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.139357,
             "G": 0.121952,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Mask",
-          "Name": "Mask",
           "Value": {
             "R": 0.012129,
             "G": 0.012799,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Robe",
-          "Name": "Robe",
           "Value": {
             "R": 0.011481,
             "G": 0.021202,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "RobeAccent",
-          "Name": "RobeAccent",
           "Value": {
             "R": 0.114435,
             "G": 0.057805,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.192828,
             "G": 0.239274,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "ShirtAccent",
-          "Name": "ShirtAccent",
           "Value": {
             "R": 0.302072,
             "G": 0.373458,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Rope",
-          "Name": "Rope",
           "Value": {
             "R": 0.114435,
             "G": 0.057805,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Fur",
-          "Name": "Fur",
           "Value": {
             "R": 0.287,
             "G": 0.281387,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Wraps",
-          "Name": "Wraps",
           "Value": {
             "R": 0.450786,
             "G": 0.450786,

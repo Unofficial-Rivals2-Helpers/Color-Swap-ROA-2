@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Necklace",
-          "Name": "Necklace",
           "Value": {
             "R": 0.351533,
             "G": 0.351533,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Jacket",
-          "Name": "Jacket",
           "Value": {
             "R": 0.265625,
             "G": 0.0,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Glove/Shoe",
-          "Name": "Glove/Shoe",
           "Value": {
             "R": 0.697917,
             "G": 0.205558,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Glove/Shoe Trim",
-          "Name": "Glove/Shoe Trim",
           "Value": {
             "R": 0.682292,
             "G": 0.682292,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Pant",
-          "Name": "Pant",
           "Value": {
             "R": 0.265625,
             "G": 0.0,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Clothing Trim",
-          "Name": "Clothing Trim",
           "Value": {
             "R": 0.5625,
             "G": 0.5625,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.5625,
             "G": 0.5625,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Shoe Tongue",
-          "Name": "Shoe Tongue",
           "Value": {
             "R": 0.020833,
             "G": 0.016818,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.020833,
             "G": 0.016818,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Necklace Crystal",
-          "Name": "Necklace Crystal",
           "Value": {
             "R": 0.921582,
             "G": 0.383365,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.484375,
             "G": 0.27902,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Earhair",
-          "Name": "Earhair",
           "Value": {
             "R": 0.484375,
             "G": 0.27902,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "HairDye",
-          "Name": "HairDye",
           "Value": {
             "R": 1.0,
             "G": 0.166667,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.484375,
             "G": 0.27902,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.783538,
             "G": 0.304987,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Paws",
-          "Name": "Paws",
           "Value": {
             "R": 0.783538,
             "G": 0.304987,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.015996,
             "G": 0.011612,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.015996,
             "G": 0.011612,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "Tail",
-          "Name": "Tail",
           "Value": {
             "R": 0.783538,
             "G": 0.304987,

@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Gal_Default_Purple_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Gal_Default_Purple_C'Default__PE_Gal_Default_Purple_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Default/Data/Palettes/Purple/PE_Gal_Default_Purple.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Gal_Default_Purple_C",
+    "Name": "Default__PE_Gal_Default_Purple_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Default/Data/Palettes/Purple/PE_Gal_Default_Purple.PE_Gal_Default_Purple_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.904661,
+            "G": 0.346787,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "F49F00"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.393,
+            "G": 0.131,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "A86500"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.2688,
+            "G": 0.099116,
+            "B": 0.698,
+            "A": 1.0,
+            "Hex": "8E59DA"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.153339,
+            "G": 0.026961,
+            "B": 0.473,
+            "A": 1.0,
+            "Hex": "6D2DB7"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.637597,
+            "G": 0.64448,
+            "B": 0.637597,
+            "A": 1.0,
+            "Hex": "D1D2D1"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 0.276042,
+            "G": 0.276042,
+            "B": 0.276042,
+            "A": 1.0,
+            "Hex": "8F8F8F"
+          }
+        }
+      ]
+    }
+  }
+]

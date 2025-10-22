@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Flames",
-          "Name": "Flames",
           "Value": {
             "R": 0.42869,
             "G": 0.42869,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Inner",
-          "Name": "Inner",
           "Value": {
             "R": 0.046665,
             "G": 0.000607,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Main",
-          "Name": "Main",
           "Value": {
             "R": 0.212231,
             "G": 0.002125,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Jersey",
-          "Name": "Jersey",
           "Value": {
             "R": 0.212231,
             "G": 0.002125,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "JerseyAccent",
-          "Name": "JerseyAccent",
           "Value": {
             "R": 0.313989,
             "G": 0.304987,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Padding",
-          "Name": "Padding",
           "Value": {
             "R": 0.06301,
             "G": 0.004391,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.219526,
             "G": 0.212231,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Mask",
-          "Name": "Mask",
           "Value": {
             "R": 0.165132,
             "G": 0.006995,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "LogoColorX",
-          "Name": "LogoColorX",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "LogoColor0",
-          "Name": "LogoColor0",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "LogoColor1",
-          "Name": "LogoColor1",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "LogoColor2",
-          "Name": "LogoColor2",
           "Value": {
             "R": 0.453125,
             "G": 0.440134,

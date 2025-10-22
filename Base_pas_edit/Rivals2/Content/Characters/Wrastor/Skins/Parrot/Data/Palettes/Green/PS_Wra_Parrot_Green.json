@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.062267,
             "G": 0.467,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.9394,
             "G": 1.0,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Wings",
-          "Name": "Wings",
           "Value": {
             "R": 0.013656,
             "G": 0.06919,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Wings2",
-          "Name": "Wings2",
           "Value": {
             "R": 0.547,
             "G": 0.227917,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Wings3",
-          "Name": "Wings3",
           "Value": {
             "R": 0.545724,
             "G": 0.090954,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Legs",
-          "Name": "Legs",
           "Value": {
             "R": 0.046665,
             "G": 0.046665,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Scarf",
-          "Name": "Scarf",
           "Value": {
             "R": 0.40724,
             "G": 0.473531,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Goggles",
-          "Name": "Goggles",
           "Value": {
             "R": 0.046665,
             "G": 0.046665,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Lens",
-          "Name": "Lens",
           "Value": {
             "R": 0.323143,
             "G": 0.473531,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "LensGradient",
-          "Name": "LensGradient",
           "Value": {
             "R": 0.806952,
             "G": 1.0,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "White",
-          "Name": "White",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Brows",
-          "Name": "Brows",
           "Value": {
             "R": 0.027333,
             "G": 0.205,

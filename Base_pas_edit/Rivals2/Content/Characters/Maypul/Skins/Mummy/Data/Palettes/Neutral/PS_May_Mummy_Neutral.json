@@ -1,0 +1,146 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_May_Mummy_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_May_Mummy_Neutral_C'Default__PS_May_Mummy_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Maypul/Skins/Mummy/Data/Palettes/Neutral/PS_May_Mummy_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_May_Mummy_Neutral_C",
+    "Name": "Default__PS_May_Mummy_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/Mummy/Data/Palettes/Neutral/PS_May_Mummy_Neutral.PS_May_Mummy_Neutral_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.03,
+            "G": 0.01743,
+            "B": 0.03,
+            "A": 1.0,
+            "Hex": "302330"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.147027,
+            "G": 0.104616,
+            "B": 0.158961,
+            "A": 1.0,
+            "Hex": "6B5B6F"
+          }
+        },
+        {
+          "Key": "Wrap",
+          "Value": {
+            "R": 0.458,
+            "G": 0.4178,
+            "B": 0.348159,
+            "A": 1.0,
+            "Hex": "B4AD9F"
+          }
+        },
+        {
+          "Key": "Weapon",
+          "Value": {
+            "R": 0.783,
+            "G": 0.485199,
+            "B": 0.144855,
+            "A": 1.0,
+            "Hex": "E5B96A"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.563333,
+            "G": 0.272278,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "C68E00"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.408,
+            "G": 0.343128,
+            "B": 0.384445,
+            "A": 1.0,
+            "Hex": "AB9EA7"
+          }
+        },
+        {
+          "Key": "Stem",
+          "Value": {
+            "R": 0.107,
+            "G": 0.068587,
+            "B": 0.05885,
+            "A": 1.0,
+            "Hex": "5C4A44"
+          }
+        },
+        {
+          "Key": "Leaf",
+          "Value": {
+            "R": 0.097587,
+            "G": 0.068478,
+            "B": 0.102242,
+            "A": 1.0,
+            "Hex": "584A5A"
+          }
+        },
+        {
+          "Key": "Mouth",
+          "Value": {
+            "R": 0.067,
+            "G": 0.017286,
+            "B": 0.018715,
+            "A": 1.0,
+            "Hex": "492325"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Vine",
+          "Value": {
+            "R": 0.107,
+            "G": 0.068587,
+            "B": 0.05885,
+            "A": 1.0,
+            "Hex": "5C4A44"
+          }
+        }
+      ]
+    }
+  }
+]

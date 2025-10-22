@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.407986,
             "G": 0.103425,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Tusks",
-          "Name": "Tusks",
           "Value": {
             "R": 0.417885,
             "G": 0.3564,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Leather",
-          "Name": "Leather",
           "Value": {
             "R": 0.090842,
             "G": 0.033105,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Stone",
-          "Name": "Stone",
           "Value": {
             "R": 0.181164,
             "G": 0.122139,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Wraps",
-          "Name": "Wraps",
           "Value": {
             "R": 0.264,
             "G": 0.014784,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.376262,
             "G": 0.337395,

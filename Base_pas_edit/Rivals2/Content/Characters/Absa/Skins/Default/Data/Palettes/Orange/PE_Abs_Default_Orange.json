@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Abs_Default_Orange_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Abs_Default_Orange_C'Default__PE_Abs_Default_Orange_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Absa/Skins/Default/Data/Palettes/Orange/PE_Abs_Default_Orange.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Abs_Default_Orange_C",
+    "Name": "Default__PE_Abs_Default_Orange_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Absa/Skins/Default/Data/Palettes/Orange/PE_Abs_Default_Orange.PE_Abs_Default_Orange_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.5,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "BCFF00"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.017552,
+            "G": 0.030713,
+            "B": 0.004391,
+            "A": 1.0,
+            "Hex": "24310E"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.017574,
+            "G": 0.006995,
+            "B": 0.046665,
+            "A": 1.0,
+            "Hex": "24143D"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.267557,
+            "G": 0.001214,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "8D04FF"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 0.873,
+            "G": 0.161961,
+            "B": 0.040158,
+            "A": 1.0,
+            "Hex": "F17038"
+          }
+        }
+      ]
+    }
+  }
+]

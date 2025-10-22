@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Gemstone",
-          "Name": "Gemstone",
           "Value": {
             "R": 0.337164,
             "G": 0.42869,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.545724,
             "G": 0.318547,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Accent",
-          "Name": "Accent",
           "Value": {
             "R": 0.022,
             "G": 0.014322,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 1.0,
             "G": 0.665387,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Legs",
-          "Name": "Legs",
           "Value": {
             "R": 0.590619,
             "G": 0.584078,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Gem2",
-          "Name": "Gem2",
           "Value": {
             "R": 0.022,
             "G": 0.014322,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Stem",
-          "Name": "Stem",
           "Value": {
             "R": 0.00966,
             "G": 0.115,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.283149,
             "G": 0.254152,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Dark",
-          "Name": "Dark",
           "Value": {
             "R": 0.027321,
             "G": 0.0185,

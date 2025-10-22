@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.107023,
             "G": 0.165132,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.122139,
             "G": 0.074214,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Corruption",
-          "Name": "Corruption",
           "Value": {
             "R": 0.254152,
             "G": 0.012983,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Corruption2",
-          "Name": "Corruption2",
           "Value": {
             "R": 0.982251,
             "G": 0.029557,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Bone",
-          "Name": "Bone",
           "Value": {
             "R": 0.688567,
             "G": 0.68632,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Clothing",
-          "Name": "Clothing",
           "Value": {
             "R": 0.032805,
             "G": 0.02199,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "ClothingAccent",
-          "Name": "ClothingAccent",
           "Value": {
             "R": 0.19375,
             "G": 0.162659,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.107023,
             "G": 0.165132,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 1.0,
             "G": 0.708376,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Iris",
-          "Name": "Iris",
           "Value": {
             "R": 0.726,
             "G": 0.31915,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.0,
             "G": 0.0,

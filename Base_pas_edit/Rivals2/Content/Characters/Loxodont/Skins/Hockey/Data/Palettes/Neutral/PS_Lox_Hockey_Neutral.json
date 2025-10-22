@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Flames",
-          "Name": "Flames",
           "Value": {
             "R": 0.427083,
             "G": 0.427083,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Inner",
-          "Name": "Inner",
           "Value": {
             "R": 0.012983,
             "G": 0.012983,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Main",
-          "Name": "Main",
           "Value": {
             "R": 0.291771,
             "G": 0.000304,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Jersey",
-          "Name": "Jersey",
           "Value": {
             "R": 0.012983,
             "G": 0.012983,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "JerseyAccent",
-          "Name": "JerseyAccent",
           "Value": {
             "R": 0.291771,
             "G": 0.000304,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Padding",
-          "Name": "Padding",
           "Value": {
             "R": 0.07036,
             "G": 0.023246,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.693872,
             "G": 0.344644,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Mask",
-          "Name": "Mask",
           "Value": {
             "R": 0.427083,
             "G": 0.427083,

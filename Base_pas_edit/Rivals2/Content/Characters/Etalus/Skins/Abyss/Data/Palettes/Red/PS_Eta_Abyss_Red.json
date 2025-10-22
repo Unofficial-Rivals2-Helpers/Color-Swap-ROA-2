@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.052083,
             "G": 0.028206,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Body_Plating",
-          "Name": "Body_Plating",
           "Value": {
             "R": 0.557292,
             "G": 0.380781,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Body_2",
-          "Name": "Body_2",
           "Value": {
             "R": 0.276,
             "G": 0.199779,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Body_Scars",
-          "Name": "Body_Scars",
           "Value": {
             "R": 0.174647,
             "G": 0.016196,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Body_Nails",
-          "Name": "Body_Nails",
           "Value": {
             "R": 0.364,
             "G": 0.0,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Body_Nose",
-          "Name": "Body_Nose",
           "Value": {
             "R": 0.049707,
             "G": 0.011623,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "AbyssSclera",
-          "Name": "AbyssSclera",
           "Value": {
             "R": 1.0,
             "G": 0.255103,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "AbyssIris",
-          "Name": "AbyssIris",
           "Value": {
             "R": 0.726,
             "G": 0.058955,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.0,
             "G": 0.0,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.00229,
             "G": 0.412429,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.64448,
             "G": 0.514918,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.64448,
             "G": 0.56899,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Paws",
-          "Name": "Paws",
           "Value": {
             "R": 0.109462,
             "G": 0.066656,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Iris",
-          "Name": "Iris",
           "Value": {
             "R": 0.147922,
             "G": 0.692708,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.665387,
             "G": 0.198064,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Hair2",
-          "Name": "Hair2",
           "Value": {
             "R": 0.776,
             "G": 0.361888,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.129,
             "G": 0.006063,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.62,
             "G": 0.42346,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Leather",
-          "Name": "Leather",
           "Value": {
             "R": 0.285,
             "G": 0.03705,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Gums",
-          "Name": "Gums",
           "Value": {
             "R": 0.23074,
             "G": 0.057805,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Teeth",
-          "Name": "Teeth",
           "Value": {
             "R": 0.730461,
             "G": 0.679542,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 0.752942,
             "G": 0.760525,

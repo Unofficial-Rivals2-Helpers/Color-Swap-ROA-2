@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.672443,
             "G": 0.597302,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.084,
             "G": 0.062719,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Ears",
-          "Name": "Ears",
           "Value": {
             "R": 0.191202,
             "G": 0.14321,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Claws",
-          "Name": "Claws",
           "Value": {
             "R": 0.020833,
             "G": 0.017021,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.341914,
             "G": 0.341914,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.132049,
             "G": 0.191202,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Straps",
-          "Name": "Straps",
           "Value": {
             "R": 0.019382,
             "G": 0.042311,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Gloves/Boots",
-          "Name": "Gloves/Boots",
           "Value": {
             "R": 0.011612,
             "G": 0.016807,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.0,
             "G": 0.65,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "LeftIris",
-          "Name": "LeftIris",
           "Value": {
             "R": 0.023028,
             "G": 0.162718,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.672443,
             "G": 0.597302,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Braid",
-          "Name": "Braid",
           "Value": {
             "R": 0.466667,
             "G": 0.0,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "RightIris",
-          "Name": "RightIris",
           "Value": {
             "R": 0.023028,
             "G": 0.162718,

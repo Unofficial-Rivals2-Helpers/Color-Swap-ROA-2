@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.003,
             "G": 0.003,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.122,
             "G": 0.039301,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Hoofs",
-          "Name": "Hoofs",
           "Value": {
             "R": 0.019,
             "G": 0.015802,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.021,
             "G": 0.008817,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.021,
             "G": 0.008817,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "CapeAccent",
-          "Name": "CapeAccent",
           "Value": {
             "R": 0.06301,
             "G": 0.130136,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.278894,
             "G": 0.017642,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "CapeFur",
-          "Name": "CapeFur",
           "Value": {
             "R": 0.332452,
             "G": 0.287441,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Horn",
-          "Name": "Horn",
           "Value": {
             "R": 0.283149,
             "G": 0.187941,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Clothing",
-          "Name": "Clothing",
           "Value": {
             "R": 0.278894,
             "G": 0.017642,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "ClothingAccent",
-          "Name": "ClothingAccent",
           "Value": {
             "R": 0.06301,
             "G": 0.130136,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.617207,
             "G": 0.318547,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "ArmFur",
-          "Name": "ArmFur",
           "Value": {
             "R": 0.021,
             "G": 0.008817,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "ClothingFur",
-          "Name": "ClothingFur",
           "Value": {
             "R": 0.332452,
             "G": 0.287441,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Weapon",
-          "Name": "Weapon",
           "Value": {
             "R": 0.090842,
             "G": 0.05448,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "WeaponWrap",
-          "Name": "WeaponWrap",
           "Value": {
             "R": 0.06301,
             "G": 0.130136,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Pupil",
-          "Name": "Pupil",
           "Value": {
             "R": 0.0,
             "G": 0.0,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Iris",
-          "Name": "Iris",
           "Value": {
             "R": 0.683,
             "G": 0.014343,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "Scelera",
-          "Name": "Scelera",
           "Value": {
             "R": 1.0,
             "G": 1.0,

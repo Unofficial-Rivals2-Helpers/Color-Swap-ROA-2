@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Shirt/Socks",
-          "Name": "Shirt/Socks",
           "Value": {
             "R": 0.415,
             "G": 0.415,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.020051,
             "G": 0.033,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Shoes",
-          "Name": "Shoes",
           "Value": {
             "R": 0.0,
             "G": 0.072,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Buttons",
-          "Name": "Buttons",
           "Value": {
             "R": 0.164131,
             "G": 0.275,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Jacket",
-          "Name": "Jacket",
           "Value": {
             "R": 0.024304,
             "G": 0.04,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.060281,
             "G": 0.101,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Bow",
-          "Name": "Bow",
           "Value": {
             "R": 0.0,
             "G": 0.072,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.0,
             "G": 0.067,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.072478,
             "G": 0.334,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Suit",
-          "Name": "Suit",
           "Value": {
             "R": 0.046665,
             "G": 0.078187,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Rose",
-          "Name": "Rose",
           "Value": {
             "R": 0.346704,
             "G": 0.473531,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Tongue",
-          "Name": "Tongue",
           "Value": {
             "R": 0.020289,
             "G": 0.665387,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.42027,
             "G": 0.445201,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.2349,
             "G": 0.522,

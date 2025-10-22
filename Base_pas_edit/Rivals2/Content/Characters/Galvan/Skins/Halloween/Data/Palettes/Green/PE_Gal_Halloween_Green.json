@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Gal_Halloween_Green_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Gal_Halloween_Green_C'Default__PE_Gal_Halloween_Green_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Halloween/Data/Palettes/Green/PE_Gal_Halloween_Green.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Gal_Halloween_Green_C",
+    "Name": "Default__PE_Gal_Halloween_Green_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Halloween/Data/Palettes/Green/PE_Gal_Halloween_Green.PE_Gal_Halloween_Green_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.0,
+            "G": 0.333,
+            "B": 0.094349,
+            "A": 1.0,
+            "Hex": "009C56"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.0,
+            "G": 0.148,
+            "B": 0.041933,
+            "A": 1.0,
+            "Hex": "006B39"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.453274,
+            "G": 0.470486,
+            "B": 0.263943,
+            "A": 1.0,
+            "Hex": "B4B78C"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.122688,
+            "G": 0.328,
+            "B": 0.012135,
+            "A": 1.0,
+            "Hex": "629B1C"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.637597,
+            "G": 0.64448,
+            "B": 0.637597,
+            "A": 1.0,
+            "Hex": "D1D2D1"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 0.276042,
+            "G": 0.276042,
+            "B": 0.276042,
+            "A": 1.0,
+            "Hex": "8F8F8F"
+          }
+        }
+      ]
+    }
+  }
+]

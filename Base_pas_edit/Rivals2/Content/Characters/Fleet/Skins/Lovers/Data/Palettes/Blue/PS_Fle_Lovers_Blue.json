@@ -27,12 +27,11 @@
     "Type": "PS_Fle_Lovers_Blue_C",
     "Name": "Default__PS_Fle_Lovers_Blue_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Lovers/Data/Palettes/Blue/PS_Fle_Lovers_Blue.PS_Fle_Lovers_Blue_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
           "Key": "Bow",
-          "Name": "Bow",
           "Value": {
             "R": 0.044745,
             "G": 0.257872,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Accent",
-          "Name": "Accent",
           "Value": {
             "R": 0.045186,
             "G": 0.111924,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.046748,
             "G": 0.112798,
@@ -65,13 +62,32 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.261846,
             "G": 0.439369,
             "B": 0.746,
             "A": 1.0,
             "Hex": "8CB1E0"
+          }
+        },
+        {
+          "Key": "BowDark",
+          "Value": {
+            "R": 0.011765,
+            "G": 0.011765,
+            "B": 0.011765,
+            "A": 1.0,
+            "Hex": "1C1C1C"
+          }
+        },
+        {
+          "Key": "ArrowShaft",
+          "Value": {
+            "R": 0.043403,
+            "G": 0.028564,
+            "B": 0.007892,
+            "A": 1.0,
+            "Hex": "3A2F15"
           }
         }
       ]

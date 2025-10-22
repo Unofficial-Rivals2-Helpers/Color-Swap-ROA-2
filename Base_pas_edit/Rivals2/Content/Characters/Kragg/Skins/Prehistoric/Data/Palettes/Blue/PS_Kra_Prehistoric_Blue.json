@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.0636,
             "G": 0.270828,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.042311,
             "G": 0.068478,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Shell",
-          "Name": "Shell",
           "Value": {
             "R": 0.017554,
             "G": 0.03308,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Bone",
-          "Name": "Bone",
           "Value": {
             "R": 0.28365,
             "G": 0.41664,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Leather",
-          "Name": "Leather",
           "Value": {
             "R": 0.060778,
             "G": 0.03565,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Feather",
-          "Name": "Feather",
           "Value": {
             "R": 0.0,
             "G": 0.2697,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.0636,
             "G": 0.270828,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 1.0,
             "G": 0.316667,

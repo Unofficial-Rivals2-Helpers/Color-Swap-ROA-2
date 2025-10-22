@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.054,
             "G": 0.033382,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.449,
             "G": 0.266496,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.599,
             "G": 0.311489,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Tip",
-          "Name": "Tip",
           "Value": {
             "R": 0.83,
             "G": 0.467634,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.265,
             "G": 0.235939,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Bone",
-          "Name": "Bone",
           "Value": {
             "R": 0.630757,
             "G": 0.496933,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Wraps",
-          "Name": "Wraps",
           "Value": {
             "R": 0.328,
             "G": 0.135016,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.265,
             "G": 0.232538,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "ClothTrim",
-          "Name": "ClothTrim",
           "Value": {
             "R": 0.328,
             "G": 0.135016,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.328,
             "G": 0.135016,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.135417,
             "G": 0.135417,

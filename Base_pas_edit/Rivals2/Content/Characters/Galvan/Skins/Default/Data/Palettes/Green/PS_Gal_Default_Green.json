@@ -1,0 +1,166 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Gal_Default_Green_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Gal_Default_Green_C'Default__PS_Gal_Default_Green_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Default/Data/Palettes/Green/PS_Gal_Default_Green.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Gal_Default_Green_C",
+    "Name": "Default__PS_Gal_Default_Green_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Default/Data/Palettes/Green/PS_Gal_Default_Green.PS_Gal_Default_Green_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.027215,
+            "G": 0.047,
+            "B": 0.011421,
+            "A": 1.0,
+            "Hex": "2E3D1B"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.654,
+            "G": 0.361226,
+            "B": 0.13734,
+            "A": 1.0,
+            "Hex": "D4A268"
+          }
+        },
+        {
+          "Key": "Toebeans",
+          "Value": {
+            "R": 0.654,
+            "G": 0.361226,
+            "B": 0.13734,
+            "A": 1.0,
+            "Hex": "D4A268"
+          }
+        },
+        {
+          "Key": "Toenails",
+          "Value": {
+            "R": 0.839,
+            "G": 0.766007,
+            "B": 0.693014,
+            "A": 1.0,
+            "Hex": "ECE3D9"
+          }
+        },
+        {
+          "Key": "Horn",
+          "Value": {
+            "R": 0.839,
+            "G": 0.766007,
+            "B": 0.693014,
+            "A": 1.0,
+            "Hex": "ECE3D9"
+          }
+        },
+        {
+          "Key": "Face",
+          "Value": {
+            "R": 0.025394,
+            "G": 0.032986,
+            "B": 0.019333,
+            "A": 1.0,
+            "Hex": "2C3326"
+          }
+        },
+        {
+          "Key": "Gems",
+          "Value": {
+            "R": 0.731,
+            "G": 0.0,
+            "B": 0.0731,
+            "A": 1.0,
+            "Hex": "DE004C"
+          }
+        },
+        {
+          "Key": "Metal",
+          "Value": {
+            "R": 0.128835,
+            "G": 0.228,
+            "B": 0.015504,
+            "A": 1.0,
+            "Hex": "648321"
+          }
+        },
+        {
+          "Key": "Reinforced",
+          "Value": {
+            "R": 0.443251,
+            "G": 0.64448,
+            "B": 0.289372,
+            "A": 1.0,
+            "Hex": "B2D293"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "GemGlow",
+          "Value": {
+            "R": 0.731,
+            "G": 0.0,
+            "B": 0.0731,
+            "A": 1.0,
+            "Hex": "DE004C"
+          }
+        },
+        {
+          "Key": "Rocks",
+          "Value": {
+            "R": 0.06301,
+            "G": 0.046665,
+            "B": 0.03434,
+            "A": 1.0,
+            "Hex": "473D34"
+          }
+        }
+      ]
+    }
+  }
+]

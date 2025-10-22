@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.08022,
             "G": 0.014311,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Tail",
-          "Name": "Tail",
           "Value": {
             "R": 0.401194,
             "G": 0.164456,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.206923,
             "G": 0.270561,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Paws",
-          "Name": "Paws",
           "Value": {
             "R": 0.0,
             "G": 0.137142,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Bandage",
-          "Name": "Bandage",
           "Value": {
             "R": 0.008023,
             "G": 0.004025,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.07256,
             "G": 0.109923,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Top",
-          "Name": "Top",
           "Value": {
             "R": 0.019476,
             "G": 0.028245,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.007854,
             "G": 0.003937,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "GloveLeft",
-          "Name": "GloveLeft",
           "Value": {
             "R": 0.0,
             "G": 0.138432,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "GloveLeftAccent",
-          "Name": "GloveLeftAccent",
           "Value": {
             "R": 0.346704,
             "G": 0.323143,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "GloveRight",
-          "Name": "GloveRight",
           "Value": {
             "R": 0.0,
             "G": 0.138432,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "GloveRightAccent",
-          "Name": "GloveRightAccent",
           "Value": {
             "R": 0.347815,
             "G": 0.323194,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 0.047363,
             "G": 0.505208,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Iris",
-          "Name": "Iris",
           "Value": {
             "R": 0.054256,
             "G": 0.119459,

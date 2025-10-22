@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.020289,
             "G": 0.013702,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Jacket",
-          "Name": "Jacket",
           "Value": {
             "R": 0.439657,
             "G": 0.617207,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.017642,
             "G": 0.051269,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.55834,
             "G": 0.520996,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.114435,
             "G": 0.040915,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Logo",
-          "Name": "Logo",
           "Value": {
             "R": 0.745404,
             "G": 0.745404,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.084376,
             "G": 0.456411,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.0,
             "G": 0.2,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "SpeakerCab",
-          "Name": "SpeakerCab",
           "Value": {
             "R": 0.016113,
             "G": 0.022678,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Speaker",
-          "Name": "Speaker",
           "Value": {
             "R": 0.071036,
             "G": 0.045898,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "MetalAccent",
-          "Name": "MetalAccent",
           "Value": {
             "R": 0.55834,
             "G": 0.520996,

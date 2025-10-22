@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.171441,
             "G": 0.48515,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.026241,
             "G": 0.017642,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.03125,
             "G": 0.02325,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Scars",
-          "Name": "Scars",
           "Value": {
             "R": 0.094969,
             "G": 0.224792,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "PawPads",
-          "Name": "PawPads",
           "Value": {
             "R": 0.03125,
             "G": 0.02325,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "InnerEars",
-          "Name": "InnerEars",
           "Value": {
             "R": 0.07274,
             "G": 0.205842,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 1.0,
             "G": 0.963464,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "ScleraShading",
-          "Name": "ScleraShading",
           "Value": {
             "R": 0.498264,
             "G": 0.480059,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "RightIris",
-          "Name": "RightIris",
           "Value": {
             "R": 0.090474,
             "G": 0.62396,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "LeftIris",
-          "Name": "LeftIris",
           "Value": {
             "R": 0.090474,
             "G": 0.62396,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "LeftPupil",
-          "Name": "LeftPupil",
           "Value": {
             "R": 0.0,
             "G": 0.0,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "RightPupil",
-          "Name": "RightPupil",
           "Value": {
             "R": 0.0,
             "G": 0.0,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Eyeliner",
-          "Name": "Eyeliner",
           "Value": {
             "R": 0.0,
             "G": 0.0,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Wraps",
-          "Name": "Wraps",
           "Value": {
             "R": 0.397,
             "G": 0.397,

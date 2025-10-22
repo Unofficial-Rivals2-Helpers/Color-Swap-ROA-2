@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.01096,
             "G": 0.006995,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.088128,
             "G": 0.169494,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Spots",
-          "Name": "Spots",
           "Value": {
             "R": 0.010731,
             "G": 0.029411,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Pads",
-          "Name": "Pads",
           "Value": {
             "R": 0.20778,
             "G": 0.09585,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.022,
             "G": 0.018346,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.01096,
             "G": 0.021219,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Tips",
-          "Name": "Tips",
           "Value": {
             "R": 0.0039,
             "G": 0.006173,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 0.7,
             "G": 0.7,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Iris",
-          "Name": "Iris",
           "Value": {
             "R": 0.084,
             "G": 1.0,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.043249,
             "G": 0.012286,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.5,
             "G": 0.15925,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Leather",
-          "Name": "Leather",
           "Value": {
             "R": 0.279396,
             "G": 0.33912,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Main",
-          "Name": "Main",
           "Value": {
             "R": 0.863157,
             "G": 0.027321,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Stripes",
-          "Name": "Stripes",
           "Value": {
             "R": 0.016867,
             "G": 0.006836,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Paws",
-          "Name": "Paws",
           "Value": {
             "R": 0.278894,
             "G": 0.072272,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Claws",
-          "Name": "Claws",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 1.0,
             "G": 0.5151,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Pupil",
-          "Name": "Pupil",
           "Value": {
             "R": 0.120822,
             "G": 0.120822,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 1.0,
             "G": 0.496094,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Mouth",
-          "Name": "Mouth",
           "Value": {
             "R": 0.515,
             "G": 0.016301,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Tongue",
-          "Name": "Tongue",
           "Value": {
             "R": 1.0,
             "G": 0.101,

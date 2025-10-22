@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.181164,
             "G": 0.051088,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.250158,
             "G": 0.153597,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.055,
             "G": 0.018755,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.006049,
             "G": 0.006995,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Bone",
-          "Name": "Bone",
           "Value": {
             "R": 0.40724,
             "G": 0.271493,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Leather",
-          "Name": "Leather",
           "Value": {
             "R": 0.073,
             "G": 0.035654,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Feather",
-          "Name": "Feather",
           "Value": {
             "R": 0.387,
             "G": 0.167723,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "RightIris",
-          "Name": "RightIris",
           "Value": {
             "R": 0.122,
             "G": 0.732,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "LeftIris",
-          "Name": "LeftIris",
           "Value": {
             "R": 0.122,
             "G": 0.732,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Stone",
-          "Name": "Stone",
           "Value": {
             "R": 0.07,
             "G": 0.04333,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body_Main",
-          "Name": "Body_Main",
           "Value": {
             "R": 0.1,
             "G": 0.091183,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Body_AbyssDark",
-          "Name": "Body_AbyssDark",
           "Value": {
             "R": 0.066667,
             "G": 0.039216,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Body_AbyssBright",
-          "Name": "Body_AbyssBright",
           "Value": {
             "R": 0.434154,
             "G": 0.0,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Body_WingNails",
-          "Name": "Body_WingNails",
           "Value": {
             "R": 0.019382,
             "G": 0.014444,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "BodyMolten_Main",
-          "Name": "BodyMolten_Main",
           "Value": {
             "R": 0.05,
             "G": 0.045591,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Clothing_Bone",
-          "Name": "Clothing_Bone",
           "Value": {
             "R": 0.235294,
             "G": 0.223529,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Clothing_Cloth",
-          "Name": "Clothing_Cloth",
           "Value": {
             "R": 0.250158,
             "G": 0.0,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Tusks_AbyssDark",
-          "Name": "Tusks_AbyssDark",
           "Value": {
             "R": 0.018335,
             "G": 0.012183,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Tusks_AbyssBright",
-          "Name": "Tusks_AbyssBright",
           "Value": {
             "R": 0.434154,
             "G": 0.0,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Axe_AbyssDark",
-          "Name": "Axe_AbyssDark",
           "Value": {
             "R": 0.066667,
             "G": 0.039216,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Axe_AbyssBright",
-          "Name": "Axe_AbyssBright",
           "Value": {
             "R": 0.434154,
             "G": 0.0,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Axe_Bone",
-          "Name": "Axe_Bone",
           "Value": {
             "R": 0.235294,
             "G": 0.223529,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "AbyssEye_Sclera",
-          "Name": "AbyssEye_Sclera",
           "Value": {
             "R": 0.472222,
             "G": 0.277675,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "AbyssEye_Iris",
-          "Name": "AbyssEye_Iris",
           "Value": {
             "R": 0.545724,
             "G": 0.147027,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Throne_AbyssSeal",
-          "Name": "Throne_AbyssSeal",
           "Value": {
             "R": 0.020289,
             "G": 0.048172,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Throne_Stone",
-          "Name": "Throne_Stone",
           "Value": {
             "R": 0.327778,
             "G": 0.144128,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Throne_AbyssBright",
-          "Name": "Throne_AbyssBright",
           "Value": {
             "R": 0.434154,
             "G": 0.0,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Throne_AbyssDark",
-          "Name": "Throne_AbyssDark",
           "Value": {
             "R": 0.147027,
             "G": 0.06301,

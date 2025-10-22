@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.346027,
             "G": 0.379,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.01875,
             "G": 0.03,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Apron",
-          "Name": "Apron",
           "Value": {
             "R": 0.029125,
             "G": 0.233,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Mustache",
-          "Name": "Mustache",
           "Value": {
             "R": 0.055,
             "G": 0.030448,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "ShirtM",
-          "Name": "ShirtM",
           "Value": {
             "R": 0.213638,
             "G": 0.283149,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Sauce",
-          "Name": "Sauce",
           "Value": {
             "R": 0.041163,
             "G": 0.094,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Pasta",
-          "Name": "Pasta",
           "Value": {
             "R": 0.366253,
             "G": 0.181164,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Wood",
-          "Name": "Wood",
           "Value": {
             "R": 0.289,
             "G": 0.150473,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Meatball",
-          "Name": "Meatball",
           "Value": {
             "R": 0.093059,
             "G": 0.058588,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Parsley",
-          "Name": "Parsley",
           "Value": {
             "R": 0.004391,
             "G": 0.093059,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Brick1",
-          "Name": "Brick1",
           "Value": {
             "R": 0.047117,
             "G": 0.127,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Brick2",
-          "Name": "Brick2",
           "Value": {
             "R": 0.075076,
             "G": 0.127,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Brick3",
-          "Name": "Brick3",
           "Value": {
             "R": 0.025908,
             "G": 0.127,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.165828,
             "G": 0.234551,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Cement",
-          "Name": "Cement",
           "Value": {
             "R": 0.250158,
             "G": 0.230955,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.182368,
             "G": 0.191202,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Scars",
-          "Name": "Scars",
           "Value": {
             "R": 0.315,
             "G": 0.315,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.223,
             "G": 0.223,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "Pupil",
-          "Name": "Pupil",
           "Value": {
             "R": 0.394,
             "G": 0.15457,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "Scelera",
-          "Name": "Scelera",
           "Value": {
             "R": 0.012,
             "G": 0.012,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "Tusks",
-          "Name": "Tusks",
           "Value": {
             "R": 0.558,
             "G": 0.558,

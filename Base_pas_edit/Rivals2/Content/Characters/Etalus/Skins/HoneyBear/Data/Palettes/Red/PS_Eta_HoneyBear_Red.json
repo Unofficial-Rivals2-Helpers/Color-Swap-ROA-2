@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Honey",
-          "Name": "Honey",
           "Value": {
             "R": 0.416667,
             "G": 0.097222,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.067708,
             "G": 0.002821,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.380208,
             "G": 0.015842,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Hive",
-          "Name": "Hive",
           "Value": {
             "R": 0.151042,
             "G": 0.052943,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "AntenaTip",
-          "Name": "AntenaTip",
           "Value": {
             "R": 0.59375,
             "G": 0.024907,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "AntenaStem",
-          "Name": "AntenaStem",
           "Value": {
             "R": 0.052083,
             "G": 0.023058,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Wings",
-          "Name": "Wings",
           "Value": {
             "R": 0.71875,
             "G": 0.561523,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.927083,
             "G": 0.466117,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.020833,
             "G": 0.011524,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.036458,
             "G": 0.016463,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Scars",
-          "Name": "Scars",
           "Value": {
             "R": 0.625,
             "G": 0.324978,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "PawPads",
-          "Name": "PawPads",
           "Value": {
             "R": 0.161458,
             "G": 0.022705,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "InnerEars",
-          "Name": "InnerEars",
           "Value": {
             "R": 0.072917,
             "G": 0.025318,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "RightIris",
-          "Name": "RightIris",
           "Value": {
             "R": 0.067391,
             "G": 0.473958,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "LeftIris",
-          "Name": "LeftIris",
           "Value": {
             "R": 0.067391,
             "G": 0.473958,

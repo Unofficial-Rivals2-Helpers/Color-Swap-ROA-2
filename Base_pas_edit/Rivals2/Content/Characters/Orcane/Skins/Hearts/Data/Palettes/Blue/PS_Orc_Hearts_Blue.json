@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.351648,
             "G": 0.437963,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.002535,
             "G": 0.195913,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.00148,
             "G": 0.04075,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 1.0,
             "G": 0.8509,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Pupil",
-          "Name": "Pupil",
           "Value": {
             "R": 0.011458,
             "G": 0.003175,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Shine",
-          "Name": "Shine",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Teeth",
-          "Name": "Teeth",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Mouth",
-          "Name": "Mouth",
           "Value": {
             "R": 0.42,
             "G": 0.082068,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Liner",
-          "Name": "Liner",
           "Value": {
             "R": 0.011458,
             "G": 0.011458,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Buckles",
-          "Name": "Buckles",
           "Value": {
             "R": 0.875,
             "G": 0.340277,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.697917,
             "G": 0.672472,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Bandana",
-          "Name": "Bandana",
           "Value": {
             "R": 0.006293,
             "G": 0.095031,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "ShirtStripes",
-          "Name": "ShirtStripes",
           "Value": {
             "R": 0.0,
             "G": 0.277083,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Leather",
-          "Name": "Leather",
           "Value": {
             "R": 0.078125,
             "G": 0.042516,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.018555,
             "G": 0.021484,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Wood",
-          "Name": "Wood",
           "Value": {
             "R": 0.307292,
             "G": 0.137775,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Hooks",
-          "Name": "Hooks",
           "Value": {
             "R": 0.250651,
             "G": 0.311165,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Rope",
-          "Name": "Rope",
           "Value": {
             "R": 0.445201,
             "G": 0.313989,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "SeedPeel",
-          "Name": "SeedPeel",
           "Value": {
             "R": 0.807292,
             "G": 0.268194,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "SeedStem",
-          "Name": "SeedStem",
           "Value": {
             "R": 0.03418,
             "G": 0.328125,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "LilyPatch",
-          "Name": "LilyPatch",
           "Value": {
             "R": 0.078125,
             "G": 0.042516,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "LilyScarf",
-          "Name": "LilyScarf",
           "Value": {
             "R": 0.0,
             "G": 0.277083,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "PoppyFace",
-          "Name": "PoppyFace",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Poppy",
-          "Name": "Poppy",
           "Value": {
             "R": 0.052861,
             "G": 0.056128,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "PoppyMetal",
-          "Name": "PoppyMetal",
           "Value": {
             "R": 0.250651,
             "G": 0.311165,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "TerryDaggers",
-          "Name": "TerryDaggers",
           "Value": {
             "R": 0.250651,
             "G": 0.311165,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Bones",
-          "Name": "Bones",
           "Value": {
             "R": 0.417885,
             "G": 0.401978,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "TerryHat",
-          "Name": "TerryHat",
           "Value": {
             "R": 0.078125,
             "G": 0.042516,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "TerryHatTrim",
-          "Name": "TerryHatTrim",
           "Value": {
             "R": 0.875,
             "G": 0.340277,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.061714,
             "G": 0.082262,
@@ -263,7 +242,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.390625,
             "G": 0.296021,
@@ -274,7 +252,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.026343,
             "G": 0.023546,
@@ -285,7 +262,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.421875,
             "G": 0.133951,
@@ -296,7 +272,6 @@
         },
         {
           "Key": "Pal",
-          "Name": "Pal",
           "Value": {
             "R": 0.162489,
             "G": 0.752036,
@@ -307,7 +282,6 @@
         },
         {
           "Key": "PVine",
-          "Name": "PVine",
           "Value": {
             "R": 0.062724,
             "G": 0.040915,
@@ -318,7 +292,6 @@
         },
         {
           "Key": "Vine2",
-          "Name": "Vine2",
           "Value": {
             "R": 0.278894,
             "G": 0.120482,
@@ -329,7 +302,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.174282,
             "G": 0.937,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.012838,
             "G": 0.49375,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Wraps",
-          "Name": "Wraps",
           "Value": {
             "R": 0.296138,
             "G": 0.194618,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.078187,
             "G": 0.40724,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.603827,
             "G": 0.46747,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.226966,
             "G": 0.009829,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Spikes",
-          "Name": "Spikes",
           "Value": {
             "R": 1.0,
             "G": 0.132868,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 0.472222,
             "G": 0.194989,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Iris",
-          "Name": "Iris",
           "Value": {
             "R": 0.545724,
             "G": 0.039947,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Tongue",
-          "Name": "Tongue",
           "Value": {
             "R": 1.0,
             "G": 0.0,

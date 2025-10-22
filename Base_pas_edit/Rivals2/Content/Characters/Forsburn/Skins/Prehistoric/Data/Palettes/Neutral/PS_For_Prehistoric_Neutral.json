@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.603827,
             "G": 0.250158,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.658375,
             "G": 0.386429,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Shell",
-          "Name": "Shell",
           "Value": {
             "R": 0.031896,
             "G": 0.016807,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Shorts",
-          "Name": "Shorts",
           "Value": {
             "R": 0.03434,
             "G": 0.03434,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Feather",
-          "Name": "Feather",
           "Value": {
             "R": 0.450786,
             "G": 0.025187,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "FeatherMid",
-          "Name": "FeatherMid",
           "Value": {
             "R": 0.155926,
             "G": 0.049707,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "FeatherTip",
-          "Name": "FeatherTip",
           "Value": {
             "R": 0.051269,
             "G": 0.025187,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Leaf",
-          "Name": "Leaf",
           "Value": {
             "R": 0.020289,
             "G": 0.147027,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Leaf2",
-          "Name": "Leaf2",
           "Value": {
             "R": 0.006512,
             "G": 0.030713,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Rope",
-          "Name": "Rope",
           "Value": {
             "R": 0.198069,
             "G": 0.056128,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Bone",
-          "Name": "Bone",
           "Value": {
             "R": 0.445201,
             "G": 0.371238,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.450786,
             "G": 0.025187,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.122139,
             "G": 0.088656,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "ClothTrim",
-          "Name": "ClothTrim",
           "Value": {
             "R": 0.059511,
             "G": 0.027321,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Mask Eyes",
-          "Name": "Mask Eyes",
           "Value": {
             "R": 0.450786,
             "G": 0.025187,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Skirt",
-          "Name": "Skirt",
           "Value": {
             "R": 0.315,
             "G": 0.021105,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Towel",
-          "Name": "Towel",
           "Value": {
             "R": 0.732,
             "G": 0.170556,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Towel2",
-          "Name": "Towel2",
           "Value": {
             "R": 0.697,
             "G": 0.68823,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Sandals",
-          "Name": "Sandals",
           "Value": {
             "R": 0.000532,
             "G": 0.021764,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Suit1",
-          "Name": "Suit1",
           "Value": {
             "R": 0.001582,
             "G": 0.064719,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Suit2",
-          "Name": "Suit2",
           "Value": {
             "R": 0.535,
             "G": 0.528268,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Wrist",
-          "Name": "Wrist",
           "Value": {
             "R": 0.315,
             "G": 0.021105,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.386429,
             "G": 0.111932,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.095307,
             "G": 0.051269,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "HairTie",
-          "Name": "HairTie",
           "Value": {
             "R": 0.695,
             "G": 0.064635,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Bow",
-          "Name": "Bow",
           "Value": {
             "R": 0.695,
             "G": 0.064635,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Bow2",
-          "Name": "Bow2",
           "Value": {
             "R": 0.644,
             "G": 0.261163,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Bow3",
-          "Name": "Bow3",
           "Value": {
             "R": 0.849,
             "G": 0.23772,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Tank",
-          "Name": "Tank",
           "Value": {
             "R": 0.027321,
             "G": 0.514918,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.527115,
             "G": 0.401275,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Paws",
-          "Name": "Paws",
           "Value": {
             "R": 0.462077,
             "G": 0.194618,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.0,
             "G": 0.432118,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Scelera",
-          "Name": "Scelera",
           "Value": {
             "R": 0.882,
             "G": 0.882,

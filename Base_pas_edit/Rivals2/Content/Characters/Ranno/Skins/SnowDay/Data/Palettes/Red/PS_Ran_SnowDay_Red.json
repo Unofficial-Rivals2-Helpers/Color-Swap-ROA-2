@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.498313,
             "G": 0.457194,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Jacket",
-          "Name": "Jacket",
           "Value": {
             "R": 0.328125,
             "G": 0.005127,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.4375,
             "G": 0.424664,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Mitts",
-          "Name": "Mitts",
           "Value": {
             "R": 0.249251,
             "G": 0.058757,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Lining",
-          "Name": "Lining",
           "Value": {
             "R": 0.391968,
             "G": 0.344238,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "BootSole",
-          "Name": "BootSole",
           "Value": {
             "R": 0.033818,
             "G": 0.026476,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "BootLeather",
-          "Name": "BootLeather",
           "Value": {
             "R": 0.249251,
             "G": 0.058757,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Snow",
-          "Name": "Snow",
           "Value": {
             "R": 0.947917,
             "G": 0.256727,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.90625,
             "G": 0.193522,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.317708,
             "G": 0.033095,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Tongue",
-          "Name": "Tongue",
           "Value": {
             "R": 0.8125,
             "G": 0.055013,

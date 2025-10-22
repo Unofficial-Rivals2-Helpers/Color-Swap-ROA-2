@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Node",
-          "Name": "Node",
           "Value": {
             "R": 0.022,
             "G": 0.022,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.258183,
             "G": 0.155815,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.443,
             "G": 0.350933,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Back",
-          "Name": "Back",
           "Value": {
             "R": 0.107,
             "G": 0.060214,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Stripes",
-          "Name": "Stripes",
           "Value": {
             "R": 0.035,
             "G": 0.025745,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.086,
             "G": 0.026531,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "CStripes",
-          "Name": "CStripes",
           "Value": {
             "R": 0.019,
             "G": 0.006816,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Bone",
-          "Name": "Bone",
           "Value": {
             "R": 0.300544,
             "G": 0.181164,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Clothing",
-          "Name": "Clothing",
           "Value": {
             "R": 0.051269,
             "G": 0.028426,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.043735,
             "G": 0.045186,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Blade",
-          "Name": "Blade",
           "Value": {
             "R": 0.346704,
             "G": 0.307214,

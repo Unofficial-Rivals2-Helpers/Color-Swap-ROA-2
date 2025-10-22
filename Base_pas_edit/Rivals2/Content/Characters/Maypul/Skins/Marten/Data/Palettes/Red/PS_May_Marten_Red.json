@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Pal",
-          "Name": "Pal",
           "Value": {
             "R": 0.432292,
             "G": 0.027018,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "PVine",
-          "Name": "PVine",
           "Value": {
             "R": 0.055,
             "G": 0.03647,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Vine2",
-          "Name": "Vine2",
           "Value": {
             "R": 0.128,
             "G": 0.079182,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Leaf",
-          "Name": "Leaf",
           "Value": {
             "R": 0.930111,
             "G": 0.427778,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Vine",
-          "Name": "Vine",
           "Value": {
             "R": 0.140625,
             "G": 0.060876,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.432292,
             "G": 0.027018,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.932,
             "G": 0.611949,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.145833,
             "G": 0.015191,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.03125,
             "G": 0.01123,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.010205,
             "G": 0.006836,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.364583,
             "G": 0.216471,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.65625,
             "G": 0.307617,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Scelera",
-          "Name": "Scelera",
           "Value": {
             "R": 0.5,
             "G": 0.436478,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Poppy",
-          "Name": "Poppy",
           "Value": {
             "R": 0.789931,
             "G": 0.74139,

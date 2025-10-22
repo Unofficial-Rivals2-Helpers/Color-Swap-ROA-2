@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Rubber",
-          "Name": "Rubber",
           "Value": {
             "R": 0.088542,
             "G": 0.029053,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.84375,
             "G": 0.84375,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Shell",
-          "Name": "Shell",
           "Value": {
             "R": 0.557292,
             "G": 0.025252,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Inner Metal",
-          "Name": "Inner Metal",
           "Value": {
             "R": 0.041667,
             "G": 0.041667,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.0,
             "G": 0.055659,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Shell Accent",
-          "Name": "Shell Accent",
           "Value": {
             "R": 0.692708,
             "G": 0.193226,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Eye Glow",
-          "Name": "Eye Glow",
           "Value": {
             "R": 0.015996,
             "G": 0.287441,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.087728,
             "G": 0.056966,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "CapeTrim",
-          "Name": "CapeTrim",
           "Value": {
             "R": 0.651042,
             "G": 0.651042,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Accent",
-          "Name": "Accent",
           "Value": {
             "R": 0.723958,
             "G": 0.135742,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "ClothingTrim",
-          "Name": "ClothingTrim",
           "Value": {
             "R": 0.089518,
             "G": 0.6875,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Clothing",
-          "Name": "Clothing",
           "Value": {
             "R": 0.040256,
             "G": 0.244988,

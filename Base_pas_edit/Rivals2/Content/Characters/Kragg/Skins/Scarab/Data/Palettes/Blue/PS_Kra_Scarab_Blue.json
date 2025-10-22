@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.020289,
             "G": 0.152926,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Gold",
-          "Name": "Gold",
           "Value": {
             "R": 0.009625,
             "G": 0.012062,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Shell",
-          "Name": "Shell",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Paint",
-          "Name": "Paint",
           "Value": {
             "R": 0.0,
             "G": 0.124772,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Gem",
-          "Name": "Gem",
           "Value": {
             "R": 0.008023,
             "G": 0.783538,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.053385,
             "G": 0.854167,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.0727,
             "G": 0.697917,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Stone",
-          "Name": "Stone",
           "Value": {
             "R": 0.0118,
             "G": 0.014852,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.03125,
             "G": 0.008626,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.086952,
             "G": 0.093059,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.19,
             "G": 0.08474,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Scars",
-          "Name": "Scars",
           "Value": {
             "R": 0.78125,
             "G": 0.364176,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "PawPads",
-          "Name": "PawPads",
           "Value": {
             "R": 0.19,
             "G": 0.08474,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "InnerEars",
-          "Name": "InnerEars",
           "Value": {
             "R": 0.337164,
             "G": 0.165132,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Wraps",
-          "Name": "Wraps",
           "Value": {
             "R": 0.243797,
             "G": 0.338542,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "RightIris",
-          "Name": "RightIris",
           "Value": {
             "R": 0.0,
             "G": 0.689,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "LeftIris",
-          "Name": "LeftIris",
           "Value": {
             "R": 0.0,
             "G": 0.689,
