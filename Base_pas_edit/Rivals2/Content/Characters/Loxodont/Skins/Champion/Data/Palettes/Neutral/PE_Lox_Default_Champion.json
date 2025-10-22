@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Lox_Default_Champion_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Lox_Default_Champion_C'Default__PE_Lox_Default_Champion_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Loxodont/Skins/Champion/Data/Palettes/Neutral/PE_Lox_Default_Champion.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Lox_Default_Champion_C",
+    "Name": "Default__PE_Lox_Default_Champion_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Loxodont/Skins/Champion/Data/Palettes/Neutral/PE_Lox_Default_Champion.PE_Lox_Default_Champion_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.101042,
+            "G": 0.101042,
+            "B": 0.101042,
+            "A": 1.0,
+            "Hex": "595959"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.009134,
+            "G": 0.026241,
+            "B": 0.022174,
+            "A": 1.0,
+            "Hex": "182D29"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.022174,
+            "G": 0.057805,
+            "B": 0.049707,
+            "A": 1.0,
+            "Hex": "29443F"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.208637,
+            "G": 0.366253,
+            "B": 0.332452,
+            "A": 1.0,
+            "Hex": "7EA39C"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.417885,
+            "G": 0.715693,
+            "B": 0.637597,
+            "A": 1.0,
+            "Hex": "ADDCD1"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

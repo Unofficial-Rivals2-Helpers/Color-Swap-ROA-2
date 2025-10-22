@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.082283,
             "G": 0.068478,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.814847,
             "G": 0.64448,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.038204,
             "G": 0.025187,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Paws",
-          "Name": "Paws",
           "Value": {
             "R": 0.008,
             "G": 0.007432,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.136,
             "G": 0.072606,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.06219,
             "G": 0.04224,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Shirt2",
-          "Name": "Shirt2",
           "Value": {
             "R": 0.355253,
             "G": 0.331608,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Belts",
-          "Name": "Belts",
           "Value": {
             "R": 0.136,
             "G": 0.044381,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.330085,
             "G": 0.302088,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "CapeTrim",
-          "Name": "CapeTrim",
           "Value": {
             "R": 0.06219,
             "G": 0.04224,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "BowWraps",
-          "Name": "BowWraps",
           "Value": {
             "R": 0.326389,
             "G": 0.233756,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "BowGem",
-          "Name": "BowGem",
           "Value": {
             "R": 0.679542,
             "G": 0.017642,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Wood",
-          "Name": "Wood",
           "Value": {
             "R": 0.332452,
             "G": 0.102242,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Bow",
-          "Name": "Bow",
           "Value": {
             "R": 0.06219,
             "G": 0.04224,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "BowMetal",
-          "Name": "BowMetal",
           "Value": {
             "R": 0.223723,
             "G": 0.209548,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.002355,
             "G": 0.440177,

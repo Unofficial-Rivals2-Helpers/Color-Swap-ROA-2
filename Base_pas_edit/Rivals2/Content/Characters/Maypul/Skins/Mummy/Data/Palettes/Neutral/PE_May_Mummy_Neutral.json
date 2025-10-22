@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_May_Mummy_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_May_Mummy_Neutral_C'Default__PE_May_Mummy_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Maypul/Skins/Mummy/Data/Palettes/Neutral/PE_May_Mummy_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_May_Mummy_Neutral_C",
+    "Name": "Default__PE_May_Mummy_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/Mummy/Data/Palettes/Neutral/PE_May_Mummy_Neutral.PE_May_Mummy_Neutral_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.104,
+            "G": 0.042328,
+            "B": 0.042328,
+            "A": 1.0,
+            "Hex": "5B3A3A"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.138432,
+            "G": 0.095307,
+            "B": 0.084376,
+            "A": 1.0,
+            "Hex": "685752"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.097587,
+            "G": 0.068478,
+            "B": 0.102242,
+            "A": 1.0,
+            "Hex": "584A5A"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.254298,
+            "G": 0.19988,
+            "B": 0.263,
+            "A": 1.0,
+            "Hex": "8A7C8C"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.456411,
+            "G": 0.417885,
+            "B": 0.346704,
+            "A": 1.0,
+            "Hex": "B4AD9F"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.783538,
+            "G": 0.48515,
+            "B": 0.144128,
+            "A": 1.0,
+            "Hex": "E5B96A"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 0.783538,
+            "G": 0.783538,
+            "B": 0.783538,
+            "A": 1.0,
+            "Hex": "E5E5E5"
+          }
+        }
+      ]
+    }
+  }
+]

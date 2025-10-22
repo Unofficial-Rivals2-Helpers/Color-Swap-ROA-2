@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.5,
             "G": 0.490292,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Tusks",
-          "Name": "Tusks",
           "Value": {
             "R": 0.608,
             "G": 0.608,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pole",
-          "Name": "Pole",
           "Value": {
             "R": 0.391572,
             "G": 0.005605,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Axe Head",
-          "Name": "Axe Head",
           "Value": {
             "R": 0.023153,
             "G": 0.238398,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Bow",
-          "Name": "Bow",
           "Value": {
             "R": 0.64448,
             "G": 0.296138,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.610496,
             "G": 0.610496,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.017642,
             "G": 0.165132,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.647,
             "G": 0.297469,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.391572,
             "G": 0.005605,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "ClothTrim",
-          "Name": "ClothTrim",
           "Value": {
             "R": 0.017642,
             "G": 0.165132,

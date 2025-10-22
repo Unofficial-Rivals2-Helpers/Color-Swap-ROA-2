@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Honey",
-          "Name": "Honey",
           "Value": {
             "R": 0.021635,
             "G": 0.439,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.219526,
             "G": 0.048172,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.955973,
             "G": 0.127438,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Hive",
-          "Name": "Hive",
           "Value": {
             "R": 0.955973,
             "G": 0.127438,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "AntenaTip",
-          "Name": "AntenaTip",
           "Value": {
             "R": 0.082818,
             "G": 0.642,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "AntenaStem",
-          "Name": "AntenaStem",
           "Value": {
             "R": 0.036458,
             "G": 0.023089,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Wings",
-          "Name": "Wings",
           "Value": {
             "R": 0.546604,
             "G": 0.620542,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.267591,
             "G": 0.573,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.015625,
             "G": 0.00816,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.00651,
             "G": 0.052083,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Scars",
-          "Name": "Scars",
           "Value": {
             "R": 0.215287,
             "G": 0.461,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "PawPads",
-          "Name": "PawPads",
           "Value": {
             "R": 0.032227,
             "G": 0.140625,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "InnerEars",
-          "Name": "InnerEars",
           "Value": {
             "R": 0.067708,
             "G": 0.01728,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "RightIris",
-          "Name": "RightIris",
           "Value": {
             "R": 0.955973,
             "G": 0.127438,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "LeftIris",
-          "Name": "LeftIris",
           "Value": {
             "R": 0.955973,
             "G": 0.127438,

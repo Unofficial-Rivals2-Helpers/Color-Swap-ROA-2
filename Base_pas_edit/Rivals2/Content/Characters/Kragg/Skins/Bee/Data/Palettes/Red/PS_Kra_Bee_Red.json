@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.104167,
             "G": 0.007595,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Shell",
-          "Name": "Shell",
           "Value": {
             "R": 0.755208,
             "G": 0.314277,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Spikes",
-          "Name": "Spikes",
           "Value": {
             "R": 0.442708,
             "G": 0.438481,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.23,
             "G": 0.0621,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.182292,
             "G": 0.063082,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Rock",
-          "Name": "Rock",
           "Value": {
             "R": 0.104167,
             "G": 0.007595,

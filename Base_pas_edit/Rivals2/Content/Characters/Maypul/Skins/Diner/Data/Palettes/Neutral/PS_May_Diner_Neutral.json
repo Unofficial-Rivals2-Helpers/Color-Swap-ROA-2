@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Shirt Accent",
-          "Name": "Shirt Accent",
           "Value": {
             "R": 0.47932,
             "G": 0.033105,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.005605,
             "G": 0.116971,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Shirt Collar",
-          "Name": "Shirt Collar",
           "Value": {
             "R": 0.730461,
             "G": 0.730461,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Buttons",
-          "Name": "Buttons",
           "Value": {
             "R": 0.47932,
             "G": 0.033105,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Apron",
-          "Name": "Apron",
           "Value": {
             "R": 0.47932,
             "G": 0.033105,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Notepad",
-          "Name": "Notepad",
           "Value": {
             "R": 0.730461,
             "G": 0.730461,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Pencil",
-          "Name": "Pencil",
           "Value": {
             "R": 0.701102,
             "G": 0.351533,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.015209,
             "G": 0.030713,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Shoe",
-          "Name": "Shoe",
           "Value": {
             "R": 0.814847,
             "G": 0.814847,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Shoe Accent",
-          "Name": "Shoe Accent",
           "Value": {
             "R": 0.47932,
             "G": 0.033105,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.111932,
             "G": 0.064803,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Headband",
-          "Name": "Headband",
           "Value": {
             "R": 0.871367,
             "G": 0.863157,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Bacon Grease",
-          "Name": "Bacon Grease",
           "Value": {
             "R": 0.822786,
             "G": 0.187821,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Waffle",
-          "Name": "Waffle",
           "Value": {
             "R": 0.708376,
             "G": 0.381326,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Syrup",
-          "Name": "Syrup",
           "Value": {
             "R": 0.287441,
             "G": 0.038204,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Butter",
-          "Name": "Butter",
           "Value": {
             "R": 0.921582,
             "G": 0.630757,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Cutlery",
-          "Name": "Cutlery",
           "Value": {
             "R": 0.274677,
             "G": 0.266356,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Bacon",
-          "Name": "Bacon",
           "Value": {
             "R": 0.3564,
             "G": 0.049707,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "Wristbands",
-          "Name": "Wristbands",
           "Value": {
             "R": 0.822786,
             "G": 0.822786,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.693872,
             "G": 0.23074,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.111932,
             "G": 0.064803,
@@ -263,7 +242,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.822786,
             "G": 0.381326,
@@ -274,7 +252,6 @@
         },
         {
           "Key": "Egg",
-          "Name": "Egg",
           "Value": {
             "R": 0.529514,
             "G": 0.529514,

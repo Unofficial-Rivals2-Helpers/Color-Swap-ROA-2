@@ -1,0 +1,206 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Gal_Halloween_Green_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Gal_Halloween_Green_C'Default__PS_Gal_Halloween_Green_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Halloween/Data/Palettes/Green/PS_Gal_Halloween_Green.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Gal_Halloween_Green_C",
+    "Name": "Default__PS_Gal_Halloween_Green_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Halloween/Data/Palettes/Green/PS_Gal_Halloween_Green.PS_Gal_Halloween_Green_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Plates",
+          "Value": {
+            "R": 0.0,
+            "G": 0.148,
+            "B": 0.041933,
+            "A": 1.0,
+            "Hex": "006B39"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.122688,
+            "G": 0.328,
+            "B": 0.012135,
+            "A": 1.0,
+            "Hex": "629B1C"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.453274,
+            "G": 0.470486,
+            "B": 0.263943,
+            "A": 1.0,
+            "Hex": "B4B78C"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.004358,
+            "G": 0.05448,
+            "B": 0.041114,
+            "A": 1.0,
+            "Hex": "0D4239"
+          }
+        },
+        {
+          "Key": "Plastic",
+          "Value": {
+            "R": 0.015345,
+            "G": 0.495,
+            "B": 0.279155,
+            "A": 1.0,
+            "Hex": "21BB90"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.55834,
+            "G": 0.552011,
+            "B": 0.564712,
+            "A": 1.0,
+            "Hex": "C5C4C6"
+          }
+        },
+        {
+          "Key": "Candy1",
+          "Value": {
+            "R": 0.0,
+            "G": 0.148,
+            "B": 0.034533,
+            "A": 1.0,
+            "Hex": "006B34"
+          }
+        },
+        {
+          "Key": "Trim",
+          "Value": {
+            "R": 0.034,
+            "G": 0.031077,
+            "B": 0.0289,
+            "A": 1.0,
+            "Hex": "33312F"
+          }
+        },
+        {
+          "Key": "Candy2",
+          "Value": {
+            "R": 0.263203,
+            "G": 0.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "8C00FF"
+          }
+        },
+        {
+          "Key": "Candy3",
+          "Value": {
+            "R": 1.0,
+            "G": 0.987306,
+            "B": 0.933582,
+            "A": 1.0,
+            "Hex": "FFFEF8"
+          }
+        },
+        {
+          "Key": "Skin",
+          "Value": {
+            "R": 0.013889,
+            "G": 0.013889,
+            "B": 0.013889,
+            "A": 1.0,
+            "Hex": "1F1F1F"
+          }
+        },
+        {
+          "Key": "Bones",
+          "Value": {
+            "R": 0.351161,
+            "G": 0.511,
+            "B": 0.111398,
+            "A": 1.0,
+            "Hex": "A0BE5E"
+          }
+        },
+        {
+          "Key": "Black",
+          "Value": {
+            "R": 0.013889,
+            "G": 0.013889,
+            "B": 0.013889,
+            "A": 1.0,
+            "Hex": "1F1F1F"
+          }
+        },
+        {
+          "Key": "Gum",
+          "Value": {
+            "R": 0.527115,
+            "G": 0.05448,
+            "B": 0.104616,
+            "A": 1.0,
+            "Hex": "C0425B"
+          }
+        },
+        {
+          "Key": "Candy4",
+          "Value": {
+            "R": 0.587,
+            "G": 0.029937,
+            "B": 0.029937,
+            "A": 1.0,
+            "Hex": "CA3030"
+          }
+        },
+        {
+          "Key": "Candy5",
+          "Value": {
+            "R": 0.011129,
+            "G": 0.359,
+            "B": 0.022725,
+            "A": 1.0,
+            "Hex": "1BA229"
+          }
+        },
+        {
+          "Key": "Stripes",
+          "Value": {
+            "R": 0.815677,
+            "G": 0.916667,
+            "B": 0.814815,
+            "A": 1.0,
+            "Hex": "EAF6E9"
+          }
+        }
+      ]
+    }
+  }
+]

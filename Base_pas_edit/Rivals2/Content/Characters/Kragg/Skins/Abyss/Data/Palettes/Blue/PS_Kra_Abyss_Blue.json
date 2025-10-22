@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.174647,
             "G": 0.246795,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Chest",
-          "Name": "Chest",
           "Value": {
             "R": 0.070519,
             "G": 0.234638,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Shell",
-          "Name": "Shell",
           "Value": {
             "R": 0.061246,
             "G": 0.061246,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Spikes",
-          "Name": "Spikes",
           "Value": {
             "R": 0.063,
             "G": 0.2504,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 0.0,
             "G": 0.708376,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Iris",
-          "Name": "Iris",
           "Value": {
             "R": 0.0,
             "G": 0.252833,

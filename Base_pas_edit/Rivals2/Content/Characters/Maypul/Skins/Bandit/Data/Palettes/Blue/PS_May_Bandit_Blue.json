@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.125058,
             "G": 0.112439,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.648,
             "G": 0.8592,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Hat and Gloves",
-          "Name": "Hat and Gloves",
           "Value": {
             "R": 0.0418,
             "G": 0.20938,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Bling",
-          "Name": "Bling",
           "Value": {
             "R": 0.705,
             "G": 0.54974,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Weapon Blade",
-          "Name": "Weapon Blade",
           "Value": {
             "R": 0.067943,
             "G": 0.08783,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Weapon Trim",
-          "Name": "Weapon Trim",
           "Value": {
             "R": 0.618,
             "G": 0.479306,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Weapon Wood",
-          "Name": "Weapon Wood",
           "Value": {
             "R": 0.198069,
             "G": 0.093059,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.061219,
             "G": 0.046688,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.23,
             "G": 0.22123,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.018949,
             "G": 0.012983,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "TerryBandit",
-          "Name": "TerryBandit",
           "Value": {
             "R": 0.0,
             "G": 0.049653,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "LilyBandit",
-          "Name": "LilyBandit",
           "Value": {
             "R": 0.044034,
             "G": 0.060061,
@@ -163,14 +151,43 @@
           }
         },
         {
+          "Key": "Poppy",
+          "Value": {
+            "R": 0.789931,
+            "G": 0.74139,
+            "B": 0.647701,
+            "A": 1.0,
+            "Hex": "E6E0D3"
+          }
+        },
+        {
           "Key": "Chain",
-          "Name": "Chain",
           "Value": {
             "R": 0.164627,
             "G": 0.17347,
             "B": 0.2,
             "A": 1.0,
             "Hex": "71747C"
+          }
+        },
+        {
+          "Key": "Pal",
+          "Value": {
+            "R": 0.162489,
+            "G": 0.752036,
+            "B": 0.765625,
+            "A": 1.0,
+            "Hex": "70E1E3"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.174282,
+            "G": 0.937,
+            "B": 0.301402,
+            "A": 1.0,
+            "Hex": "74F895"
           }
         }
       ]

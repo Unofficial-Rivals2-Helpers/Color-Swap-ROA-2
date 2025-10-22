@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.484375,
             "G": 0.428202,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Stripes",
-          "Name": "Stripes",
           "Value": {
             "R": 0.026042,
             "G": 0.017903,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Axe Blade",
-          "Name": "Axe Blade",
           "Value": {
             "R": 0.838799,
             "G": 0.854993,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Axe Head",
-          "Name": "Axe Head",
           "Value": {
             "R": 0.049487,
             "G": 0.029557,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.5625,
             "G": 0.320236,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Axe Wraps",
-          "Name": "Axe Wraps",
           "Value": {
             "R": 0.09694,
             "G": 0.083008,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.064803,
             "G": 0.031896,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.052083,
             "G": 0.029568,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "ClothTrim",
-          "Name": "ClothTrim",
           "Value": {
             "R": 0.087683,
             "G": 0.018799,

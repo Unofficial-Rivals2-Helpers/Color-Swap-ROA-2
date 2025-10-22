@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.018,
             "G": 0.005238,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.696,
             "G": 0.160776,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Paws",
-          "Name": "Paws",
           "Value": {
             "R": 0.128,
             "G": 0.038656,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Leaf",
-          "Name": "Leaf",
           "Value": {
             "R": 0.404,
             "G": 0.033936,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Vine",
-          "Name": "Vine",
           "Value": {
             "R": 0.48515,
             "G": 0.155926,

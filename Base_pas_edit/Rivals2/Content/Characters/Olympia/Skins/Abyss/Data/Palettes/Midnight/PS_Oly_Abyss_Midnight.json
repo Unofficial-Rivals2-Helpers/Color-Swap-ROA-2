@@ -1,0 +1,176 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Oly_Abyss_Midnight_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Oly_Abyss_Midnight_C'Default__PS_Oly_Abyss_Midnight_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Olympia/Skins/Abyss/Data/Palettes/Midnight/PS_Oly_Abyss_Midnight.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Oly_Abyss_Midnight_C",
+    "Name": "Default__PS_Oly_Abyss_Midnight_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Olympia/Skins/Abyss/Data/Palettes/Midnight/PS_Oly_Abyss_Midnight.PS_Oly_Abyss_Midnight_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.27048,
+            "G": 0.310987,
+            "B": 0.392,
+            "A": 1.0,
+            "Hex": "8E97A8"
+          }
+        },
+        {
+          "Key": "Tail",
+          "Value": {
+            "R": 0.084136,
+            "G": 0.074072,
+            "B": 0.376,
+            "A": 1.0,
+            "Hex": "524DA5"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.148482,
+            "G": 0.251994,
+            "B": 0.657,
+            "A": 1.0,
+            "Hex": "6B89D4"
+          }
+        },
+        {
+          "Key": "Paws",
+          "Value": {
+            "R": 0.046782,
+            "G": 0.079395,
+            "B": 0.207,
+            "A": 1.0,
+            "Hex": "3D4F7E"
+          }
+        },
+        {
+          "Key": "Bandage",
+          "Value": {
+            "R": 0.069,
+            "G": 0.030153,
+            "B": 0.032241,
+            "A": 1.0,
+            "Hex": "4A3032"
+          }
+        },
+        {
+          "Key": "Cloth",
+          "Value": {
+            "R": 0.010191,
+            "G": 0.014286,
+            "B": 0.043,
+            "A": 1.0,
+            "Hex": "191F3A"
+          }
+        },
+        {
+          "Key": "Top",
+          "Value": {
+            "R": 0.010191,
+            "G": 0.014286,
+            "B": 0.043,
+            "A": 1.0,
+            "Hex": "191F3A"
+          }
+        },
+        {
+          "Key": "Belt",
+          "Value": {
+            "R": 0.069,
+            "G": 0.030153,
+            "B": 0.032241,
+            "A": 1.0,
+            "Hex": "4A3032"
+          }
+        },
+        {
+          "Key": "GloveLeft",
+          "Value": {
+            "R": 0.115,
+            "G": 0.01702,
+            "B": 0.018653,
+            "A": 1.0,
+            "Hex": "5F2325"
+          }
+        },
+        {
+          "Key": "GloveLeftAccent",
+          "Value": {
+            "R": 0.367,
+            "G": 0.048444,
+            "B": 0.117464,
+            "A": 1.0,
+            "Hex": "A33E60"
+          }
+        },
+        {
+          "Key": "GloveRight",
+          "Value": {
+            "R": 0.115,
+            "G": 0.012658,
+            "B": 0.019737,
+            "A": 1.0,
+            "Hex": "5F1D26"
+          }
+        },
+        {
+          "Key": "GloveRightAccent",
+          "Value": {
+            "R": 0.367,
+            "G": 0.048444,
+            "B": 0.117464,
+            "A": 1.0,
+            "Hex": "A33E60"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.001,
+            "G": 0.000743,
+            "B": 0.000207,
+            "A": 1.0,
+            "Hex": "030200"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.913,
+            "G": 0.044737,
+            "B": 0.060147,
+            "A": 1.0,
+            "Hex": "F53B45"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Shoulder",
-          "Name": "Shoulder",
           "Value": {
             "R": 0.351533,
             "G": 0.009134,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.814847,
             "G": 0.366253,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "EmissiveBase",
-          "Name": "EmissiveBase",
           "Value": {
             "R": 0.0,
             "G": 0.020289,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.205079,
             "G": 0.205079,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.048172,
             "G": 0.048172,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Rubber",
-          "Name": "Rubber",
           "Value": {
             "R": 0.011612,
             "G": 0.011612,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Emissive",
-          "Name": "Emissive",
           "Value": {
             "R": 0.014636,
             "G": 0.25707,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "SwordMetal",
-          "Name": "SwordMetal",
           "Value": {
             "R": 0.814847,
             "G": 0.366253,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "SwordTrim",
-          "Name": "SwordTrim",
           "Value": {
             "R": 0.205079,
             "G": 0.205079,

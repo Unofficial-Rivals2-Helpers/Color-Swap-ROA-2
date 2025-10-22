@@ -1,0 +1,236 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Oly_Default_Orange_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Oly_Default_Orange_C'Default__PS_Oly_Default_Orange_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Olympia/Skins/Default/Data/Palettes/Orange/PS_Oly_Default_Orange.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Oly_Default_Orange_C",
+    "Name": "Default__PS_Oly_Default_Orange_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Olympia/Skins/Default/Data/Palettes/Orange/PS_Oly_Default_Orange.PS_Oly_Default_Orange_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.098658,
+            "G": 0.189,
+            "B": 0.130278,
+            "A": 1.0,
+            "Hex": "587865"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.408,
+            "G": 0.154632,
+            "B": 0.267148,
+            "A": 1.0,
+            "Hex": "AB6D8D"
+          }
+        },
+        {
+          "Key": "Paws",
+          "Value": {
+            "R": 0.408,
+            "G": 0.154632,
+            "B": 0.267148,
+            "A": 1.0,
+            "Hex": "AB6D8D"
+          }
+        },
+        {
+          "Key": "Nose",
+          "Value": {
+            "R": 0.015996,
+            "G": 0.011612,
+            "B": 0.012286,
+            "A": 1.0,
+            "Hex": "221C1D"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.015996,
+            "G": 0.011612,
+            "B": 0.012286,
+            "A": 1.0,
+            "Hex": "221C1D"
+          }
+        },
+        {
+          "Key": "Tail",
+          "Value": {
+            "R": 0.408,
+            "G": 0.154632,
+            "B": 0.267148,
+            "A": 1.0,
+            "Hex": "AB6D8D"
+          }
+        },
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 0.098658,
+            "G": 0.189,
+            "B": 0.130278,
+            "A": 1.0,
+            "Hex": "587865"
+          }
+        },
+        {
+          "Key": "Earhair",
+          "Value": {
+            "R": 0.098658,
+            "G": 0.189,
+            "B": 0.130278,
+            "A": 1.0,
+            "Hex": "587865"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.615,
+            "G": 0.528285,
+            "B": 0.528285,
+            "A": 1.0,
+            "Hex": "CEC0C0"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.425347,
+            "G": 0.365373,
+            "B": 0.365373,
+            "A": 1.0,
+            "Hex": "AFA3A3"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.462077,
+            "G": 0.004025,
+            "B": 0.004025,
+            "A": 1.0,
+            "Hex": "B50D0D"
+          }
+        },
+        {
+          "Key": "Eyebrows",
+          "Value": {
+            "R": 0.018792,
+            "G": 0.036,
+            "B": 0.024815,
+            "A": 1.0,
+            "Hex": "25352B"
+          }
+        },
+        {
+          "Key": "GloveLeft",
+          "Value": {
+            "R": 1.0,
+            "G": 0.124238,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF6300"
+          }
+        },
+        {
+          "Key": "GloveLeftAccent",
+          "Value": {
+            "R": 1.0,
+            "G": 0.078927,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF4F00"
+          }
+        },
+        {
+          "Key": "Cloth",
+          "Value": {
+            "R": 0.073329,
+            "G": 0.036064,
+            "B": 0.161,
+            "A": 1.0,
+            "Hex": "4C3570"
+          }
+        },
+        {
+          "Key": "Belt",
+          "Value": {
+            "R": 0.250158,
+            "G": 0.745404,
+            "B": 0.030713,
+            "A": 1.0,
+            "Hex": "89E031"
+          }
+        },
+        {
+          "Key": "Bandage",
+          "Value": {
+            "R": 0.073329,
+            "G": 0.036064,
+            "B": 0.161,
+            "A": 1.0,
+            "Hex": "4C3570"
+          }
+        },
+        {
+          "Key": "Top",
+          "Value": {
+            "R": 0.026241,
+            "G": 0.024158,
+            "B": 0.023153,
+            "A": 1.0,
+            "Hex": "2D2B2A"
+          }
+        },
+        {
+          "Key": "GloveRight",
+          "Value": {
+            "R": 1.0,
+            "G": 0.124238,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF6300"
+          }
+        },
+        {
+          "Key": "GloveRightAccent",
+          "Value": {
+            "R": 1.0,
+            "G": 0.078927,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF4F00"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Gal_Abyss_Red_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Gal_Abyss_Red_C'Default__PS_Gal_Abyss_Red_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Abyss/Data/Palettes/Red/PS_Gal_Abyss_Red.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Gal_Abyss_Red_C",
+    "Name": "Default__PS_Gal_Abyss_Red_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Abyss/Data/Palettes/Red/PS_Gal_Abyss_Red.PS_Gal_Abyss_Red_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.346,
+            "G": 0.123522,
+            "B": 0.123522,
+            "A": 1.0,
+            "Hex": "9F6262"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.038,
+            "G": 0.012502,
+            "B": 0.012502,
+            "A": 1.0,
+            "Hex": "371D1D"
+          }
+        },
+        {
+          "Key": "Shell",
+          "Value": {
+            "R": 0.051,
+            "G": 0.017544,
+            "B": 0.025351,
+            "A": 1.0,
+            "Hex": "40242C"
+          }
+        },
+        {
+          "Key": "Chest Plates",
+          "Value": {
+            "R": 0.624,
+            "G": 0.36816,
+            "B": 0.449176,
+            "A": 1.0,
+            "Hex": "CFA4B3"
+          }
+        },
+        {
+          "Key": "Armor",
+          "Value": {
+            "R": 1.0,
+            "G": 0.054,
+            "B": 0.054,
+            "A": 1.0,
+            "Hex": "FF4141"
+          }
+        },
+        {
+          "Key": "Reinforced",
+          "Value": {
+            "R": 0.226,
+            "G": 0.009944,
+            "B": 0.009944,
+            "A": 1.0,
+            "Hex": "831919"
+          }
+        },
+        {
+          "Key": "Eyeliner",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 1.0,
+            "G": 0.516917,
+            "B": 0.065,
+            "A": 1.0,
+            "Hex": "FFBF48"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.732,
+            "G": 0.072407,
+            "B": 0.012444,
+            "A": 1.0,
+            "Hex": "DF4C1D"
+          }
+        },
+        {
+          "Key": "ArmorG",
+          "Value": {
+            "R": 1.0,
+            "G": 0.054,
+            "B": 0.054,
+            "A": 1.0,
+            "Hex": "FF4141"
+          }
+        },
+        {
+          "Key": "ShellG",
+          "Value": {
+            "R": 0.226,
+            "G": 0.009944,
+            "B": 0.009944,
+            "A": 1.0,
+            "Hex": "831919"
+          }
+        },
+        {
+          "Key": "GemGlow",
+          "Value": {
+            "R": 1.0,
+            "G": 0.054,
+            "B": 0.054,
+            "A": 1.0,
+            "Hex": "FF4141"
+          }
+        }
+      ]
+    }
+  }
+]

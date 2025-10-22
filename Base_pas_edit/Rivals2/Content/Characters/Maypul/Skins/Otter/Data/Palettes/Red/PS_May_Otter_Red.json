@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Leaf",
-          "Name": "Leaf",
           "Value": {
             "R": 0.691,
             "G": 0.615543,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Vine",
-          "Name": "Vine",
           "Value": {
             "R": 0.0,
             "G": 0.141263,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Vine2",
-          "Name": "Vine2",
           "Value": {
             "R": 0.0,
             "G": 0.061246,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Shell1",
-          "Name": "Shell1",
           "Value": {
             "R": 0.67,
             "G": 0.570913,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Shell2",
-          "Name": "Shell2",
           "Value": {
             "R": 0.493,
             "G": 0.088083,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.2,
             "G": 0.042992,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.337164,
             "G": 0.304987,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.217,
             "G": 0.143708,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.2,
             "G": 0.042992,
@@ -130,8 +121,17 @@
           }
         },
         {
+          "Key": "Pebble",
+          "Value": {
+            "R": 0.03,
+            "G": 0.02316,
+            "B": 0.02316,
+            "A": 1.0,
+            "Hex": "302A2A"
+          }
+        },
+        {
           "Key": "Poppy",
-          "Name": "Poppy",
           "Value": {
             "R": 1.0,
             "G": 0.805428,

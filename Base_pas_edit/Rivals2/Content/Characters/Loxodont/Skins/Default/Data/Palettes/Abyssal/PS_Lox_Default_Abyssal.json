@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.096831,
             "G": 0.099567,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Scars",
-          "Name": "Scars",
           "Value": {
             "R": 0.125027,
             "G": 0.12856,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Tail",
-          "Name": "Tail",
           "Value": {
             "R": 0.020762,
             "G": 0.01152,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.344696,
             "G": 0.107961,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Pupil",
-          "Name": "Pupil",
           "Value": {
             "R": 1.0,
             "G": 0.516667,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Scelera",
-          "Name": "Scelera",
           "Value": {
             "R": 0.020762,
             "G": 0.01152,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Axe Blade",
-          "Name": "Axe Blade",
           "Value": {
             "R": 0.635081,
             "G": 0.027101,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Axe Head",
-          "Name": "Axe Head",
           "Value": {
             "R": 0.060593,
             "G": 0.029007,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.452,
             "G": 0.239786,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Axe Wraps",
-          "Name": "Axe Wraps",
           "Value": {
             "R": 1.0,
             "G": 0.516667,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Tusks",
-          "Name": "Tusks",
           "Value": {
             "R": 0.636135,
             "G": 0.05288,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.060593,
             "G": 0.029007,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.053852,
             "G": 0.02988,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "ClothTrim",
-          "Name": "ClothTrim",
           "Value": {
             "R": 0.01821,
             "G": 0.011804,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "ThroneStone",
-          "Name": "ThroneStone",
           "Value": {
             "R": 0.046066,
             "G": 0.02556,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "ThroneMetal",
-          "Name": "ThroneMetal",
           "Value": {
             "R": 0.452,
             "G": 0.239786,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "ThroneCloth",
-          "Name": "ThroneCloth",
           "Value": {
             "R": 0.514985,
             "G": 0.022036,

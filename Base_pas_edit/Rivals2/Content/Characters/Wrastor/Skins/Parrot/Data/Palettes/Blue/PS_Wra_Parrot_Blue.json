@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.0,
             "G": 0.145566,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.648,
             "G": 0.8944,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Wings",
-          "Name": "Wings",
           "Value": {
             "R": 0.801,
             "G": 0.044856,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Wings2",
-          "Name": "Wings2",
           "Value": {
             "R": 0.082283,
             "G": 0.552011,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Wings3",
-          "Name": "Wings3",
           "Value": {
             "R": 0.665387,
             "G": 0.346704,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Legs",
-          "Name": "Legs",
           "Value": {
             "R": 0.046665,
             "G": 0.046665,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Scarf",
-          "Name": "Scarf",
           "Value": {
             "R": 0.040608,
             "G": 0.327629,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Goggles",
-          "Name": "Goggles",
           "Value": {
             "R": 0.046665,
             "G": 0.046665,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Lens",
-          "Name": "Lens",
           "Value": {
             "R": 0.082279,
             "G": 0.0,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "LensGradient",
-          "Name": "LensGradient",
           "Value": {
             "R": 0.975,
             "G": 0.0,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "White",
-          "Name": "White",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Brows",
-          "Name": "Brows",
           "Value": {
             "R": 0.082279,
             "G": 0.0,

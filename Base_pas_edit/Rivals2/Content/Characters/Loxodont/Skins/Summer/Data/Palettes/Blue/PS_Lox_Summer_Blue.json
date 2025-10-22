@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Band",
-          "Name": "Band",
           "Value": {
             "R": 0.028,
             "G": 0.028,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.005182,
             "G": 0.571689,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.164506,
             "G": 0.018144,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Fanny",
-          "Name": "Fanny",
           "Value": {
             "R": 0.164506,
             "G": 0.018144,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Shorts",
-          "Name": "Shorts",
           "Value": {
             "R": 0.627,
             "G": 0.011469,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.7,
             "G": 0.7,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.23074,
             "G": 0.234551,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Headset",
-          "Name": "Headset",
           "Value": {
             "R": 0.028,
             "G": 0.028,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Earmuff",
-          "Name": "Earmuff",
           "Value": {
             "R": 0.084915,
             "G": 0.108392,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Padding",
-          "Name": "Padding",
           "Value": {
             "R": 0.028,
             "G": 0.028,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.127925,
             "G": 0.139201,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.190987,
             "G": 0.236001,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Tail",
-          "Name": "Tail",
           "Value": {
             "R": 0.02618,
             "G": 0.028488,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Sunscreen",
-          "Name": "Sunscreen",
           "Value": {
             "R": 0.456,
             "G": 0.456,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "BandM",
-          "Name": "BandM",
           "Value": {
             "R": 0.028,
             "G": 0.028,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "ShirtM",
-          "Name": "ShirtM",
           "Value": {
             "R": 0.00615,
             "G": 0.024037,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "PatternM",
-          "Name": "PatternM",
           "Value": {
             "R": 0.073818,
             "G": 0.013272,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "FannyM",
-          "Name": "FannyM",
           "Value": {
             "R": 0.073818,
             "G": 0.013272,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "ShortsM",
-          "Name": "ShortsM",
           "Value": {
             "R": 0.023,
             "G": 0.004117,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "TrimM",
-          "Name": "TrimM",
           "Value": {
             "R": 0.073781,
             "G": 0.075,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "MetalM",
-          "Name": "MetalM",
           "Value": {
             "R": 0.147563,
             "G": 0.15,
@@ -263,7 +242,6 @@
         },
         {
           "Key": "HeadsetM",
-          "Name": "HeadsetM",
           "Value": {
             "R": 0.028,
             "G": 0.028,
@@ -274,7 +252,6 @@
         },
         {
           "Key": "EarmuffM",
-          "Name": "EarmuffM",
           "Value": {
             "R": 0.055845,
             "G": 0.071285,
@@ -285,7 +262,6 @@
         },
         {
           "Key": "BeachBall1",
-          "Name": "BeachBall1",
           "Value": {
             "R": 0.306934,
             "G": 0.096,
@@ -296,7 +272,6 @@
         },
         {
           "Key": "BeachballMain",
-          "Name": "BeachballMain",
           "Value": {
             "R": 0.582797,
             "G": 0.585069,
@@ -307,7 +282,6 @@
         },
         {
           "Key": "Beachball2",
-          "Name": "Beachball2",
           "Value": {
             "R": 0.0,
             "G": 0.609016,
@@ -318,7 +292,6 @@
         },
         {
           "Key": "Beachball3",
-          "Name": "Beachball3",
           "Value": {
             "R": 0.008868,
             "G": 0.021037,
@@ -329,7 +302,6 @@
         },
         {
           "Key": "Sand",
-          "Name": "Sand",
           "Value": {
             "R": 0.134489,
             "G": 0.189591,
@@ -340,7 +312,6 @@
         },
         {
           "Key": "Tusks",
-          "Name": "Tusks",
           "Value": {
             "R": 0.338513,
             "G": 0.418296,

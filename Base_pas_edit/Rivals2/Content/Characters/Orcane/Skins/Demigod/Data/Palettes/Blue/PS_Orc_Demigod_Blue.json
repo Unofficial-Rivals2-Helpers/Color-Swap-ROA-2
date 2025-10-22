@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.043268,
             "G": 0.017904,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.254313,
             "G": 0.591533,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Shell",
-          "Name": "Shell",
           "Value": {
             "R": 0.567708,
             "G": 0.465501,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Claws",
-          "Name": "Claws",
           "Value": {
             "R": 0.84375,
             "G": 0.796532,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Tattoos",
-          "Name": "Tattoos",
           "Value": {
             "R": 0.041667,
             "G": 1.0,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 0.911458,
             "G": 0.992621,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Eyeliner",
-          "Name": "Eyeliner",
           "Value": {
             "R": 0.011458,
             "G": 0.011458,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Armor",
-          "Name": "Armor",
           "Value": {
             "R": 0.337164,
             "G": 0.201556,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Tape",
-          "Name": "Tape",
           "Value": {
             "R": 0.796447,
             "G": 0.837,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Marker",
-          "Name": "Marker",
           "Value": {
             "R": 0.502886,
             "G": 0.022174,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Jeans",
-          "Name": "Jeans",
           "Value": {
             "R": 0.030713,
             "G": 0.052861,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Jersey",
-          "Name": "Jersey",
           "Value": {
             "R": 0.104616,
             "G": 0.007499,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Trim1",
-          "Name": "Trim1",
           "Value": {
             "R": 0.502886,
             "G": 0.022174,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Trim2",
-          "Name": "Trim2",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.033,
             "G": 0.029979,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.450786,
             "G": 0.020289,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.020289,
             "G": 0.017642,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.492,
             "G": 0.492,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Under",
-          "Name": "Under",
           "Value": {
             "R": 0.027946,
             "G": 0.010901,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.002,
             "G": 0.001003,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Sheen",
-          "Name": "Sheen",
           "Value": {
             "R": 0.492,
             "G": 0.492,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Hair2",
-          "Name": "Hair2",
           "Value": {
             "R": 0.01,
             "G": 0.00086,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Outline",
-          "Name": "Outline",
           "Value": {
             "R": 0.450786,
             "G": 0.020289,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Shoes",
-          "Name": "Shoes",
           "Value": {
             "R": 0.501961,
             "G": 0.501961,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Beans",
-          "Name": "Beans",
           "Value": {
             "R": 1.0,
             "G": 0.445312,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.552083,
             "G": 0.180228,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "InnerEar",
-          "Name": "InnerEar",
           "Value": {
             "R": 1.0,
             "G": 0.445312,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.015996,
             "G": 0.011612,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.067708,
             "G": 0.013048,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Spots",
-          "Name": "Spots",
           "Value": {
             "R": 0.135417,
             "G": 0.005642,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.552083,
             "G": 0.180228,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.046875,
             "G": 0.00656,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 1.0,
             "G": 0.445312,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Bandage",
-          "Name": "Bandage",
           "Value": {
             "R": 1.0,
             "G": 0.445312,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Top",
-          "Name": "Top",
           "Value": {
             "R": 0.057292,
             "G": 0.017307,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 1.0,
             "G": 0.010417,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Eyebrows",
-          "Name": "Eyebrows",
           "Value": {
             "R": 0.067708,
             "G": 0.013048,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "GloveRight",
-          "Name": "GloveRight",
           "Value": {
             "R": 0.588542,
             "G": 0.018392,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "GloveRightAccent",
-          "Name": "GloveRightAccent",
           "Value": {
             "R": 0.505208,
             "G": 0.00101,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "GloveLeft",
-          "Name": "GloveLeft",
           "Value": {
             "R": 0.588542,
             "G": 0.018392,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "GloveLeftAccent",
-          "Name": "GloveLeftAccent",
           "Value": {
             "R": 0.505208,
             "G": 0.00101,

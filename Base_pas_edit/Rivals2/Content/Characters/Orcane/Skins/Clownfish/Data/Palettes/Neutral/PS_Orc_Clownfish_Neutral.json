@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 1.0,
             "G": 0.124241,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Stripe",
-          "Name": "Stripe",
           "Value": {
             "R": 0.895833,
             "G": 0.844073,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.005208,
             "G": 0.004086,

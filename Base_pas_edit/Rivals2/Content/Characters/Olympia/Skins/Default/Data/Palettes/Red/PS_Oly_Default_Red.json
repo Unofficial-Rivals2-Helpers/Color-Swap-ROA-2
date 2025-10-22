@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.484375,
             "G": 0.27902,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.783538,
             "G": 0.304987,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Paws",
-          "Name": "Paws",
           "Value": {
             "R": 0.783538,
             "G": 0.304987,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.015996,
             "G": 0.011612,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.015996,
             "G": 0.011612,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Tail",
-          "Name": "Tail",
           "Value": {
             "R": 0.783538,
             "G": 0.304987,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.450786,
             "G": 0.291771,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Earhair",
-          "Name": "Earhair",
           "Value": {
             "R": 0.450786,
             "G": 0.291771,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 0.615,
             "G": 0.528285,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "ScleraShading",
-          "Name": "ScleraShading",
           "Value": {
             "R": 0.425347,
             "G": 0.365373,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.030961,
             "G": 0.017361,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Eyebrows",
-          "Name": "Eyebrows",
           "Value": {
             "R": 0.03125,
             "G": 0.019368,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "GloveLeft",
-          "Name": "GloveLeft",
           "Value": {
             "R": 1.0,
             "G": 0.571796,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "GloveLeftAccent",
-          "Name": "GloveLeftAccent",
           "Value": {
             "R": 0.913726,
             "G": 0.231373,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.484375,
             "G": 0.010091,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.020833,
             "G": 0.020833,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Bandage",
-          "Name": "Bandage",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Top",
-          "Name": "Top",
           "Value": {
             "R": 0.026241,
             "G": 0.026241,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "GloveRight",
-          "Name": "GloveRight",
           "Value": {
             "R": 1.0,
             "G": 0.571796,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "GloveRightAccent",
-          "Name": "GloveRightAccent",
           "Value": {
             "R": 0.913099,
             "G": 0.23074,

@@ -1,0 +1,156 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Zet_Panther_Yellow_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Zet_Panther_Yellow_C'Default__PS_Zet_Panther_Yellow_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Zetterburn/Skins/Panther/Data/Palettes/Yellow/PS_Zet_Panther_Yellow.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Zet_Panther_Yellow_C",
+    "Name": "Default__PS_Zet_Panther_Yellow_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Zetterburn/Skins/Panther/Data/Palettes/Yellow/PS_Zet_Panther_Yellow.PS_Zet_Panther_Yellow_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.01096,
+            "G": 0.006995,
+            "B": 0.004777,
+            "A": 1.0,
+            "Hex": "1B140F"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.719,
+            "G": 0.503587,
+            "B": 0.257402,
+            "A": 1.0,
+            "Hex": "DDBC8B"
+          }
+        },
+        {
+          "Key": "Spots",
+          "Value": {
+            "R": 0.379,
+            "G": 0.146799,
+            "B": 0.030699,
+            "A": 1.0,
+            "Hex": "A66B31"
+          }
+        },
+        {
+          "Key": "Pads",
+          "Value": {
+            "R": 0.185,
+            "G": 0.083805,
+            "B": 0.083805,
+            "A": 1.0,
+            "Hex": "775252"
+          }
+        },
+        {
+          "Key": "Nose",
+          "Value": {
+            "R": 0.022,
+            "G": 0.018346,
+            "B": 0.018346,
+            "A": 1.0,
+            "Hex": "282424"
+          }
+        },
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 0.022,
+            "G": 0.011881,
+            "B": 0.00935,
+            "A": 1.0,
+            "Hex": "281C18"
+          }
+        },
+        {
+          "Key": "Tips",
+          "Value": {
+            "R": 0.091,
+            "G": 0.031213,
+            "B": 0.011284,
+            "A": 1.0,
+            "Hex": "55311B"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.7,
+            "G": 0.7,
+            "B": 0.7,
+            "A": 1.0,
+            "Hex": "DADADA"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.316333,
+            "G": 0.73,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "99DE00"
+          }
+        },
+        {
+          "Key": "Cloth",
+          "Value": {
+            "R": 0.003825,
+            "G": 0.039001,
+            "B": 0.085,
+            "A": 1.0,
+            "Hex": "0C3752"
+          }
+        },
+        {
+          "Key": "Metal",
+          "Value": {
+            "R": 0.5,
+            "G": 0.141233,
+            "B": 0.042,
+            "A": 1.0,
+            "Hex": "BC693A"
+          }
+        },
+        {
+          "Key": "Leather",
+          "Value": {
+            "R": 0.29452,
+            "G": 0.351434,
+            "B": 0.398,
+            "A": 1.0,
+            "Hex": "94A0A9"
+          }
+        }
+      ]
+    }
+  }
+]

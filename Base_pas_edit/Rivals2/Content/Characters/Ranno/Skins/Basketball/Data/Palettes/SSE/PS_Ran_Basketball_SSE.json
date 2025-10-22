@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Jersey",
-          "Name": "Jersey",
           "Value": {
             "R": 0.088656,
             "G": 0.234551,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "JerseyAccent",
-          "Name": "JerseyAccent",
           "Value": {
             "R": 0.887923,
             "G": 0.564712,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "JerseyTrim",
-          "Name": "JerseyTrim",
           "Value": {
             "R": 0.584078,
             "G": 0.55834,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Armband",
-          "Name": "Armband",
           "Value": {
             "R": 0.47932,
             "G": 0.533276,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Basketball",
-          "Name": "Basketball",
           "Value": {
             "R": 0.371238,
             "G": 0.814847,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "BasketballLines",
-          "Name": "BasketballLines",
           "Value": {
             "R": 0.042311,
             "G": 0.007499,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.567708,
             "G": 0.21529,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.533276,
             "G": 0.423268,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.3125,
             "G": 0.066976,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Tongue",
-          "Name": "Tongue",
           "Value": {
             "R": 0.467784,
             "G": 0.002428,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.206543,
             "G": 0.705688,

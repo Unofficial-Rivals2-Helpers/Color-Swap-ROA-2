@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Glasses",
-          "Name": "Glasses",
           "Value": {
             "R": 0.226819,
             "G": 0.06496,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.838799,
             "G": 0.072272,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Wings",
-          "Name": "Wings",
           "Value": {
             "R": 0.225,
             "G": 0.019125,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Beak",
-          "Name": "Beak",
           "Value": {
             "R": 0.48,
             "G": 0.289472,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.711,
             "G": 0.23463,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.059417,
             "G": 0.045194,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Stripes",
-          "Name": "Stripes",
           "Value": {
             "R": 0.096195,
             "G": 0.101646,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Shoe",
-          "Name": "Shoe",
           "Value": {
             "R": 0.395,
             "G": 0.020145,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Chain",
-          "Name": "Chain",
           "Value": {
             "R": 0.982251,
             "G": 0.732225,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Shirt2",
-          "Name": "Shirt2",
           "Value": {
             "R": 0.588,
             "G": 0.588,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "White",
-          "Name": "White",
           "Value": {
             "R": 1.0,
             "G": 1.0,

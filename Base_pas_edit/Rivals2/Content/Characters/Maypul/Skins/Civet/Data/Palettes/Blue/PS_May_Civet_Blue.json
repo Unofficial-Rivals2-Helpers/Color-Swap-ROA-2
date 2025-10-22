@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.005,
             "G": 0.005,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.039474,
             "G": 0.148737,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.539479,
             "G": 0.47932,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Stripes",
-          "Name": "Stripes",
           "Value": {
             "R": 0.03,
             "G": 0.024562,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Pads",
-          "Name": "Pads",
           "Value": {
             "R": 0.072776,
             "G": 0.04641,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.093,
             "G": 0.031789,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Leaf",
-          "Name": "Leaf",
           "Value": {
             "R": 0.071918,
             "G": 0.467,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Vine",
-          "Name": "Vine",
           "Value": {
             "R": 0.071,
             "G": 0.049707,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "PVine",
-          "Name": "PVine",
           "Value": {
             "R": 0.03,
             "G": 0.024562,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Pal",
-          "Name": "Pal",
           "Value": {
             "R": 0.069003,
             "G": 0.260001,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Vine2",
-          "Name": "Vine2",
           "Value": {
             "R": 0.03,
             "G": 0.024562,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Poppy",
-          "Name": "Poppy",
           "Value": {
             "R": 0.219023,
             "G": 0.467,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.03,
             "G": 0.024562,

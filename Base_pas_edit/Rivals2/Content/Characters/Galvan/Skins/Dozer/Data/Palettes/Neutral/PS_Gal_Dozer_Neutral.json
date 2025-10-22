@@ -1,0 +1,196 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Gal_Dozer_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Gal_Dozer_Neutral_C'Default__PS_Gal_Dozer_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Dozer/Data/Palettes/Neutral/PS_Gal_Dozer_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Gal_Dozer_Neutral_C",
+    "Name": "Default__PS_Gal_Dozer_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Dozer/Data/Palettes/Neutral/PS_Gal_Dozer_Neutral.PS_Gal_Dozer_Neutral_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.300544,
+            "G": 0.36299,
+            "B": 0.371238,
+            "A": 1.0,
+            "Hex": "95A2A4"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.904661,
+            "G": 0.545724,
+            "B": 0.045186,
+            "A": 1.0,
+            "Hex": "F4C33C"
+          }
+        },
+        {
+          "Key": "Toes",
+          "Value": {
+            "R": 0.026042,
+            "G": 0.026042,
+            "B": 0.026042,
+            "A": 1.0,
+            "Hex": "2C2C2C"
+          }
+        },
+        {
+          "Key": "Horn",
+          "Value": {
+            "R": 0.427083,
+            "G": 0.427083,
+            "B": 0.427083,
+            "A": 1.0,
+            "Hex": "AFAFAF"
+          }
+        },
+        {
+          "Key": "Limbs",
+          "Value": {
+            "R": 0.904661,
+            "G": 0.545724,
+            "B": 0.045186,
+            "A": 1.0,
+            "Hex": "F4C33C"
+          }
+        },
+        {
+          "Key": "Armor",
+          "Value": {
+            "R": 0.026042,
+            "G": 0.026042,
+            "B": 0.026042,
+            "A": 1.0,
+            "Hex": "2C2C2C"
+          }
+        },
+        {
+          "Key": "Metal",
+          "Value": {
+            "R": 0.300544,
+            "G": 0.36299,
+            "B": 0.371238,
+            "A": 1.0,
+            "Hex": "95A2A4"
+          }
+        },
+        {
+          "Key": "Accent",
+          "Value": {
+            "R": 0.619792,
+            "G": 0.619792,
+            "B": 0.619792,
+            "A": 1.0,
+            "Hex": "CFCFCF"
+          }
+        },
+        {
+          "Key": "Gems",
+          "Value": {
+            "R": 0.755208,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "E20000"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.755208,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "E20000"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.880208,
+            "G": 0.880208,
+            "B": 0.880208,
+            "A": 1.0,
+            "Hex": "F2F2F2"
+          }
+        },
+        {
+          "Key": "Reinforced",
+          "Value": {
+            "R": 0.300544,
+            "G": 0.36299,
+            "B": 0.371238,
+            "A": 1.0,
+            "Hex": "95A2A4"
+          }
+        },
+        {
+          "Key": "Rocks",
+          "Value": {
+            "R": 0.147027,
+            "G": 0.090842,
+            "B": 0.068478,
+            "A": 1.0,
+            "Hex": "6B554A"
+          }
+        },
+        {
+          "Key": "GemGlow",
+          "Value": {
+            "R": 0.755208,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "E20000"
+          }
+        },
+        {
+          "Key": "LogoX",
+          "Value": {
+            "R": 0.904661,
+            "G": 0.904661,
+            "B": 0.904661,
+            "A": 1.0,
+            "Hex": "F4F4F4"
+          }
+        },
+        {
+          "Key": "Logo0",
+          "Value": {
+            "R": 0.755208,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "E20000"
+          }
+        }
+      ]
+    }
+  }
+]

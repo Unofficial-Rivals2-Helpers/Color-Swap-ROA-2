@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.110936,
             "G": 0.508881,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.508881,
             "G": 0.760525,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.018653,
             "G": 0.158,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Tongue",
-          "Name": "Tongue",
           "Value": {
             "R": 0.094355,
             "G": 0.412543,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.119635,
             "G": 0.04669,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Wraps",
-          "Name": "Wraps",
           "Value": {
             "R": 0.838799,
             "G": 0.745404,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Flowers",
-          "Name": "Flowers",
           "Value": {
             "R": 0.119635,
             "G": 0.04669,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.026285,
             "G": 0.376564,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Duck",
-          "Name": "Duck",
           "Value": {
             "R": 0.014141,
             "G": 0.293,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Beak",
-          "Name": "Beak",
           "Value": {
             "R": 0.904661,
             "G": 0.238398,

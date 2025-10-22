@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.0375,
             "G": 0.129583,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.6,
             "G": 0.692258,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.026,
             "G": 0.042467,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "AbyssEyesSclera",
-          "Name": "AbyssEyesSclera",
           "Value": {
             "R": 0.95,
             "G": 0.468667,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Iris",
-          "Name": "Iris",
           "Value": {
             "R": 0.0,
             "G": 0.113317,

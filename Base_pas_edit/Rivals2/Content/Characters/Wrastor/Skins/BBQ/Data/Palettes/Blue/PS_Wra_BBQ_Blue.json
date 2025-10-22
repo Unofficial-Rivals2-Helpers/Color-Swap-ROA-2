@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.015625,
             "G": 0.035677,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.011122,
             "G": 0.173058,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.056152,
             "G": 0.365601,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Legs",
-          "Name": "Legs",
           "Value": {
             "R": 0.651042,
             "G": 0.101725,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "ScarfPattern",
-          "Name": "ScarfPattern",
           "Value": {
             "R": 0.010634,
             "G": 0.193888,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Goggles",
-          "Name": "Goggles",
           "Value": {
             "R": 0.260417,
             "G": 0.005425,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Lens",
-          "Name": "Lens",
           "Value": {
             "R": 0.028574,
             "G": 0.001085,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "LensGradient",
-          "Name": "LensGradient",
           "Value": {
             "R": 0.105021,
             "G": 0.0354,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Scarf",
-          "Name": "Scarf",
           "Value": {
             "R": 0.394694,
             "G": 0.357856,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Comb",
-          "Name": "Comb",
           "Value": {
             "R": 0.260417,
             "G": 0.005425,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Jorts",
-          "Name": "Jorts",
           "Value": {
             "R": 0.049145,
             "G": 0.023275,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Handles",
-          "Name": "Handles",
           "Value": {
             "R": 0.296875,
             "G": 0.12143,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.287923,
             "G": 0.302942,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Apron",
-          "Name": "Apron",
           "Value": {
             "R": 0.577963,
             "G": 0.579962,

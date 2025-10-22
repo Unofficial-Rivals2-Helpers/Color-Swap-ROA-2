@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Shoes",
-          "Name": "Shoes",
           "Value": {
             "R": 0.501961,
             "G": 0.501961,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.016115,
             "G": 0.329246,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.108556,
             "G": 0.078898,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Jacket",
-          "Name": "Jacket",
           "Value": {
             "R": 0.007963,
             "G": 0.069318,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Sleeves",
-          "Name": "Sleeves",
           "Value": {
             "R": 0.39962,
             "G": 0.507597,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Jacket2",
-          "Name": "Jacket2",
           "Value": {
             "R": 0.007963,
             "G": 0.069318,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "ShoeAccent",
-          "Name": "ShoeAccent",
           "Value": {
             "R": 0.501961,
             "G": 0.501961,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.07036,
             "G": 0.116971,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.241026,
             "G": 0.319653,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.792,
             "G": 0.842636,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Paws",
-          "Name": "Paws",
           "Value": {
             "R": 0.045186,
             "G": 0.028426,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.033408,
             "G": 0.178099,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Hair2",
-          "Name": "Hair2",
           "Value": {
             "R": 0.01859,
             "G": 0.514436,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "LogoCh1",
-          "Name": "LogoCh1",
           "Value": {
             "R": 0.752942,
             "G": 0.760525,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "LogoCh2",
-          "Name": "LogoCh2",
           "Value": {
             "R": 0.752942,
             "G": 0.760525,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "LogoSh1",
-          "Name": "LogoSh1",
           "Value": {
             "R": 0.752942,
             "G": 0.760525,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "LogoSh2",
-          "Name": "LogoSh2",
           "Value": {
             "R": 0.752942,
             "G": 0.760525,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "LogoB1",
-          "Name": "LogoB1",
           "Value": {
             "R": 0.752942,
             "G": 0.760525,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "LogoB2",
-          "Name": "LogoB2",
           "Value": {
             "R": 0.752942,
             "G": 0.760525,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 0.752942,
             "G": 0.760525,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "ScleraShading",
-          "Name": "ScleraShading",
           "Value": {
             "R": 0.752942,
             "G": 0.760525,
@@ -263,7 +242,6 @@
         },
         {
           "Key": "Iris",
-          "Name": "Iris",
           "Value": {
             "R": 0.0,
             "G": 1.0,

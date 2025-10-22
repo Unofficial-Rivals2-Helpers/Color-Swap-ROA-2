@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Ice Cream",
-          "Name": "Ice Cream",
           "Value": {
             "R": 0.58774,
             "G": 0.595486,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Straw",
-          "Name": "Straw",
           "Value": {
             "R": 0.754115,
             "G": 0.770833,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Cherry",
-          "Name": "Cherry",
           "Value": {
             "R": 0.3,
             "G": 0.0159,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.090842,
             "G": 0.019382,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.889,
             "G": 0.859574,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Stripes",
-          "Name": "Stripes",
           "Value": {
             "R": 0.3,
             "G": 0.006929,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.16,
             "G": 0.043325,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Pads",
-          "Name": "Pads",
           "Value": {
             "R": 0.16,
             "G": 0.043325,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 1.0,
             "G": 0.622826,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Pupil",
-          "Name": "Pupil",
           "Value": {
             "R": 0.09375,
             "G": 0.09375,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Shine",
-          "Name": "Shine",
           "Value": {
             "R": 0.845486,
             "G": 0.845486,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Teeth",
-          "Name": "Teeth",
           "Value": {
             "R": 0.845486,
             "G": 0.845486,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Mouth",
-          "Name": "Mouth",
           "Value": {
             "R": 0.3,
             "G": 0.038021,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Liner",
-          "Name": "Liner",
           "Value": {
             "R": 0.0,
             "G": 0.0,

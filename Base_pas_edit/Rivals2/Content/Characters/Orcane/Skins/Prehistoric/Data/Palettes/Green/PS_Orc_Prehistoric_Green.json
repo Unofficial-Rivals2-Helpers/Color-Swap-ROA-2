@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.838799,
             "G": 0.921582,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.032,
             "G": 0.0183,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Mouth",
-          "Name": "Mouth",
           "Value": {
             "R": 0.545724,
             "G": 0.099899,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Teeth",
-          "Name": "Teeth",
           "Value": {
             "R": 0.552011,
             "G": 0.491021,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.286965,
             "G": 0.031195,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Spikes",
-          "Name": "Spikes",
           "Value": {
             "R": 0.371238,
             "G": 0.552011,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Wraps",
-          "Name": "Wraps",
           "Value": {
             "R": 0.109462,
             "G": 0.038088,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Leaves",
-          "Name": "Leaves",
           "Value": {
             "R": 0.163,
             "G": 0.056717,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Rock",
-          "Name": "Rock",
           "Value": {
             "R": 0.132761,
             "G": 0.121476,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.22324,
             "G": 0.517,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Plates",
-          "Name": "Plates",
           "Value": {
             "R": 0.028227,
             "G": 0.15,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Feathers",
-          "Name": "Feathers",
           "Value": {
             "R": 0.0,
             "G": 0.2697,

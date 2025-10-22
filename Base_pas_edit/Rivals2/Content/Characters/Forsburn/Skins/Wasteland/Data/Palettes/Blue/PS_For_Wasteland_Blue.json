@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.008952,
             "G": 0.010532,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.113281,
             "G": 0.131532,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "PaddingTrim",
-          "Name": "PaddingTrim",
           "Value": {
             "R": 0.499674,
             "G": 0.496419,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Padding",
-          "Name": "Padding",
           "Value": {
             "R": 0.427083,
             "G": 0.228973,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.018989,
             "G": 0.02749,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Straps",
-          "Name": "Straps",
           "Value": {
             "R": 0.015096,
             "G": 0.012722,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Belt",
-          "Name": "Belt",
           "Value": {
             "R": 0.42869,
             "G": 0.23074,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "MaskEyes",
-          "Name": "MaskEyes",
           "Value": {
             "R": 1.0,
             "G": 0.0,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Mask",
-          "Name": "Mask",
           "Value": {
             "R": 0.314426,
             "G": 0.331692,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "MetalTrim",
-          "Name": "MetalTrim",
           "Value": {
             "R": 0.102242,
             "G": 0.078187,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Pipe",
-          "Name": "Pipe",
           "Value": {
             "R": 0.242281,
             "G": 0.099899,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.236979,
             "G": 0.546636,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Hair2",
-          "Name": "Hair2",
           "Value": {
             "R": 0.645833,
             "G": 0.976417,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "White",
-          "Name": "White",
           "Value": {
             "R": 1.0,
             "G": 1.0,

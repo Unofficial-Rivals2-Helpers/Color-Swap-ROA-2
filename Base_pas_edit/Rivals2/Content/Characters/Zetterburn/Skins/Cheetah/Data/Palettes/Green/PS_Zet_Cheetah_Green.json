@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.964686,
             "G": 0.964686,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.752942,
             "G": 0.973445,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Spots",
-          "Name": "Spots",
           "Value": {
             "R": 0.0,
             "G": 0.046875,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.00953,
             "G": 0.030713,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.005588,
             "G": 0.536458,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Hair2",
-          "Name": "Hair2",
           "Value": {
             "R": 0.0,
             "G": 0.875,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Tips",
-          "Name": "Tips",
           "Value": {
             "R": 0.0,
             "G": 0.03125,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Tail",
-          "Name": "Tail",
           "Value": {
             "R": 0.009134,
             "G": 0.007499,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.0,
             "G": 0.073,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.502886,
             "G": 0.502886,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Leather",
-          "Name": "Leather",
           "Value": {
             "R": 0.017642,
             "G": 0.017642,

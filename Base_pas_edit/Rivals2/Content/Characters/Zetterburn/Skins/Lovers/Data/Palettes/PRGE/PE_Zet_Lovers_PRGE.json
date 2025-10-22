@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Zet_Lovers_PRGE_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Zet_Lovers_PRGE_C'Default__PE_Zet_Lovers_PRGE_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Zetterburn/Skins/Lovers/Data/Palettes/PRGE/PE_Zet_Lovers_PRGE.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Zet_Lovers_PRGE_C",
+    "Name": "Default__PE_Zet_Lovers_PRGE_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Zetterburn/Skins/Lovers/Data/Palettes/PRGE/PE_Zet_Lovers_PRGE.PE_Zet_Lovers_PRGE_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.735,
+            "G": 0.294,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "DF9400"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.927,
+            "G": 0.5562,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "F7C500"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.973446,
+            "G": 0.816893,
+            "B": 0.105132,
+            "A": 1.0,
+            "Hex": "FCEA5B"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.991102,
+            "G": 0.973446,
+            "B": 0.745404,
+            "A": 1.0,
+            "Hex": "FEFCE0"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

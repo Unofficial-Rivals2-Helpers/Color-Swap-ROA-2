@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Dark",
-          "Name": "Dark",
           "Value": {
             "R": 0.020693,
             "G": 0.042311,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Mid",
-          "Name": "Mid",
           "Value": {
             "R": 0.310477,
             "G": 0.505,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Black",
-          "Name": "Black",
           "Value": {
             "R": 0.0092,
             "G": 0.015,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Bright",
-          "Name": "Bright",
           "Value": {
             "R": 0.514185,
             "G": 0.687,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Crystal",
-          "Name": "Crystal",
           "Value": {
             "R": 0.0,
             "G": 0.291667,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "CrystalAccent",
-          "Name": "CrystalAccent",
           "Value": {
             "R": 0.340009,
             "G": 0.53125,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Color",
-          "Name": "Color",
           "Value": {
             "R": 0.484375,
             "G": 0.244204,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "CrystalOutline",
-          "Name": "CrystalOutline",
           "Value": {
             "R": 0.86543,
             "G": 0.875,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Glow",
-          "Name": "Glow",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Accent",
-          "Name": "Accent",
           "Value": {
             "R": 0.817708,
             "G": 0.402605,

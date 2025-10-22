@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Clothing",
-          "Name": "Clothing",
           "Value": {
             "R": 0.023872,
             "G": 0.030715,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Wings",
-          "Name": "Wings",
           "Value": {
             "R": 0.713542,
             "G": 0.681361,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "ClothingAccent",
-          "Name": "ClothingAccent",
           "Value": {
             "R": 0.444792,
             "G": 0.1875,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.473958,
             "G": 0.200101,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Rose",
-          "Name": "Rose",
           "Value": {
             "R": 0.5,
             "G": 0.075521,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "RoseStem",
-          "Name": "RoseStem",
           "Value": {
             "R": 0.029557,
             "G": 0.212231,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Strings",
-          "Name": "Strings",
           "Value": {
             "R": 0.854167,
             "G": 0.811459,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.216471,
             "G": 0.36014,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.46875,
             "G": 0.404053,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.048828,
             "G": 0.06652,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.219618,
             "G": 1.0,

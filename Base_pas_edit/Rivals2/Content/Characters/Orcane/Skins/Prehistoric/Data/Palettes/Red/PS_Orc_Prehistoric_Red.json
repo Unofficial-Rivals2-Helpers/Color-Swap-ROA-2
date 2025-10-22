@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.559,
             "G": 0.043043,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.863157,
             "G": 0.3564,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Plates",
-          "Name": "Plates",
           "Value": {
             "R": 0.125,
             "G": 0.0115,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.032,
             "G": 0.0183,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Mouth",
-          "Name": "Mouth",
           "Value": {
             "R": 0.545724,
             "G": 0.099899,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Teeth",
-          "Name": "Teeth",
           "Value": {
             "R": 0.562,
             "G": 0.515036,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.060495,
             "G": 0.555,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Spikes",
-          "Name": "Spikes",
           "Value": {
             "R": 0.552011,
             "G": 0.371238,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Wraps",
-          "Name": "Wraps",
           "Value": {
             "R": 0.127112,
             "G": 0.031476,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Leaves",
-          "Name": "Leaves",
           "Value": {
             "R": 0.204159,
             "G": 0.057833,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Rock",
-          "Name": "Rock",
           "Value": {
             "R": 0.132761,
             "G": 0.121476,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Feathers",
-          "Name": "Feathers",
           "Value": {
             "R": 0.491021,
             "G": 0.025187,

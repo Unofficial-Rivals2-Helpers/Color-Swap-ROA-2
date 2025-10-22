@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Napkin",
-          "Name": "Napkin",
           "Value": {
             "R": 0.863157,
             "G": 0.215789,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Jacket",
-          "Name": "Jacket",
           "Value": {
             "R": 0.617207,
             "G": 0.630757,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.022333,
             "G": 0.023,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Cravat",
-          "Name": "Cravat",
           "Value": {
             "R": 0.28125,
             "G": 0.017767,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Apron",
-          "Name": "Apron",
           "Value": {
             "R": 0.040458,
             "G": 0.041667,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Buttons",
-          "Name": "Buttons",
           "Value": {
             "R": 0.040458,
             "G": 0.041667,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Stripes",
-          "Name": "Stripes",
           "Value": {
             "R": 0.038848,
             "G": 0.0397,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Glove Quilting",
-          "Name": "Glove Quilting",
           "Value": {
             "R": 0.863157,
             "G": 0.215789,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Glove Wrist",
-          "Name": "Glove Wrist",
           "Value": {
             "R": 0.022333,
             "G": 0.023,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Glove Stripes",
-          "Name": "Glove Stripes",
           "Value": {
             "R": 0.038848,
             "G": 0.0397,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Glove inside",
-          "Name": "Glove inside",
           "Value": {
             "R": 0.994792,
             "G": 0.492215,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.093628,
             "G": 0.118166,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.635417,
             "G": 0.21691,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Paws",
-          "Name": "Paws",
           "Value": {
             "R": 0.229167,
             "G": 0.066881,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.455,
             "G": 0.155322,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.017144,
             "G": 0.017679,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Tail",
-          "Name": "Tail",
           "Value": {
             "R": 0.635417,
             "G": 0.21691,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Feet",
-          "Name": "Feet",
           "Value": {
             "R": 0.635417,
             "G": 0.21691,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.093628,
             "G": 0.118166,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "Earhair",
-          "Name": "Earhair",
           "Value": {
             "R": 0.093628,
             "G": 0.118166,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 0.890625,
             "G": 0.871922,
@@ -263,7 +242,6 @@
         },
         {
           "Key": "ScleraShading",
-          "Name": "ScleraShading",
           "Value": {
             "R": 0.890625,
             "G": 0.738328,
@@ -274,7 +252,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.0625,
             "G": 0.013105,
@@ -285,7 +262,6 @@
         },
         {
           "Key": "Eyebrows",
-          "Name": "Eyebrows",
           "Value": {
             "R": 0.017144,
             "G": 0.017679,
@@ -296,7 +272,6 @@
         },
         {
           "Key": "GemCone",
-          "Name": "GemCone",
           "Value": {
             "R": 0.666667,
             "G": 0.384028,
@@ -307,7 +282,6 @@
         },
         {
           "Key": "GemIceCream",
-          "Name": "GemIceCream",
           "Value": {
             "R": 0.665387,
             "G": 0.647396,
@@ -318,7 +292,6 @@
         },
         {
           "Key": "GemCherry",
-          "Name": "GemCherry",
           "Value": {
             "R": 0.333333,
             "G": 0.001736,
@@ -329,7 +302,6 @@
         },
         {
           "Key": "GemDip",
-          "Name": "GemDip",
           "Value": {
             "R": 0.083333,
             "G": 0.021396,

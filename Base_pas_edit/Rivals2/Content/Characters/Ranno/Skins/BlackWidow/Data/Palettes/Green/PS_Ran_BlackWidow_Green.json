@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.078895,
             "G": 0.155,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.597174,
             "G": 0.739,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.013536,
             "G": 0.034582,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Emblem",
-          "Name": "Emblem",
           "Value": {
             "R": 0.071779,
             "G": 0.85,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Mouth",
-          "Name": "Mouth",
           "Value": {
             "R": 0.520996,
             "G": 0.093059,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.098807,
             "G": 0.104,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Wraps",
-          "Name": "Wraps",
           "Value": {
             "R": 0.0,
             "G": 0.219608,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.798,
             "G": 0.7182,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Tongue",
-          "Name": "Tongue",
           "Value": {
             "R": 0.491394,
             "G": 0.814847,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.0,
             "G": 0.219608,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Skull",
-          "Name": "Skull",
           "Value": {
             "R": 0.57365,
             "G": 0.745,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Rope",
-          "Name": "Rope",
           "Value": {
             "R": 0.117,
             "G": 0.08004,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Limbs",
-          "Name": "Limbs",
           "Value": {
             "R": 0.013536,
             "G": 0.034582,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Color",
-          "Name": "Color",
           "Value": {
             "R": 0.071779,
             "G": 0.85,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Joints",
-          "Name": "Joints",
           "Value": {
             "R": 0.0,
             "G": 0.095,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Webbing",
-          "Name": "Webbing",
           "Value": {
             "R": 0.427481,
             "G": 0.532986,

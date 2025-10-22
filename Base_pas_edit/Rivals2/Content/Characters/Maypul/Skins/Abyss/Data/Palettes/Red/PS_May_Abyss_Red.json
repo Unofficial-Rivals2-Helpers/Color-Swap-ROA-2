@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.47932,
             "G": 0.116497,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.090842,
             "G": 0.025873,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.806952,
             "G": 0.508881,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Body2",
-          "Name": "Body2",
           "Value": {
             "R": 0.027321,
             "G": 0.007499,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Stripes",
-          "Name": "Stripes",
           "Value": {
             "R": 0.982251,
             "G": 0.232342,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Leaf",
-          "Name": "Leaf",
           "Value": {
             "R": 0.505208,
             "G": 0.042101,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Eye",
-          "Name": "Eye",
           "Value": {
             "R": 0.982251,
             "G": 0.373069,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Eye2",
-          "Name": "Eye2",
           "Value": {
             "R": 0.539479,
             "G": 0.008023,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Vine",
-          "Name": "Vine",
           "Value": {
             "R": 0.155926,
             "G": 0.024158,

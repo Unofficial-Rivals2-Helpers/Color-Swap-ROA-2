@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Straps",
-          "Name": "Straps",
           "Value": {
             "R": 0.034,
             "G": 0.03302,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Clothing",
-          "Name": "Clothing",
           "Value": {
             "R": 0.0159,
             "G": 0.06,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "ClothingAccent",
-          "Name": "ClothingAccent",
           "Value": {
             "R": 0.058437,
             "G": 0.453,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "SafetyVest",
-          "Name": "SafetyVest",
           "Value": {
             "R": 0.921582,
             "G": 0.084376,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Sandals",
-          "Name": "Sandals",
           "Value": {
             "R": 0.02408,
             "G": 0.263,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Knot",
-          "Name": "Knot",
           "Value": {
             "R": 0.647831,
             "G": 0.619168,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Cape",
-          "Name": "Cape",
           "Value": {
             "R": 0.463,
             "G": 0.11575,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Cape2",
-          "Name": "Cape2",
           "Value": {
             "R": 0.642,
             "G": 0.373529,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "CapeDetail",
-          "Name": "CapeDetail",
           "Value": {
             "R": 0.637597,
             "G": 0.617207,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Visor",
-          "Name": "Visor",
           "Value": {
             "R": 0.027777,
             "G": 0.027777,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Snorkel",
-          "Name": "Snorkel",
           "Value": {
             "R": 0.239583,
             "G": 0.239583,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Glow",
-          "Name": "Glow",
           "Value": {
             "R": 0.192375,
             "G": 0.453904,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Sword",
-          "Name": "Sword",
           "Value": {
             "R": 0.651406,
             "G": 0.62396,

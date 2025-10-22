@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.018496,
             "G": 0.272,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Scarf",
-          "Name": "Scarf",
           "Value": {
             "R": 0.871367,
             "G": 0.674882,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Glasses Frame",
-          "Name": "Glasses Frame",
           "Value": {
             "R": 0.021219,
             "G": 0.021219,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Glasses Lens",
-          "Name": "Glasses Lens",
           "Value": {
             "R": 0.006995,
             "G": 0.006995,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Hair Flowers",
-          "Name": "Hair Flowers",
           "Value": {
             "R": 0.064167,
             "G": 0.35,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Hair Flowers Pistil",
-          "Name": "Hair Flowers Pistil",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Hair Ties",
-          "Name": "Hair Ties",
           "Value": {
             "R": 0.577581,
             "G": 0.129881,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Skirt",
-          "Name": "Skirt",
           "Value": {
             "R": 0.0,
             "G": 0.285,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Skirt Clouds",
-          "Name": "Skirt Clouds",
           "Value": {
             "R": 0.193752,
             "G": 0.552,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Skirt Inside",
-          "Name": "Skirt Inside",
           "Value": {
             "R": 0.697998,
             "G": 0.859375,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Nail Polish",
-          "Name": "Nail Polish",
           "Value": {
             "R": 0.577581,
             "G": 0.129881,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Swimsuit Top",
-          "Name": "Swimsuit Top",
           "Value": {
             "R": 0.577581,
             "G": 0.129881,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Swimsuit Pattern",
-          "Name": "Swimsuit Pattern",
           "Value": {
             "R": 0.871367,
             "G": 0.674882,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Flowers",
-          "Name": "Flowers",
           "Value": {
             "R": 0.064167,
             "G": 0.35,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Flowers Pistil",
-          "Name": "Flowers Pistil",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Swimsuit Gem",
-          "Name": "Swimsuit Gem",
           "Value": {
             "R": 1.0,
             "G": 0.564712,
@@ -208,7 +192,6 @@
         },
         {
           "Key": "Jewelry",
-          "Name": "Jewelry",
           "Value": {
             "R": 1.0,
             "G": 0.564712,
@@ -219,7 +202,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.021219,
             "G": 0.014444,
@@ -230,7 +212,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.083425,
             "G": 0.355,
@@ -241,7 +222,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.648356,
             "G": 0.852232,
@@ -252,7 +232,6 @@
         },
         {
           "Key": "Hooves",
-          "Name": "Hooves",
           "Value": {
             "R": 0.025934,
             "G": 0.041031,
@@ -263,7 +242,6 @@
         },
         {
           "Key": "Horns",
-          "Name": "Horns",
           "Value": {
             "R": 0.973445,
             "G": 0.473531,
@@ -274,7 +252,6 @@
         },
         {
           "Key": "Horn2",
-          "Name": "Horn2",
           "Value": {
             "R": 0.658375,
             "G": 0.478737,
@@ -285,7 +262,6 @@
         },
         {
           "Key": "InnerEar",
-          "Name": "InnerEar",
           "Value": {
             "R": 0.544,
             "G": 0.753067,
@@ -296,7 +272,6 @@
         },
         {
           "Key": "Eye Right",
-          "Name": "Eye Right",
           "Value": {
             "R": 0.514918,
             "G": 0.258183,
@@ -307,7 +282,6 @@
         },
         {
           "Key": "Eye Left",
-          "Name": "Eye Left",
           "Value": {
             "R": 0.514918,
             "G": 0.258183,
@@ -318,7 +292,6 @@
         },
         {
           "Key": "Eyebrows",
-          "Name": "Eyebrows",
           "Value": {
             "R": 0.000615,
             "G": 0.123,
@@ -329,7 +302,6 @@
         },
         {
           "Key": "CloudCoconut",
-          "Name": "CloudCoconut",
           "Value": {
             "R": 0.15625,
             "G": 0.144826,
@@ -340,7 +312,6 @@
         },
         {
           "Key": "CloudUmbrella",
-          "Name": "CloudUmbrella",
           "Value": {
             "R": 0.044096,
             "G": 0.499642,
@@ -351,7 +322,6 @@
         },
         {
           "Key": "CloudInterior",
-          "Name": "CloudInterior",
           "Value": {
             "R": 1.0,
             "G": 1.0,
@@ -362,7 +332,6 @@
         },
         {
           "Key": "CloudDrink",
-          "Name": "CloudDrink",
           "Value": {
             "R": 0.40724,
             "G": 0.871367,
@@ -373,7 +342,6 @@
         },
         {
           "Key": "CloudFlower",
-          "Name": "CloudFlower",
           "Value": {
             "R": 0.004266,
             "G": 0.328125,
@@ -384,7 +352,6 @@
         },
         {
           "Key": "CloudUmbrellaStick",
-          "Name": "CloudUmbrellaStick",
           "Value": {
             "R": 0.577581,
             "G": 0.291815,
@@ -395,7 +362,6 @@
         },
         {
           "Key": "CloudStraws",
-          "Name": "CloudStraws",
           "Value": {
             "R": 0.577581,
             "G": 0.189841,
@@ -406,7 +372,6 @@
         },
         {
           "Key": "Cloud",
-          "Name": "Cloud",
           "Value": {
             "R": 0.146709,
             "G": 0.53,
@@ -417,7 +382,6 @@
         },
         {
           "Key": "CloudDark",
-          "Name": "CloudDark",
           "Value": {
             "R": 0.000396,
             "G": 0.104167,

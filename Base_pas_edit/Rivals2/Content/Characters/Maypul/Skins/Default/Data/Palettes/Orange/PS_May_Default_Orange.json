@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Pal",
-          "Name": "Pal",
           "Value": {
             "R": 0.284,
             "G": 0.045005,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "PVine",
-          "Name": "PVine",
           "Value": {
             "R": 0.122241,
             "G": 0.005985,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Vine2",
-          "Name": "Vine2",
           "Value": {
             "R": 0.064592,
             "G": 0.22,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Leaf",
-          "Name": "Leaf",
           "Value": {
             "R": 0.122241,
             "G": 0.005985,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Vine",
-          "Name": "Vine",
           "Value": {
             "R": 0.029823,
             "G": 0.07,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.284,
             "G": 0.045005,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.29,
             "G": 0.17226,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.018,
             "G": 0.0126,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.249629,
             "G": 0.012222,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Poppy",
-          "Name": "Poppy",
           "Value": {
             "R": 0.789931,
             "G": 0.74139,

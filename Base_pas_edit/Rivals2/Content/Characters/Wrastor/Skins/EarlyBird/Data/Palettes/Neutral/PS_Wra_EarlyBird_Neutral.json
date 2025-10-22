@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Shirt",
-          "Name": "Shirt",
           "Value": {
             "R": 0.049707,
             "G": 0.679542,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Hearts",
-          "Name": "Hearts",
           "Value": {
             "R": 1.0,
             "G": 0.031896,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Slippers",
-          "Name": "Slippers",
           "Value": {
             "R": 0.361307,
             "G": 0.630757,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Worm",
-          "Name": "Worm",
           "Value": {
             "R": 1.0,
             "G": 0.247,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Logo",
-          "Name": "Logo",
           "Value": {
             "R": 0.876736,
             "G": 0.876736,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Shorts",
-          "Name": "Shorts",
           "Value": {
             "R": 1.0,
             "G": 1.0,

@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Corruption",
-          "Name": "Corruption",
           "Value": {
             "R": 0.05,
             "G": 0.0162,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Corruption2",
-          "Name": "Corruption2",
           "Value": {
             "R": 1.0,
             "G": 0.073,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.263,
             "G": 0.021874,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Metal",
-          "Name": "Metal",
           "Value": {
             "R": 0.617207,
             "G": 0.527115,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Leather",
-          "Name": "Leather",
           "Value": {
             "R": 0.016807,
             "G": 0.019382,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.982251,
             "G": 0.051077,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Hair2",
-          "Name": "Hair2",
           "Value": {
             "R": 0.52,
             "G": 0.107934,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 1.0,
             "G": 0.286328,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Pupil",
-          "Name": "Pupil",
           "Value": {
             "R": 1.0,
             "G": 0.066667,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.351533,
             "G": 0.152926,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.578,
             "G": 0.331146,

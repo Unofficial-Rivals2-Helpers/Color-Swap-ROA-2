@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Nails",
-          "Name": "Nails",
           "Value": {
             "R": 0.890625,
             "G": 0.024047,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.041667,
             "G": 0.004381,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Belly",
-          "Name": "Belly",
           "Value": {
             "R": 0.300544,
             "G": 0.318547,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Horns",
-          "Name": "Horns",
           "Value": {
             "R": 0.020833,
             "G": 0.015694,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Pattern",
-          "Name": "Pattern",
           "Value": {
             "R": 0.040712,
             "G": 0.048172,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Nose",
-          "Name": "Nose",
           "Value": {
             "R": 0.009134,
             "G": 0.009134,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Horns2",
-          "Name": "Horns2",
           "Value": {
             "R": 0.21875,
             "G": 0.0,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "Hair",
-          "Name": "Hair",
           "Value": {
             "R": 0.584078,
             "G": 0.04588,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "ChestFluff",
-          "Name": "ChestFluff",
           "Value": {
             "R": 0.300812,
             "G": 0.317708,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Sclera",
-          "Name": "Sclera",
           "Value": {
             "R": 0.453125,
             "G": 0.247281,
@@ -142,7 +132,6 @@
         },
         {
           "Key": "ScleraShading",
-          "Name": "ScleraShading",
           "Value": {
             "R": 0.210069,
             "G": 0.144244,
@@ -153,7 +142,6 @@
         },
         {
           "Key": "Eyebrows",
-          "Name": "Eyebrows",
           "Value": {
             "R": 0.279514,
             "G": 0.021956,
@@ -164,7 +152,6 @@
         },
         {
           "Key": "Cloth",
-          "Name": "Cloth",
           "Value": {
             "R": 0.212231,
             "G": 0.147027,
@@ -175,7 +162,6 @@
         },
         {
           "Key": "Chain",
-          "Name": "Chain",
           "Value": {
             "R": 0.072917,
             "G": 0.066629,
@@ -186,7 +172,6 @@
         },
         {
           "Key": "Iris",
-          "Name": "Iris",
           "Value": {
             "R": 0.973445,
             "G": 0.0,
@@ -197,7 +182,6 @@
         },
         {
           "Key": "Cloud",
-          "Name": "Cloud",
           "Value": {
             "R": 0.145833,
             "G": 0.028103,

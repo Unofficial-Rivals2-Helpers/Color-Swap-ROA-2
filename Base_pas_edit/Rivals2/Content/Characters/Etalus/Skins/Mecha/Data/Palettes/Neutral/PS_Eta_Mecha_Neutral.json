@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.588542,
             "G": 0.578849,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.296875,
             "G": 0.291986,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Core",
-          "Name": "Core",
           "Value": {
             "R": 0.02653,
             "G": 0.029126,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Tracks",
-          "Name": "Tracks",
           "Value": {
             "R": 0.079102,
             "G": 0.082275,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Armor",
-          "Name": "Armor",
           "Value": {
             "R": 0.0,
             "G": 0.109913,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "ArmorAccent",
-          "Name": "ArmorAccent",
           "Value": {
             "R": 0.042915,
             "G": 0.370291,
@@ -98,7 +92,6 @@
         },
         {
           "Key": "Rockets",
-          "Name": "Rockets",
           "Value": {
             "R": 0.664931,
             "G": 0.015665,
@@ -109,7 +102,6 @@
         },
         {
           "Key": "GunBarrel",
-          "Name": "GunBarrel",
           "Value": {
             "R": 0.054688,
             "G": 0.068204,
@@ -120,7 +112,6 @@
         },
         {
           "Key": "Icicle",
-          "Name": "Icicle",
           "Value": {
             "R": 0.939236,
             "G": 0.939236,
@@ -131,7 +122,6 @@
         },
         {
           "Key": "Glow",
-          "Name": "Glow",
           "Value": {
             "R": 0.0,
             "G": 0.698794,

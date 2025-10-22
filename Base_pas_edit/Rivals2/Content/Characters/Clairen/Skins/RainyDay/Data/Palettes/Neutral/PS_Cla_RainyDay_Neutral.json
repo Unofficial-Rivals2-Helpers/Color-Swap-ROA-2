@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Jacket",
-          "Name": "Jacket",
           "Value": {
             "R": 0.708333,
             "G": 0.450087,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Trim",
-          "Name": "Trim",
           "Value": {
             "R": 0.564712,
             "G": 0.55834,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Pants",
-          "Name": "Pants",
           "Value": {
             "R": 0.682292,
             "G": 0.071072,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "UmbrellaHandle",
-          "Name": "UmbrellaHandle",
           "Value": {
             "R": 0.814847,
             "G": 0.338683,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "UmbrellaTipper",
-          "Name": "UmbrellaTipper",
           "Value": {
             "R": 0.029066,
             "G": 0.631729,

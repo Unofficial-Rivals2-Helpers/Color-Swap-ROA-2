@@ -33,7 +33,7 @@ character_icons = {}
 file_type_codes = {'Element/Energy': 'PE', 'Skin': 'PS'}
 wine_cmd: str = str()
 
-__version__ = "1.3.4.1-stable"
+__version__ = "1.3.4.2-stable"
 
 wine_cmds: dict[str, str] = {'system_wine': "wine",
                              'flatpak_wine': "org.winehq.Wine"
@@ -527,7 +527,6 @@ def populate_color_selectors(data):
         if "Properties" in entry and "CustomColorSlotDefinitions" in entry["Properties"]:
             for color in entry["Properties"]["CustomColorSlotDefinitions"]:
                 key = color["Key"]
-                name = color["Name"]
 
                 # Ignorer "Element0"
                 if key == "Element0":
@@ -537,7 +536,7 @@ def populate_color_selectors(data):
                 display_match(key)
 
                 # Créer les champs pour chaque clé filtrée
-                label = tk.Label(color_frame, text=name,
+                label = tk.Label(color_frame, text=key,
                                  font=("Arial", 10, "bold"))
                 label.grid(row=row, column=col*3, padx=5, pady=5, sticky="w")
 

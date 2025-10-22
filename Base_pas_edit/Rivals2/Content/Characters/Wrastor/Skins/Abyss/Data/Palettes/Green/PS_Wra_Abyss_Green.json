@@ -32,7 +32,6 @@
       "CustomColorSlotDefinitions": [
         {
           "Key": "Body",
-          "Name": "Body",
           "Value": {
             "R": 0.06301,
             "G": 0.234551,
@@ -43,7 +42,6 @@
         },
         {
           "Key": "Wings",
-          "Name": "Wings",
           "Value": {
             "R": 0.12181,
             "G": 0.14996,
@@ -54,7 +52,6 @@
         },
         {
           "Key": "Legs",
-          "Name": "Legs",
           "Value": {
             "R": 0.630757,
             "G": 0.413622,
@@ -65,7 +62,6 @@
         },
         {
           "Key": "Eyes",
-          "Name": "Eyes",
           "Value": {
             "R": 0.689493,
             "G": 1.0,
@@ -76,7 +72,6 @@
         },
         {
           "Key": "Eyes2",
-          "Name": "Eyes2",
           "Value": {
             "R": 0.220374,
             "G": 0.545724,
@@ -87,7 +82,6 @@
         },
         {
           "Key": "Scarf",
-          "Name": "Scarf",
           "Value": {
             "R": 0.0,
             "G": 1.0,
