@@ -33,7 +33,7 @@ character_icons = {}
 file_type_codes = {'Element/Energy': 'PE', 'Skin': 'PS'}
 wine_cmd: str = str()
 
-__version__ = "1.3.4.2-stable"
+__version__ = "1.3.5.0-stable"
 
 wine_cmds: dict[str, str] = {'system_wine': "wine",
                              'flatpak_wine': "org.winehq.Wine"
