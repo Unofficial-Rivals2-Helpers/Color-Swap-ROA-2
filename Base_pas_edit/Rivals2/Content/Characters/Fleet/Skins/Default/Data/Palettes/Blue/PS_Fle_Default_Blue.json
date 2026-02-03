@@ -27,7 +27,7 @@
     "Type": "PS_Fle_Default_Blue_C",
     "Name": "Default__PS_Fle_Default_Blue_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Default/Data/Palettes/Blue/PS_Fle_Default_Blue.PS_Fle_Default_Blue_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -181,7 +181,17 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.36153,
+            "G": 0.58583,
+            "B": 0.802,
+            "A": 1.0,
+            "Hex": "A2CAE8"
+          }
+        },
+        {
+          "Key": "LeftIris",
           "Value": {
             "R": 0.36153,
             "G": 0.58583,

@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Cla_Elf_Red_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Cla_Elf_Red_C'Default__PE_Cla_Elf_Red_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Clairen/Skins/Elf/Data/Palettes/Red/PE_Cla_Elf_Red.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Cla_Elf_Red_C",
+    "Name": "Default__PE_Cla_Elf_Red_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Clairen/Skins/Elf/Data/Palettes/Red/PE_Cla_Elf_Red.PE_Cla_Elf_Red_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 1.0,
+            "G": 0.672917,
+            "B": 0.182292,
+            "A": 1.0,
+            "Hex": "FFD676"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.958333,
+            "G": 0.586979,
+            "B": 0.029948,
+            "A": 1.0,
+            "Hex": "FBCA30"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.588542,
+            "G": 0.10652,
+            "B": 0.021457,
+            "A": 1.0,
+            "Hex": "CA5C28"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.859375,
+            "G": 0.246847,
+            "B": 0.138753,
+            "A": 1.0,
+            "Hex": "EF8868"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

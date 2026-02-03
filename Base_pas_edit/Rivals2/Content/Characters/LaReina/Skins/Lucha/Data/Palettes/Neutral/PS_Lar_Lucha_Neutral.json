@@ -1,0 +1,236 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Lar_Lucha_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Lar_Lucha_Neutral_C'Default__PS_Lar_Lucha_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/LaReina/Skins/Lucha/Data/Palettes/Neutral/PS_Lar_Lucha_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Lar_Lucha_Neutral_C",
+    "Name": "Default__PS_Lar_Lucha_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/LaReina/Skins/Lucha/Data/Palettes/Neutral/PS_Lar_Lucha_Neutral.PS_Lar_Lucha_Neutral_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Flaps",
+          "Value": {
+            "R": 0.327778,
+            "G": 0.016807,
+            "B": 0.296138,
+            "A": 1.0,
+            "Hex": "9B2394"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.016,
+            "G": 0.014879,
+            "B": 0.013803,
+            "A": 1.0,
+            "Hex": "22201F"
+          }
+        },
+        {
+          "Key": "Color1",
+          "Value": {
+            "R": 0.286,
+            "G": 0.014665,
+            "B": 0.213644,
+            "A": 1.0,
+            "Hex": "92207F"
+          }
+        },
+        {
+          "Key": "Color2",
+          "Value": {
+            "R": 0.052703,
+            "G": 0.01914,
+            "B": 0.145,
+            "A": 1.0,
+            "Hex": "41256A"
+          }
+        },
+        {
+          "Key": "Jacket",
+          "Value": {
+            "R": 0.081726,
+            "G": 0.00318,
+            "B": 0.265,
+            "A": 1.0,
+            "Hex": "510A8D"
+          }
+        },
+        {
+          "Key": "Trim",
+          "Value": {
+            "R": 0.904661,
+            "G": 0.533276,
+            "B": 0.116971,
+            "A": 1.0,
+            "Hex": "F4C160"
+          }
+        },
+        {
+          "Key": "Boa",
+          "Value": {
+            "R": 0.527,
+            "G": 0.036363,
+            "B": 0.420695,
+            "A": 1.0,
+            "Hex": "C035AE"
+          }
+        },
+        {
+          "Key": "Mask",
+          "Value": {
+            "R": 0.185041,
+            "G": 0.0072,
+            "B": 0.6,
+            "A": 1.0,
+            "Hex": "7714CC"
+          }
+        },
+        {
+          "Key": "Crown",
+          "Value": {
+            "R": 0.904661,
+            "G": 0.533276,
+            "B": 0.116971,
+            "A": 1.0,
+            "Hex": "F4C160"
+          }
+        },
+        {
+          "Key": "Claws",
+          "Value": {
+            "R": 1.0,
+            "G": 0.604423,
+            "B": 0.161,
+            "A": 1.0,
+            "Hex": "FFCC70"
+          }
+        },
+        {
+          "Key": "MaskSclera",
+          "Value": {
+            "R": 0.997,
+            "G": 0.997,
+            "B": 0.997,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "MaskScleraShading",
+          "Value": {
+            "R": 0.218,
+            "G": 0.19402,
+            "B": 0.19402,
+            "A": 1.0,
+            "Hex": "817A7A"
+          }
+        },
+        {
+          "Key": "MaskEyeliner",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Metal1",
+          "Value": {
+            "R": 0.904661,
+            "G": 0.533276,
+            "B": 0.116971,
+            "A": 1.0,
+            "Hex": "F4C160"
+          }
+        },
+        {
+          "Key": "Metal2",
+          "Value": {
+            "R": 0.219,
+            "G": 0.129095,
+            "B": 0.028316,
+            "A": 1.0,
+            "Hex": "81652F"
+          }
+        },
+        {
+          "Key": "Stand",
+          "Value": {
+            "R": 0.020289,
+            "G": 0.019382,
+            "B": 0.017642,
+            "A": 1.0,
+            "Hex": "272624"
+          }
+        },
+        {
+          "Key": "Tarp",
+          "Value": {
+            "R": 0.439657,
+            "G": 0.439657,
+            "B": 0.439657,
+            "A": 1.0,
+            "Hex": "B1B1B1"
+          }
+        },
+        {
+          "Key": "Bumper",
+          "Value": {
+            "R": 0.041431,
+            "G": 0.0147,
+            "B": 0.1,
+            "A": 1.0,
+            "Hex": "392059"
+          }
+        },
+        {
+          "Key": "Ropes",
+          "Value": {
+            "R": 0.327778,
+            "G": 0.016807,
+            "B": 0.296138,
+            "A": 1.0,
+            "Hex": "9B2394"
+          }
+        },
+        {
+          "Key": "Pole",
+          "Value": {
+            "R": 0.351,
+            "G": 0.31239,
+            "B": 0.31239,
+            "A": 1.0,
+            "Hex": "A09898"
+          }
+        }
+      ]
+    }
+  }
+]

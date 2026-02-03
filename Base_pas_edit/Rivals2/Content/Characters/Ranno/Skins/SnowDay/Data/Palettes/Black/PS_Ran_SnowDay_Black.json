@@ -1,0 +1,166 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Ran_SnowDay_Black_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Ran_SnowDay_Black_C'Default__PS_Ran_SnowDay_Black_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Ranno/Skins/SnowDay/Data/Palettes/Black/PS_Ran_SnowDay_Black.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Ran_SnowDay_Black_C",
+    "Name": "Default__PS_Ran_SnowDay_Black_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Ranno/Skins/SnowDay/Data/Palettes/Black/PS_Ran_SnowDay_Black.PS_Ran_SnowDay_Black_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Pants",
+          "Value": {
+            "R": 0.386,
+            "G": 0.386,
+            "B": 0.386,
+            "A": 1.0,
+            "Hex": "A7A7A7"
+          }
+        },
+        {
+          "Key": "Jacket",
+          "Value": {
+            "R": 0.017,
+            "G": 0.010285,
+            "B": 0.010285,
+            "A": 1.0,
+            "Hex": "231A1A"
+          }
+        },
+        {
+          "Key": "Metal",
+          "Value": {
+            "R": 0.133,
+            "G": 0.133,
+            "B": 0.133,
+            "A": 1.0,
+            "Hex": "666666"
+          }
+        },
+        {
+          "Key": "Mitts",
+          "Value": {
+            "R": 0.153,
+            "G": 0.015147,
+            "B": 0.015147,
+            "A": 1.0,
+            "Hex": "6D2121"
+          }
+        },
+        {
+          "Key": "Lining",
+          "Value": {
+            "R": 0.201,
+            "G": 0.118198,
+            "B": 0.050451,
+            "A": 1.0,
+            "Hex": "7C603F"
+          }
+        },
+        {
+          "Key": "BootSole",
+          "Value": {
+            "R": 0.017,
+            "G": 0.010285,
+            "B": 0.010285,
+            "A": 1.0,
+            "Hex": "231A1A"
+          }
+        },
+        {
+          "Key": "BootLeather",
+          "Value": {
+            "R": 0.153,
+            "G": 0.015147,
+            "B": 0.015147,
+            "A": 1.0,
+            "Hex": "6D2121"
+          }
+        },
+        {
+          "Key": "Snow",
+          "Value": {
+            "R": 0.02256,
+            "G": 0.025819,
+            "B": 0.047,
+            "A": 1.0,
+            "Hex": "292C3D"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.004537,
+            "G": 0.079171,
+            "B": 0.349,
+            "A": 1.0,
+            "Hex": "0E4FA0"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.236526,
+            "G": 0.28902,
+            "B": 0.499,
+            "A": 1.0,
+            "Hex": "8692BC"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.007482,
+            "G": 0.016642,
+            "B": 0.086,
+            "A": 1.0,
+            "Hex": "152253"
+          }
+        },
+        {
+          "Key": "Tongue",
+          "Value": {
+            "R": 0.153,
+            "G": 0.015147,
+            "B": 0.015147,
+            "A": 1.0,
+            "Hex": "6D2121"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.935,
+            "G": 0.45067,
+            "B": 0.10472,
+            "A": 1.0,
+            "Hex": "F8B35B"
+          }
+        }
+      ]
+    }
+  }
+]

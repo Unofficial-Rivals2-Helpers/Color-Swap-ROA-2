@@ -27,7 +27,7 @@
     "Type": "PS_Wra_Default_Green_C",
     "Name": "Default__PS_Wra_Default_Green_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Wrastor/Skins/Default/Data/Palettes/Green/PS_Wra_Default_Green.PS_Wra_Default_Green_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -68,6 +68,16 @@
             "B": 0.035601,
             "A": 1.0,
             "Hex": "D69835"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.084,
+            "G": 0.084,
+            "B": 0.084,
+            "A": 1.0,
+            "Hex": "525252"
           }
         },
         {

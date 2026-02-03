@@ -27,7 +27,7 @@
     "Type": "PS_Eta_Sunbear_Purple_C",
     "Name": "Default__PS_Eta_Sunbear_Purple_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Etalus/Skins/Sunbear/Data/Palettes/Purple/PS_Eta_Sunbear_Purple.PS_Eta_Sunbear_Purple_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -88,6 +88,16 @@
             "B": 0.227677,
             "A": 1.0,
             "Hex": "D99B83"
+          }
+        },
+        {
+          "Key": "LogoBackground",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
           }
         },
         {

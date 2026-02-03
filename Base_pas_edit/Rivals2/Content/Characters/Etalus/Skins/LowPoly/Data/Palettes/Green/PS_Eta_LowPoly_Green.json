@@ -1,0 +1,166 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Eta_LowPoly_Green_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Eta_LowPoly_Green_C'Default__PS_Eta_LowPoly_Green_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Etalus/Skins/LowPoly/Data/Palettes/Green/PS_Eta_LowPoly_Green.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Eta_LowPoly_Green_C",
+    "Name": "Default__PS_Eta_LowPoly_Green_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Etalus/Skins/LowPoly/Data/Palettes/Green/PS_Eta_LowPoly_Green.PS_Eta_LowPoly_Green_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.116971,
+            "G": 0.116971,
+            "B": 0.116971,
+            "A": 1.0,
+            "Hex": "606060"
+          }
+        },
+        {
+          "Key": "Scars",
+          "Value": {
+            "R": 0.665387,
+            "G": 0.73791,
+            "B": 0.201556,
+            "A": 1.0,
+            "Hex": "D5DF7C"
+          }
+        },
+        {
+          "Key": "Nose",
+          "Value": {
+            "R": 0.168269,
+            "G": 0.439657,
+            "B": 0.07036,
+            "A": 1.0,
+            "Hex": "72B14B"
+          }
+        },
+        {
+          "Key": "Wraps",
+          "Value": {
+            "R": 0.584078,
+            "G": 0.658375,
+            "B": 0.242281,
+            "A": 1.0,
+            "Hex": "C9D487"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Pupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.3564,
+            "G": 0.138432,
+            "B": 0.045186,
+            "A": 1.0,
+            "Hex": "A1683C"
+          }
+        },
+        {
+          "Key": "Mouth",
+          "Value": {
+            "R": 0.597202,
+            "G": 0.208637,
+            "B": 0.177888,
+            "A": 1.0,
+            "Hex": "CB7E75"
+          }
+        },
+        {
+          "Key": "Ice1",
+          "Value": {
+            "R": 0.282353,
+            "G": 1.0,
+            "B": 0.290196,
+            "A": 1.0,
+            "Hex": "91FF93"
+          }
+        },
+        {
+          "Key": "Ice2",
+          "Value": {
+            "R": 0.168269,
+            "G": 0.439657,
+            "B": 0.07036,
+            "A": 1.0,
+            "Hex": "72B14B"
+          }
+        },
+        {
+          "Key": "Innermouth",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Teeth",
+          "Value": {
+            "R": 0.817708,
+            "G": 0.817708,
+            "B": 0.817708,
+            "A": 1.0,
+            "Hex": "EAEAEA"
+          }
+        },
+        {
+          "Key": "Furaccent",
+          "Value": {
+            "R": 0.116971,
+            "G": 0.116971,
+            "B": 0.116971,
+            "A": 1.0,
+            "Hex": "606060"
+          }
+        }
+      ]
+    }
+  }
+]

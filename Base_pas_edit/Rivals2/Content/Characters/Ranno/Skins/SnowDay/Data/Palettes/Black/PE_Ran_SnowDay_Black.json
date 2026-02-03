@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Ran_SnowDay_Black_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Ran_SnowDay_Black_C'Default__PE_Ran_SnowDay_Black_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Ranno/Skins/SnowDay/Data/Palettes/Black/PE_Ran_SnowDay_Black.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Ran_SnowDay_Black_C",
+    "Name": "Default__PE_Ran_SnowDay_Black_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Ranno/Skins/SnowDay/Data/Palettes/Black/PE_Ran_SnowDay_Black.PE_Ran_SnowDay_Black_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.18873,
+            "G": 0.221168,
+            "B": 0.405,
+            "A": 1.0,
+            "Hex": "7881AB"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.02373,
+            "G": 0.0299,
+            "B": 0.07,
+            "A": 1.0,
+            "Hex": "2A304B"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.038985,
+            "G": 0.048854,
+            "B": 0.113,
+            "A": 1.0,
+            "Hex": "373E5E"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.08588,
+            "G": 0.106896,
+            "B": 0.226,
+            "A": 1.0,
+            "Hex": "535C83"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.149,
+            "G": 0.171348,
+            "B": 0.298,
+            "A": 1.0,
+            "Hex": "6C7395"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.806952,
+            "G": 0.806952,
+            "B": 0.806952,
+            "A": 1.0,
+            "Hex": "E8E8E8"
+          }
+        }
+      ]
+    }
+  }
+]

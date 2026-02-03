@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Cla_Baseball_SSE_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Cla_Baseball_SSE_C'Default__PE_Cla_Baseball_SSE_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Clairen/Skins/Baseball/Data/Palettes/SSE/PE_Cla_Baseball_SSE.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Cla_Baseball_SSE_C",
+    "Name": "Default__PE_Cla_Baseball_SSE_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Clairen/Skins/Baseball/Data/Palettes/SSE/PE_Cla_Baseball_SSE.PE_Cla_Baseball_SSE_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.039594,
+            "G": 0.008898,
+            "B": 0.213542,
+            "A": 1.0,
+            "Hex": "38177F"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.128495,
+            "G": 0.074214,
+            "B": 0.539479,
+            "A": 1.0,
+            "Hex": "644DC2"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 1.0,
+            "G": 0.679542,
+            "B": 0.124772,
+            "A": 1.0,
+            "Hex": "FFD763"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.947307,
+            "G": 0.715693,
+            "B": 0.254152,
+            "A": 1.0,
+            "Hex": "F9DC8A"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

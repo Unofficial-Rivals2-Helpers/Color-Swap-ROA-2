@@ -1,0 +1,176 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Eta_Grizzly_Red_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Eta_Grizzly_Red_C'Default__PS_Eta_Grizzly_Red_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Etalus/Skins/Grizzly/Data/Palettes/Red/PS_Eta_Grizzly_Red.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Eta_Grizzly_Red_C",
+    "Name": "Default__PS_Eta_Grizzly_Red_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Etalus/Skins/Grizzly/Data/Palettes/Red/PS_Eta_Grizzly_Red.PS_Eta_Grizzly_Red_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.109375,
+            "G": 0.034483,
+            "B": 0.031901,
+            "A": 1.0,
+            "Hex": "5D3432"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.411458,
+            "G": 0.231445,
+            "B": 0.231445,
+            "A": 1.0,
+            "Hex": "AC8484"
+          }
+        },
+        {
+          "Key": "Nose",
+          "Value": {
+            "R": 0.013702,
+            "G": 0.01096,
+            "B": 0.01096,
+            "A": 1.0,
+            "Hex": "1F1B1B"
+          }
+        },
+        {
+          "Key": "Claws",
+          "Value": {
+            "R": 0.033105,
+            "G": 0.033105,
+            "B": 0.033105,
+            "A": 1.0,
+            "Hex": "333333"
+          }
+        },
+        {
+          "Key": "PawPads",
+          "Value": {
+            "R": 0.364583,
+            "G": 0.181627,
+            "B": 0.096842,
+            "A": 1.0,
+            "Hex": "A37658"
+          }
+        },
+        {
+          "Key": "Ears",
+          "Value": {
+            "R": 0.775822,
+            "G": 0.5547,
+            "B": 0.396755,
+            "A": 1.0,
+            "Hex": "E4C5A9"
+          }
+        },
+        {
+          "Key": "Wraps",
+          "Value": {
+            "R": 0.473958,
+            "G": 0.25426,
+            "B": 0.034559,
+            "A": 1.0,
+            "Hex": "B78A34"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 1.0,
+            "G": 0.963464,
+            "B": 0.91039,
+            "A": 1.0,
+            "Hex": "FFFBF5"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.498264,
+            "G": 0.480059,
+            "B": 0.453614,
+            "A": 1.0,
+            "Hex": "BBB8B4"
+          }
+        },
+        {
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.564712,
+            "G": 0.360004,
+            "B": 0.052942,
+            "A": 1.0,
+            "Hex": "C6A241"
+          }
+        },
+        {
+          "Key": "LeftIris",
+          "Value": {
+            "R": 0.564712,
+            "G": 0.360004,
+            "B": 0.052942,
+            "A": 1.0,
+            "Hex": "C6A241"
+          }
+        },
+        {
+          "Key": "LeftPupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "RightPupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Eyeliner",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        }
+      ]
+    }
+  }
+]

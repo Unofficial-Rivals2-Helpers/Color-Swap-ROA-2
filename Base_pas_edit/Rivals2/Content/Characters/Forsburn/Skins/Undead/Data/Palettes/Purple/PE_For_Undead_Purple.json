@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_For_Undead_Purple_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_For_Undead_Purple_C'Default__PE_For_Undead_Purple_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Forsburn/Skins/Undead/Data/Palettes/Purple/PE_For_Undead_Purple.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_For_Undead_Purple_C",
+    "Name": "Default__PE_For_Undead_Purple_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Forsburn/Skins/Undead/Data/Palettes/Purple/PE_For_Undead_Purple.PE_For_Undead_Purple_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.6,
+            "G": 0.478431,
+            "B": 0.447059,
+            "A": 1.0,
+            "Hex": "CCB8B3"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.056863,
+            "G": 0.056863,
+            "B": 0.1,
+            "A": 1.0,
+            "Hex": "434359"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.00952,
+            "G": 0.00952,
+            "B": 0.04,
+            "A": 1.0,
+            "Hex": "181838"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.184831,
+            "G": 0.001246,
+            "B": 0.552,
+            "A": 1.0,
+            "Hex": "7704C4"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.376004,
+            "G": 0.012286,
+            "B": 0.921582,
+            "A": 1.0,
+            "Hex": "A51DF6"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.634741,
+            "G": 0.049707,
+            "B": 0.973445,
+            "A": 1.0,
+            "Hex": "D13FFC"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Abs_Default_Holiday_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Abs_Default_Holiday_C'Default__PE_Abs_Default_Holiday_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Absa/Skins/Default/Data/Palettes/Holiday/PE_Abs_Default_Holiday.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Abs_Default_Holiday_C",
+    "Name": "Default__PE_Abs_Default_Holiday_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Absa/Skins/Default/Data/Palettes/Holiday/PE_Abs_Default_Holiday.PE_Abs_Default_Holiday_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 1.0,
+            "G": 0.837,
+            "B": 0.837,
+            "A": 1.0,
+            "Hex": "FFECEC"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.101702,
+            "G": 0.959,
+            "B": 0.056581,
+            "A": 1.0,
+            "Hex": "5AFB43"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.017992,
+            "G": 0.346,
+            "B": 0.03986,
+            "A": 1.0,
+            "Hex": "249F38"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.8394,
+            "G": 1.0,
+            "B": 0.708,
+            "A": 1.0,
+            "Hex": "ECFFDB"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.017992,
+            "G": 0.346,
+            "B": 0.03986,
+            "A": 1.0,
+            "Hex": "249F38"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 0.694,
+            "G": 0.018738,
+            "B": 0.018738,
+            "A": 1.0,
+            "Hex": "D92525"
+          }
+        }
+      ]
+    }
+  }
+]

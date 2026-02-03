@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Lar_Abyss_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Lar_Abyss_Neutral_C'Default__PE_Lar_Abyss_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/LaReina/Skins/Abyss/Data/Palettes/Neutral/PE_Lar_Abyss_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Lar_Abyss_Neutral_C",
+    "Name": "Default__PE_Lar_Abyss_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/LaReina/Skins/Abyss/Data/Palettes/Neutral/PE_Lar_Abyss_Neutral.PE_Lar_Abyss_Neutral_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.080153,
+            "G": 0.027456,
+            "B": 0.192,
+            "A": 1.0,
+            "Hex": "502E79"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.344563,
+            "G": 0.07224,
+            "B": 0.602,
+            "A": 1.0,
+            "Hex": "9F4CCC"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.603998,
+            "G": 0.234551,
+            "B": 0.973445,
+            "A": 1.0,
+            "Hex": "CC85FC"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.991102,
+            "G": 0.626278,
+            "B": 0.180381,
+            "A": 1.0,
+            "Hex": "FED076"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

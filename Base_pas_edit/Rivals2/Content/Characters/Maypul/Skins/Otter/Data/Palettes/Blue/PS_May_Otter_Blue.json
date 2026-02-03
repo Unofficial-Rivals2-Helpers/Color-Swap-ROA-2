@@ -27,7 +27,7 @@
     "Type": "PS_May_Otter_Blue_C",
     "Name": "Default__PS_May_Otter_Blue_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/Otter/Data/Palettes/Blue/PS_May_Otter_Blue.PS_May_Otter_Blue_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -101,7 +101,7 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
           "Value": {
             "R": 0.028478,
             "G": 0.106,
@@ -111,13 +111,13 @@
           }
         },
         {
-          "Key": "Pattern",
+          "Key": "LeftIris",
           "Value": {
-            "R": 0.0706,
-            "G": 0.079227,
-            "B": 0.2,
+            "R": 0.028478,
+            "G": 0.106,
+            "B": 0.007035,
             "A": 1.0,
-            "Hex": "4B4F7C"
+            "Hex": "2F5B14"
           }
         },
         {
@@ -138,6 +138,16 @@
             "B": 0.343677,
             "A": 1.0,
             "Hex": "FFE89E"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.0706,
+            "G": 0.079227,
+            "B": 0.2,
+            "A": 1.0,
+            "Hex": "4B4F7C"
           }
         }
       ]

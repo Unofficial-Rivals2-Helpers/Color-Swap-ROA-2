@@ -1,0 +1,216 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Lox_Abyss_Midnight_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Lox_Abyss_Midnight_C'Default__PS_Lox_Abyss_Midnight_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Loxodont/Skins/Abyss/Data/Palettes/Midnight/PS_Lox_Abyss_Midnight.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Lox_Abyss_Midnight_C",
+    "Name": "Default__PS_Lox_Abyss_Midnight_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Loxodont/Skins/Abyss/Data/Palettes/Midnight/PS_Lox_Abyss_Midnight.PS_Lox_Abyss_Midnight_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body_Main",
+          "Value": {
+            "R": 0.118038,
+            "G": 0.175013,
+            "B": 0.382,
+            "A": 1.0,
+            "Hex": "6074A6"
+          }
+        },
+        {
+          "Key": "Body_AbyssDark",
+          "Value": {
+            "R": 0.015397,
+            "G": 0.024741,
+            "B": 0.089,
+            "A": 1.0,
+            "Hex": "212B54"
+          }
+        },
+        {
+          "Key": "Body_AbyssBright",
+          "Value": {
+            "R": 0.462077,
+            "G": 0.066626,
+            "B": 0.084376,
+            "A": 1.0,
+            "Hex": "B54952"
+          }
+        },
+        {
+          "Key": "Body_WingNails",
+          "Value": {
+            "R": 0.019382,
+            "G": 0.014444,
+            "B": 0.030713,
+            "A": 1.0,
+            "Hex": "262031"
+          }
+        },
+        {
+          "Key": "BodyMolten_Main",
+          "Value": {
+            "R": 0.037249,
+            "G": 0.029197,
+            "B": 0.043,
+            "A": 1.0,
+            "Hex": "362F3A"
+          }
+        },
+        {
+          "Key": "Clothing_Bone",
+          "Value": {
+            "R": 0.00846,
+            "G": 0.011194,
+            "B": 0.03,
+            "A": 1.0,
+            "Hex": "161B30"
+          }
+        },
+        {
+          "Key": "Clothing_Cloth",
+          "Value": {
+            "R": 0.193,
+            "G": 0.02895,
+            "B": 0.037551,
+            "A": 1.0,
+            "Hex": "7A2F36"
+          }
+        },
+        {
+          "Key": "Tusks_AbyssDark",
+          "Value": {
+            "R": 0.018335,
+            "G": 0.012183,
+            "B": 0.026042,
+            "A": 1.0,
+            "Hex": "241C2C"
+          }
+        },
+        {
+          "Key": "Tusks_AbyssBright",
+          "Value": {
+            "R": 0.566,
+            "G": 0.061128,
+            "B": 0.083789,
+            "A": 1.0,
+            "Hex": "C64652"
+          }
+        },
+        {
+          "Key": "Axe_AbyssDark",
+          "Value": {
+            "R": 0.012705,
+            "G": 0.020867,
+            "B": 0.077,
+            "A": 1.0,
+            "Hex": "1D274E"
+          }
+        },
+        {
+          "Key": "Axe_AbyssBright",
+          "Value": {
+            "R": 0.462077,
+            "G": 0.066626,
+            "B": 0.084376,
+            "A": 1.0,
+            "Hex": "B54952"
+          }
+        },
+        {
+          "Key": "Axe_Bone",
+          "Value": {
+            "R": 0.335099,
+            "G": 0.07008,
+            "B": 0.365,
+            "A": 1.0,
+            "Hex": "9D4BA3"
+          }
+        },
+        {
+          "Key": "AbyssEye_Sclera",
+          "Value": {
+            "R": 0.002,
+            "G": 0.001176,
+            "B": 9.2E-05,
+            "A": 1.0,
+            "Hex": "060300"
+          }
+        },
+        {
+          "Key": "AbyssEye_Iris",
+          "Value": {
+            "R": 1.0,
+            "G": 0.046,
+            "B": 0.07564,
+            "A": 1.0,
+            "Hex": "FF3C4E"
+          }
+        },
+        {
+          "Key": "Throne_AbyssSeal",
+          "Value": {
+            "R": 0.020289,
+            "G": 0.048172,
+            "B": 0.104616,
+            "A": 1.0,
+            "Hex": "273E5B"
+          }
+        },
+        {
+          "Key": "Throne_Stone",
+          "Value": {
+            "R": 0.321,
+            "G": 0.069817,
+            "B": 0.019581,
+            "A": 1.0,
+            "Hex": "9A4B26"
+          }
+        },
+        {
+          "Key": "Throne_AbyssBright",
+          "Value": {
+            "R": 0.462077,
+            "G": 0.066626,
+            "B": 0.084376,
+            "A": 1.0,
+            "Hex": "B54952"
+          }
+        },
+        {
+          "Key": "Throne_AbyssDark",
+          "Value": {
+            "R": 0.147027,
+            "G": 0.06301,
+            "B": 0.191202,
+            "A": 1.0,
+            "Hex": "6B4779"
+          }
+        }
+      ]
+    }
+  }
+]

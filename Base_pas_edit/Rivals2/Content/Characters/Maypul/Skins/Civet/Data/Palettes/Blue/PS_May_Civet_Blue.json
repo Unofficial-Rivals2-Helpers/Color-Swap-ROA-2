@@ -27,7 +27,7 @@
     "Type": "PS_May_Civet_Blue_C",
     "Name": "Default__PS_May_Civet_Blue_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/Civet/Data/Palettes/Blue/PS_May_Civet_Blue.PS_May_Civet_Blue_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -81,7 +81,17 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.093,
+            "G": 0.031789,
+            "B": 0.01023,
+            "A": 1.0,
+            "Hex": "563219"
+          }
+        },
+        {
+          "Key": "LeftIris",
           "Value": {
             "R": 0.093,
             "G": 0.031789,

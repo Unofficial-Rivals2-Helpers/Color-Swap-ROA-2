@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Ran_Clown_Green_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Ran_Clown_Green_C'Default__PE_Ran_Clown_Green_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Ranno/Skins/Clown/Data/Palettes/Green/PE_Ran_Clown_Green.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Ran_Clown_Green_C",
+    "Name": "Default__PE_Ran_Clown_Green_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Ranno/Skins/Clown/Data/Palettes/Green/PE_Ran_Clown_Green.PE_Ran_Clown_Green_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.529674,
+            "G": 0.904661,
+            "B": 0.201561,
+            "A": 1.0,
+            "Hex": "C1F47C"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.641717,
+            "G": 1.0,
+            "B": 0.419,
+            "A": 1.0,
+            "Hex": "D2FFAD"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.68805,
+            "G": 1.0,
+            "B": 0.633,
+            "A": 1.0,
+            "Hex": "D9FFD1"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.882813,
+            "G": 1.0,
+            "B": 0.869792,
+            "A": 1.0,
+            "Hex": "F2FFF0"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

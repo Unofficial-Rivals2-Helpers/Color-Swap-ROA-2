@@ -27,7 +27,7 @@
     "Type": "PS_Fle_Summer_Neutral_C",
     "Name": "Default__PS_Fle_Summer_Neutral_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Summer/Data/Palettes/Neutral/PS_Fle_Summer_Neutral.PS_Fle_Summer_Neutral_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -191,7 +191,17 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.882,
+            "G": 0.882,
+            "B": 0.882,
+            "A": 1.0,
+            "Hex": "F2F2F2"
+          }
+        },
+        {
+          "Key": "RightIris",
           "Value": {
             "R": 0.591142,
             "G": 0.682292,
@@ -201,13 +211,13 @@
           }
         },
         {
-          "Key": "Scelera",
+          "Key": "LeftIris",
           "Value": {
-            "R": 0.882,
-            "G": 0.882,
-            "B": 0.882,
+            "R": 0.591142,
+            "G": 0.682292,
+            "B": 0.074626,
             "A": 1.0,
-            "Hex": "F2F2F2"
+            "Hex": "CAD84D"
           }
         }
       ]

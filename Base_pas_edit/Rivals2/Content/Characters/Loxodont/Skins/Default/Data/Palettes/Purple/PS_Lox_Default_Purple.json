@@ -27,7 +27,7 @@
     "Type": "PS_Lox_Default_Purple_C",
     "Name": "Default__PS_Lox_Default_Purple_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Loxodont/Skins/Default/Data/Palettes/Purple/PS_Lox_Default_Purple.PS_Lox_Default_Purple_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -71,7 +71,17 @@
           }
         },
         {
-          "Key": "Pupil",
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.015497,
+            "G": 0.015625,
+            "B": 0.013,
+            "A": 1.0,
+            "Hex": "21211E"
+          }
+        },
+        {
+          "Key": "RightIris",
           "Value": {
             "R": 0.694,
             "G": 0.562418,
@@ -81,13 +91,13 @@
           }
         },
         {
-          "Key": "Scelera",
+          "Key": "LeftIris",
           "Value": {
-            "R": 0.015497,
-            "G": 0.015625,
-            "B": 0.013,
+            "R": 0.694,
+            "G": 0.562418,
+            "B": 0.036088,
             "A": 1.0,
-            "Hex": "21211E"
+            "Hex": "D9C635"
           }
         },
         {

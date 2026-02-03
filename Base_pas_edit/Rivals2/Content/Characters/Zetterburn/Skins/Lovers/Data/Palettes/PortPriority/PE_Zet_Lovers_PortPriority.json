@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Zet_Lovers_PortPriority_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Zet_Lovers_PortPriority_C'Default__PE_Zet_Lovers_PortPriority_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Zetterburn/Skins/Lovers/Data/Palettes/PortPriority/PE_Zet_Lovers_PortPriority.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Zet_Lovers_PortPriority_C",
+    "Name": "Default__PE_Zet_Lovers_PortPriority_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Zetterburn/Skins/Lovers/Data/Palettes/PortPriority/PE_Zet_Lovers_PortPriority.PE_Zet_Lovers_PortPriority_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.0363,
+            "G": 0.0,
+            "B": 0.099,
+            "A": 1.0,
+            "Hex": "350058"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.058025,
+            "G": 0.010734,
+            "B": 0.229,
+            "A": 1.0,
+            "Hex": "441A84"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.172381,
+            "G": 0.225785,
+            "B": 0.973446,
+            "A": 1.0,
+            "Hex": "7383FC"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.490389,
+            "G": 0.815852,
+            "B": 0.991102,
+            "A": 1.0,
+            "Hex": "BAEAFE"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

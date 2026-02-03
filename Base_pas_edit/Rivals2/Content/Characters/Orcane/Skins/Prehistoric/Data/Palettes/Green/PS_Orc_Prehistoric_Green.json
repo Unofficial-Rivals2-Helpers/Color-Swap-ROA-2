@@ -27,7 +27,7 @@
     "Type": "PS_Orc_Prehistoric_Green_C",
     "Name": "Default__PS_Orc_Prehistoric_Green_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Orcane/Skins/Prehistoric/Data/Palettes/Green/PS_Orc_Prehistoric_Green.PS_Orc_Prehistoric_Green_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -71,7 +71,7 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "Sclera",
           "Value": {
             "R": 0.286965,
             "G": 0.031195,

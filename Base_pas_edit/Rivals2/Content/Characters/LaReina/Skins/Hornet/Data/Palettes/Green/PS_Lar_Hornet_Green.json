@@ -1,0 +1,236 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Lar_Hornet_Green_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Lar_Hornet_Green_C'Default__PS_Lar_Hornet_Green_C'",
+      "ObjectPath": "Rivals2/Content/Characters/LaReina/Skins/Hornet/Data/Palettes/Green/PS_Lar_Hornet_Green.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Lar_Hornet_Green_C",
+    "Name": "Default__PS_Lar_Hornet_Green_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/LaReina/Skins/Hornet/Data/Palettes/Green/PS_Lar_Hornet_Green.PS_Lar_Hornet_Green_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Accent",
+          "Value": {
+            "R": 0.005478,
+            "G": 0.249,
+            "B": 0.017653,
+            "A": 1.0,
+            "Hex": "108924"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.025833,
+            "G": 0.052083,
+            "B": 0.017083,
+            "A": 1.0,
+            "Hex": "2C4023"
+          }
+        },
+        {
+          "Key": "Head",
+          "Value": {
+            "R": 0.025833,
+            "G": 0.052083,
+            "B": 0.017083,
+            "A": 1.0,
+            "Hex": "2C4023"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.6589,
+            "G": 0.6875,
+            "B": 0.1155,
+            "A": 1.0,
+            "Hex": "D4D85F"
+          }
+        },
+        {
+          "Key": "Mask",
+          "Value": {
+            "R": 0.024902,
+            "G": 0.03125,
+            "B": 0.021484,
+            "A": 1.0,
+            "Hex": "2B3128"
+          }
+        },
+        {
+          "Key": "MaskPattern",
+          "Value": {
+            "R": 0.6589,
+            "G": 0.6875,
+            "B": 0.1155,
+            "A": 1.0,
+            "Hex": "D4D85F"
+          }
+        },
+        {
+          "Key": "MaskAccent",
+          "Value": {
+            "R": 0.005478,
+            "G": 0.249,
+            "B": 0.017653,
+            "A": 1.0,
+            "Hex": "108924"
+          }
+        },
+        {
+          "Key": "MaskSclera",
+          "Value": {
+            "R": 0.01089,
+            "G": 0.495,
+            "B": 0.035093,
+            "A": 1.0,
+            "Hex": "1ABB34"
+          }
+        },
+        {
+          "Key": "MaskScleraShading",
+          "Value": {
+            "R": 0.0,
+            "G": 0.057292,
+            "B": 0.002865,
+            "A": 1.0,
+            "Hex": "004309"
+          }
+        },
+        {
+          "Key": "MaskEyeliner",
+          "Value": {
+            "R": 0.005208,
+            "G": 0.005208,
+            "B": 0.005208,
+            "A": 1.0,
+            "Hex": "101010"
+          }
+        },
+        {
+          "Key": "ShoePattern",
+          "Value": {
+            "R": 0.025833,
+            "G": 0.052083,
+            "B": 0.017083,
+            "A": 1.0,
+            "Hex": "2C4023"
+          }
+        },
+        {
+          "Key": "ClothingPattern",
+          "Value": {
+            "R": 0.6589,
+            "G": 0.6875,
+            "B": 0.1155,
+            "A": 1.0,
+            "Hex": "D4D85F"
+          }
+        },
+        {
+          "Key": "Shirt",
+          "Value": {
+            "R": 0.024902,
+            "G": 0.03125,
+            "B": 0.021484,
+            "A": 1.0,
+            "Hex": "2B3128"
+          }
+        },
+        {
+          "Key": "ClothingAccent",
+          "Value": {
+            "R": 0.005478,
+            "G": 0.249,
+            "B": 0.017653,
+            "A": 1.0,
+            "Hex": "108924"
+          }
+        },
+        {
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "LeftIris",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "ClothingStripes",
+          "Value": {
+            "R": 0.051062,
+            "G": 0.052083,
+            "B": 0.02143,
+            "A": 1.0,
+            "Hex": "404028"
+          }
+        },
+        {
+          "Key": "Stand",
+          "Value": {
+            "R": 0.055035,
+            "G": 0.056,
+            "B": 0.027048,
+            "A": 1.0,
+            "Hex": "42432D"
+          }
+        },
+        {
+          "Key": "Tarp",
+          "Value": {
+            "R": 0.531,
+            "G": 0.504981,
+            "B": 0.475245,
+            "A": 1.0,
+            "Hex": "C1BDB8"
+          }
+        },
+        {
+          "Key": "Pole",
+          "Value": {
+            "R": 0.132868,
+            "G": 0.119166,
+            "B": 0.05813,
+            "A": 1.0,
+            "Hex": "666144"
+          }
+        }
+      ]
+    }
+  }
+]

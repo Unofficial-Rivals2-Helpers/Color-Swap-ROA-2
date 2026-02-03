@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Gal_Yuletide_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Gal_Yuletide_Neutral_C'Default__PE_Gal_Yuletide_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Yuletide/Data/Palettes/Neutral/PE_Gal_Yuletide_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Gal_Yuletide_Neutral_C",
+    "Name": "Default__PE_Gal_Yuletide_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Yuletide/Data/Palettes/Neutral/PE_Gal_Yuletide_Neutral.PE_Gal_Yuletide_Neutral_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.863157,
+            "G": 0.013702,
+            "B": 0.007499,
+            "A": 1.0,
+            "Hex": "EF1F15"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.630757,
+            "G": 0.009721,
+            "B": 0.026241,
+            "A": 1.0,
+            "Hex": "D0192D"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.855,
+            "G": 0.23427,
+            "B": 0.250782,
+            "A": 1.0,
+            "Hex": "EE8589"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.026241,
+            "G": 0.184475,
+            "B": 0.049707,
+            "A": 1.0,
+            "Hex": "2D773F"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.106658,
+            "G": 0.455,
+            "B": 0.08008,
+            "A": 1.0,
+            "Hex": "5CB450"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 0.026241,
+            "G": 0.184475,
+            "B": 0.049707,
+            "A": 1.0,
+            "Hex": "2D773F"
+          }
+        }
+      ]
+    }
+  }
+]

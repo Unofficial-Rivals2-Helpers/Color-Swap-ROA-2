@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Gal_Yuletide_Blue_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Gal_Yuletide_Blue_C'Default__PE_Gal_Yuletide_Blue_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Yuletide/Data/Palettes/Blue/PE_Gal_Yuletide_Blue.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Gal_Yuletide_Blue_C",
+    "Name": "Default__PE_Gal_Yuletide_Blue_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Yuletide/Data/Palettes/Blue/PE_Gal_Yuletide_Blue.PE_Gal_Yuletide_Blue_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.009936,
+            "G": 0.018108,
+            "B": 0.108,
+            "A": 1.0,
+            "Hex": "19245C"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.011113,
+            "G": 0.066224,
+            "B": 0.672443,
+            "A": 1.0,
+            "Hex": "1B49D6"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.137316,
+            "G": 0.202671,
+            "B": 0.921582,
+            "A": 1.0,
+            "Hex": "687CF6"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.297027,
+            "G": 0.353395,
+            "B": 0.973446,
+            "A": 1.0,
+            "Hex": "94A1FC"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.0874,
+            "G": 0.04968,
+            "B": 0.276,
+            "A": 1.0,
+            "Hex": "533F8F"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.466644,
+            "G": 0.361752,
+            "B": 0.991102,
+            "A": 1.0,
+            "Hex": "B6A2FE"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 0.0874,
+            "G": 0.04968,
+            "B": 0.276,
+            "A": 1.0,
+            "Hex": "533F8F"
+          }
+        }
+      ]
+    }
+  }
+]

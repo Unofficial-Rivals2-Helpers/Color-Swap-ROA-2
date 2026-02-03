@@ -27,7 +27,7 @@
     "Type": "PS_Orc_LeopardShark_Neutral_C",
     "Name": "Default__PS_Orc_LeopardShark_Neutral_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Orcane/Skins/LeopardShark/Data/Palettes/Neutral/PS_Orc_LeopardShark_Neutral.PS_Orc_LeopardShark_Neutral_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -81,13 +81,23 @@
           }
         },
         {
-          "Key": "Pupil",
+          "Key": "LeftIris",
           "Value": {
-            "R": 0.188,
-            "G": 0.188,
-            "B": 0.188,
+            "R": 0.01,
+            "G": 0.01,
+            "B": 0.01,
             "A": 1.0,
-            "Hex": "787878"
+            "Hex": "191919"
+          }
+        },
+        {
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.01,
+            "G": 0.01,
+            "B": 0.01,
+            "A": 1.0,
+            "Hex": "191919"
           }
         },
         {

@@ -27,7 +27,7 @@
     "Type": "PS_Wra_BBQ_Red_C",
     "Name": "Default__PS_Wra_BBQ_Red_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Wrastor/Skins/BBQ/Data/Palettes/Red/PS_Wra_BBQ_Red.PS_Wra_BBQ_Red_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -68,6 +68,16 @@
             "B": 0.038791,
             "A": 1.0,
             "Hex": "E07937"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.317708,
+            "G": 0.023386,
+            "B": 0.013238,
+            "A": 1.0,
+            "Hex": "992A1E"
           }
         },
         {

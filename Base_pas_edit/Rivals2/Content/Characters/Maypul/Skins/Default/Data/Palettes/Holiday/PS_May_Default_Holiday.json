@@ -1,0 +1,196 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_May_Default_Holiday_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_May_Default_Holiday_C'Default__PS_May_Default_Holiday_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Maypul/Skins/Default/Data/Palettes/Holiday/PS_May_Default_Holiday.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_May_Default_Holiday_C",
+    "Name": "Default__PS_May_Default_Holiday_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/Default/Data/Palettes/Holiday/PS_May_Default_Holiday.PS_May_Default_Holiday_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Pal",
+          "Value": {
+            "R": 0.157984,
+            "G": 0.519,
+            "B": 0.058128,
+            "A": 1.0,
+            "Hex": "6FBF44"
+          }
+        },
+        {
+          "Key": "PVine",
+          "Value": {
+            "R": 0.501,
+            "G": 0.021543,
+            "B": 0.021543,
+            "A": 1.0,
+            "Hex": "BC2828"
+          }
+        },
+        {
+          "Key": "Vine2",
+          "Value": {
+            "R": 0.705,
+            "G": 0.114915,
+            "B": 0.124749,
+            "A": 1.0,
+            "Hex": "DB5F63"
+          }
+        },
+        {
+          "Key": "Leaf",
+          "Value": {
+            "R": 0.157984,
+            "G": 0.519,
+            "B": 0.058128,
+            "A": 1.0,
+            "Hex": "6FBF44"
+          }
+        },
+        {
+          "Key": "Vine",
+          "Value": {
+            "R": 0.361,
+            "G": 0.015523,
+            "B": 0.015523,
+            "A": 1.0,
+            "Hex": "A22121"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.644,
+            "G": 0.06118,
+            "B": 0.070893,
+            "A": 1.0,
+            "Hex": "D2464B"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.632,
+            "G": 0.487398,
+            "B": 0.360872,
+            "A": 1.0,
+            "Hex": "D0BAA2"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.02158,
+            "G": 0.096,
+            "B": 0.002976,
+            "A": 1.0,
+            "Hex": "285709"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.22,
+            "G": 0.22,
+            "B": 0.22,
+            "A": 1.0,
+            "Hex": "818181"
+          }
+        },
+        {
+          "Key": "RightIris",
+          "Value": {
+            "R": 1.0,
+            "G": 0.5394,
+            "B": 0.013,
+            "A": 1.0,
+            "Hex": "FFC21E"
+          }
+        },
+        {
+          "Key": "LeftIris",
+          "Value": {
+            "R": 1.0,
+            "G": 0.5394,
+            "B": 0.013,
+            "A": 1.0,
+            "Hex": "FFC21E"
+          }
+        },
+        {
+          "Key": "LeftPupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "RightPupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Eyeliner",
+          "Value": {
+            "R": 0.015,
+            "G": 0.01206,
+            "B": 0.0108,
+            "A": 1.0,
+            "Hex": "201C1A"
+          }
+        },
+        {
+          "Key": "Poppy",
+          "Value": {
+            "R": 0.061967,
+            "G": 0.286,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "469200"
+          }
+        }
+      ]
+    }
+  }
+]

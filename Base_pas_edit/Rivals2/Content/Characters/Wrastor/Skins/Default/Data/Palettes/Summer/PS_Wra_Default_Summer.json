@@ -27,7 +27,7 @@
     "Type": "PS_Wra_Default_Summer_C",
     "Name": "Default__PS_Wra_Default_Summer_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Wrastor/Skins/Default/Data/Palettes/Summer/PS_Wra_Default_Summer.PS_Wra_Default_Summer_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -68,6 +68,16 @@
             "B": 0.086976,
             "A": 1.0,
             "Hex": "CCB753"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.051,
+            "G": 0.051,
+            "B": 0.051,
+            "A": 1.0,
+            "Hex": "404040"
           }
         },
         {

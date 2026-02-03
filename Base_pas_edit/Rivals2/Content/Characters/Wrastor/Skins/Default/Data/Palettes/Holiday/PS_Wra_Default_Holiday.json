@@ -1,0 +1,146 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Wra_Default_Holiday_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Wra_Default_Holiday_C'Default__PS_Wra_Default_Holiday_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Wrastor/Skins/Default/Data/Palettes/Holiday/PS_Wra_Default_Holiday.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Wra_Default_Holiday_C",
+    "Name": "Default__PS_Wra_Default_Holiday_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Wrastor/Skins/Default/Data/Palettes/Holiday/PS_Wra_Default_Holiday.PS_Wra_Default_Holiday_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.675,
+            "G": 0.035775,
+            "B": 0.035775,
+            "A": 1.0,
+            "Hex": "D73535"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.862,
+            "G": 0.858724,
+            "B": 0.856828,
+            "A": 1.0,
+            "Hex": "EFEFEF"
+          }
+        },
+        {
+          "Key": "Wings",
+          "Value": {
+            "R": 0.040169,
+            "G": 0.163,
+            "B": 0.006194,
+            "A": 1.0,
+            "Hex": "387012"
+          }
+        },
+        {
+          "Key": "Legs",
+          "Value": {
+            "R": 0.794,
+            "G": 0.397143,
+            "B": 0.088928,
+            "A": 1.0,
+            "Hex": "E7A954"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.041,
+            "G": 0.041,
+            "B": 0.041,
+            "A": 1.0,
+            "Hex": "393939"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 1.0,
+            "G": 0.566667,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FFC700"
+          }
+        },
+        {
+          "Key": "Scarf",
+          "Value": {
+            "R": 0.227943,
+            "G": 0.672,
+            "B": 0.196224,
+            "A": 1.0,
+            "Hex": "83D67A"
+          }
+        },
+        {
+          "Key": "Goggles",
+          "Value": {
+            "R": 0.041,
+            "G": 0.041,
+            "B": 0.041,
+            "A": 1.0,
+            "Hex": "393939"
+          }
+        },
+        {
+          "Key": "Lens",
+          "Value": {
+            "R": 0.109965,
+            "G": 0.653,
+            "B": 0.071177,
+            "A": 1.0,
+            "Hex": "5DD44B"
+          }
+        },
+        {
+          "Key": "LensGradient",
+          "Value": {
+            "R": 0.352119,
+            "G": 0.774,
+            "B": 0.321984,
+            "A": 1.0,
+            "Hex": "A0E49A"
+          }
+        },
+        {
+          "Key": "White",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

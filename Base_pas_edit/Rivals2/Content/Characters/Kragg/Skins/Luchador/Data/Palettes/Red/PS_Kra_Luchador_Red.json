@@ -1,0 +1,156 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Kra_Luchador_Red_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Kra_Luchador_Red_C'Default__PS_Kra_Luchador_Red_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Kragg/Skins/Luchador/Data/Palettes/Red/PS_Kra_Luchador_Red.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Kra_Luchador_Red_C",
+    "Name": "Default__PS_Kra_Luchador_Red_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Kragg/Skins/Luchador/Data/Palettes/Red/PS_Kra_Luchador_Red.PS_Kra_Luchador_Red_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.548,
+            "G": 0.12541,
+            "B": 0.069596,
+            "A": 1.0,
+            "Hex": "C4634A"
+          }
+        },
+        {
+          "Key": "Clothing",
+          "Value": {
+            "R": 0.037931,
+            "G": 0.240481,
+            "B": 0.457,
+            "A": 1.0,
+            "Hex": "3787B4"
+          }
+        },
+        {
+          "Key": "ClothingAccent",
+          "Value": {
+            "R": 0.56,
+            "G": 0.0364,
+            "B": 0.158573,
+            "A": 1.0,
+            "Hex": "C6356F"
+          }
+        },
+        {
+          "Key": "Straps",
+          "Value": {
+            "R": 0.022174,
+            "G": 0.022174,
+            "B": 0.022174,
+            "A": 1.0,
+            "Hex": "292929"
+          }
+        },
+        {
+          "Key": "Trim",
+          "Value": {
+            "R": 0.838799,
+            "G": 0.545724,
+            "B": 0.132868,
+            "A": 1.0,
+            "Hex": "ECC366"
+          }
+        },
+        {
+          "Key": "Brick",
+          "Value": {
+            "R": 0.356,
+            "G": 0.028124,
+            "B": 0.035087,
+            "A": 1.0,
+            "Hex": "A12E34"
+          }
+        },
+        {
+          "Key": "Gauntlet",
+          "Value": {
+            "R": 0.356,
+            "G": 0.028124,
+            "B": 0.035087,
+            "A": 1.0,
+            "Hex": "A12E34"
+          }
+        },
+        {
+          "Key": "Helm",
+          "Value": {
+            "R": 0.356,
+            "G": 0.028124,
+            "B": 0.035087,
+            "A": 1.0,
+            "Hex": "A12E34"
+          }
+        },
+        {
+          "Key": "Boots",
+          "Value": {
+            "R": 0.356,
+            "G": 0.028124,
+            "B": 0.035087,
+            "A": 1.0,
+            "Hex": "A12E34"
+          }
+        },
+        {
+          "Key": "Gloves",
+          "Value": {
+            "R": 0.037931,
+            "G": 0.240481,
+            "B": 0.457,
+            "A": 1.0,
+            "Hex": "3787B4"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.955973,
+            "G": 0.491021,
+            "B": 0.046665,
+            "A": 1.0,
+            "Hex": "FABA3D"
+          }
+        },
+        {
+          "Key": "Rock",
+          "Value": {
+            "R": 0.356,
+            "G": 0.028124,
+            "B": 0.035087,
+            "A": 1.0,
+            "Hex": "A12E34"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -27,7 +27,7 @@
     "Type": "PS_May_Marten_Blue_C",
     "Name": "Default__PS_May_Marten_Blue_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/Marten/Data/Palettes/Blue/PS_May_Marten_Blue.PS_May_Marten_Blue_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -141,7 +141,17 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.5,
+            "G": 0.436478,
+            "B": 0.374028,
+            "A": 1.0,
+            "Hex": "BCB1A5"
+          }
+        },
+        {
+          "Key": "RightIris",
           "Value": {
             "R": 0.1875,
             "G": 0.02832,
@@ -151,13 +161,13 @@
           }
         },
         {
-          "Key": "Scelera",
+          "Key": "LeftIris",
           "Value": {
-            "R": 0.5,
-            "G": 0.436478,
-            "B": 0.374028,
+            "R": 0.1875,
+            "G": 0.02832,
+            "B": 0.084033,
             "A": 1.0,
-            "Hex": "BCB1A5"
+            "Hex": "782F52"
           }
         },
         {

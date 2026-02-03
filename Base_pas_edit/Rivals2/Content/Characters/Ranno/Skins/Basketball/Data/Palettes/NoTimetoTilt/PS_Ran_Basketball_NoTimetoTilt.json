@@ -1,0 +1,146 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Ran_Basketball_NoTimetoTilt_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Ran_Basketball_NoTimetoTilt_C'Default__PS_Ran_Basketball_NoTimetoTilt_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Ranno/Skins/Basketball/Data/Palettes/NoTimetoTilt/PS_Ran_Basketball_NoTimetoTilt.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Ran_Basketball_NoTimetoTilt_C",
+    "Name": "Default__PS_Ran_Basketball_NoTimetoTilt_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Ranno/Skins/Basketball/Data/Palettes/NoTimetoTilt/PS_Ran_Basketball_NoTimetoTilt.PS_Ran_Basketball_NoTimetoTilt_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Jersey",
+          "Value": {
+            "R": 0.109212,
+            "G": 0.112195,
+            "B": 0.114583,
+            "A": 1.0,
+            "Hex": "5D5E5F"
+          }
+        },
+        {
+          "Key": "JerseyAccent",
+          "Value": {
+            "R": 0.010417,
+            "G": 0.010417,
+            "B": 0.010417,
+            "A": 1.0,
+            "Hex": "1A1A1A"
+          }
+        },
+        {
+          "Key": "JerseyTrim",
+          "Value": {
+            "R": 0.514918,
+            "G": 0.54604,
+            "B": 0.584078,
+            "A": 1.0,
+            "Hex": "BEC3C9"
+          }
+        },
+        {
+          "Key": "Armband",
+          "Value": {
+            "R": 0.343696,
+            "G": 0.352399,
+            "B": 0.364583,
+            "A": 1.0,
+            "Hex": "9EA0A3"
+          }
+        },
+        {
+          "Key": "Basketball",
+          "Value": {
+            "R": 0.010417,
+            "G": 0.010417,
+            "B": 0.010417,
+            "A": 1.0,
+            "Hex": "1A1A1A"
+          }
+        },
+        {
+          "Key": "BasketballLines",
+          "Value": {
+            "R": 0.514918,
+            "G": 0.54604,
+            "B": 0.584078,
+            "A": 1.0,
+            "Hex": "BEC3C9"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.130491,
+            "G": 0.284359,
+            "B": 0.537,
+            "A": 1.0,
+            "Hex": "6591C2"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.651406,
+            "G": 0.651406,
+            "B": 0.715693,
+            "A": 1.0,
+            "Hex": "D3D3DC"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.026312,
+            "G": 0.049187,
+            "B": 0.092,
+            "A": 1.0,
+            "Hex": "2D3E55"
+          }
+        },
+        {
+          "Key": "Tongue",
+          "Value": {
+            "R": 0.041667,
+            "G": 0.041667,
+            "B": 0.041667,
+            "A": 1.0,
+            "Hex": "393939"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 1.0,
+            "G": 0.582561,
+            "B": 0.401,
+            "A": 1.0,
+            "Hex": "FFC9AA"
+          }
+        }
+      ]
+    }
+  }
+]

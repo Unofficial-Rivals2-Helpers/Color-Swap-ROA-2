@@ -1,0 +1,196 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Gal_Genesis_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Gal_Genesis_Neutral_C'Default__PS_Gal_Genesis_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Genesis/Data/Palettes/Neutral/PS_Gal_Genesis_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Gal_Genesis_Neutral_C",
+    "Name": "Default__PS_Gal_Genesis_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Genesis/Data/Palettes/Neutral/PS_Gal_Genesis_Neutral.PS_Gal_Genesis_Neutral_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.02,
+            "G": 0.02,
+            "B": 0.02,
+            "A": 1.0,
+            "Hex": "262626"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.715,
+            "G": 0.11154,
+            "B": 0.134128,
+            "A": 1.0,
+            "Hex": "DC5E66"
+          }
+        },
+        {
+          "Key": "Toebeans",
+          "Value": {
+            "R": 0.715,
+            "G": 0.11154,
+            "B": 0.134128,
+            "A": 1.0,
+            "Hex": "DC5E66"
+          }
+        },
+        {
+          "Key": "Toenails",
+          "Value": {
+            "R": 0.89,
+            "G": 0.018288,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "F32400"
+          }
+        },
+        {
+          "Key": "Horn",
+          "Value": {
+            "R": 0.89,
+            "G": 0.018288,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "F32400"
+          }
+        },
+        {
+          "Key": "Face",
+          "Value": {
+            "R": 0.023153,
+            "G": 0.012286,
+            "B": 0.012286,
+            "A": 1.0,
+            "Hex": "2A1D1D"
+          }
+        },
+        {
+          "Key": "Gems",
+          "Value": {
+            "R": 0.89,
+            "G": 0.018288,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "F32400"
+          }
+        },
+        {
+          "Key": "Metal",
+          "Value": {
+            "R": 0.276386,
+            "G": 0.308,
+            "B": 0.271656,
+            "A": 1.0,
+            "Hex": "8F978E"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.00039,
+            "G": 0.003,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "010900"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.115822,
+            "G": 0.89,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "5FF300"
+          }
+        },
+        {
+          "Key": "Reinforced",
+          "Value": {
+            "R": 0.89,
+            "G": 0.018288,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "F32400"
+          }
+        },
+        {
+          "Key": "Rocks",
+          "Value": {
+            "R": 0.02,
+            "G": 0.02,
+            "B": 0.02,
+            "A": 1.0,
+            "Hex": "262626"
+          }
+        },
+        {
+          "Key": "GemGlow",
+          "Value": {
+            "R": 0.89,
+            "G": 0.018288,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "F32400"
+          }
+        },
+        {
+          "Key": "GridFill",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Glitch0",
+          "Value": {
+            "R": 0.61,
+            "G": 0.022816,
+            "B": 0.021602,
+            "A": 1.0,
+            "Hex": "CD2928"
+          }
+        },
+        {
+          "Key": "Glitch1",
+          "Value": {
+            "R": 0.115822,
+            "G": 0.89,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "5FF300"
+          }
+        }
+      ]
+    }
+  }
+]

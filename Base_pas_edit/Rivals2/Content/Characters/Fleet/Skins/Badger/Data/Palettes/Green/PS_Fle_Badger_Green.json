@@ -27,7 +27,7 @@
     "Type": "PS_Fle_Badger_Green_C",
     "Name": "Default__PS_Fle_Badger_Green_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Badger/Data/Palettes/Green/PS_Fle_Badger_Green.PS_Fle_Badger_Green_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -181,7 +181,17 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.002355,
+            "G": 0.440177,
+            "B": 0.878,
+            "A": 1.0,
+            "Hex": "07B1F1"
+          }
+        },
+        {
+          "Key": "LeftIris",
           "Value": {
             "R": 0.002355,
             "G": 0.440177,

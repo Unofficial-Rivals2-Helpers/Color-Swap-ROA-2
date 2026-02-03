@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Zet_Lovers_Platfight_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Zet_Lovers_Platfight_C'Default__PE_Zet_Lovers_Platfight_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Zetterburn/Skins/Lovers/Data/Palettes/Platfight/PE_Zet_Lovers_Platfight.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Zet_Lovers_Platfight_C",
+    "Name": "Default__PE_Zet_Lovers_Platfight_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Zetterburn/Skins/Lovers/Data/Palettes/Platfight/PE_Zet_Lovers_Platfight.PE_Zet_Lovers_Platfight_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.048524,
+            "G": 0.0,
+            "B": 0.223958,
+            "A": 1.0,
+            "Hex": "3E0082"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.079504,
+            "G": 0.009521,
+            "B": 0.609375,
+            "A": 1.0,
+            "Hex": "4F18CD"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.269966,
+            "G": 0.244792,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "8E88FF"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.619792,
+            "G": 0.626128,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "CFD0FF"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

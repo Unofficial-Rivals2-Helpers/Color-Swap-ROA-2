@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Cla_Elf_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Cla_Elf_Neutral_C'Default__PE_Cla_Elf_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Clairen/Skins/Elf/Data/Palettes/Neutral/PE_Cla_Elf_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Cla_Elf_Neutral_C",
+    "Name": "Default__PE_Cla_Elf_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Clairen/Skins/Elf/Data/Palettes/Neutral/PE_Cla_Elf_Neutral.PE_Cla_Elf_Neutral_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.329726,
+            "G": 0.973958,
+            "B": 0.598194,
+            "A": 1.0,
+            "Hex": "9CFDCB"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.019382,
+            "G": 0.887923,
+            "B": 0.381326,
+            "A": 1.0,
+            "Hex": "26F2A6"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.508881,
+            "G": 0.003347,
+            "B": 0.022174,
+            "A": 1.0,
+            "Hex": "BD0B29"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.75,
+            "G": 0.070312,
+            "B": 0.095625,
+            "A": 1.0,
+            "Hex": "E14B57"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

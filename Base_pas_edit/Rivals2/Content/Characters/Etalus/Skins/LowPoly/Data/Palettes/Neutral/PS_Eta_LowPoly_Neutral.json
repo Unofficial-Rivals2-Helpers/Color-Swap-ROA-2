@@ -1,0 +1,166 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Eta_LowPoly_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Eta_LowPoly_Neutral_C'Default__PS_Eta_LowPoly_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Etalus/Skins/LowPoly/Data/Palettes/Neutral/PS_Eta_LowPoly_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Eta_LowPoly_Neutral_C",
+    "Name": "Default__PS_Eta_LowPoly_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Etalus/Skins/LowPoly/Data/Palettes/Neutral/PS_Eta_LowPoly_Neutral.PS_Eta_LowPoly_Neutral_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.598958,
+            "G": 0.515251,
+            "B": 0.552313,
+            "A": 1.0,
+            "Hex": "CCBEC4"
+          }
+        },
+        {
+          "Key": "Scars",
+          "Value": {
+            "R": 0.838799,
+            "G": 0.318547,
+            "B": 0.278894,
+            "A": 1.0,
+            "Hex": "EC9990"
+          }
+        },
+        {
+          "Key": "Nose",
+          "Value": {
+            "R": 0.116971,
+            "G": 0.116971,
+            "B": 0.116971,
+            "A": 1.0,
+            "Hex": "606060"
+          }
+        },
+        {
+          "Key": "Wraps",
+          "Value": {
+            "R": 0.064803,
+            "G": 0.042311,
+            "B": 0.401978,
+            "A": 1.0,
+            "Hex": "483AAA"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Pupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.144128,
+            "G": 0.520996,
+            "B": 0.564712,
+            "A": 1.0,
+            "Hex": "6ABFC6"
+          }
+        },
+        {
+          "Key": "Mouth",
+          "Value": {
+            "R": 0.597202,
+            "G": 0.208637,
+            "B": 0.177888,
+            "A": 1.0,
+            "Hex": "CB7E75"
+          }
+        },
+        {
+          "Key": "Ice1",
+          "Value": {
+            "R": 0.238398,
+            "G": 0.194618,
+            "B": 0.730461,
+            "A": 1.0,
+            "Hex": "867ADE"
+          }
+        },
+        {
+          "Key": "Ice2",
+          "Value": {
+            "R": 0.23074,
+            "G": 0.55834,
+            "B": 0.603827,
+            "A": 1.0,
+            "Hex": "84C5CC"
+          }
+        },
+        {
+          "Key": "Teeth",
+          "Value": {
+            "R": 0.869792,
+            "G": 0.869792,
+            "B": 0.869792,
+            "A": 1.0,
+            "Hex": "F0F0F0"
+          }
+        },
+        {
+          "Key": "Innermouth",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Furaccent",
+          "Value": {
+            "R": 0.597202,
+            "G": 0.403425,
+            "B": 0.391537,
+            "A": 1.0,
+            "Hex": "CBAAA8"
+          }
+        }
+      ]
+    }
+  }
+]

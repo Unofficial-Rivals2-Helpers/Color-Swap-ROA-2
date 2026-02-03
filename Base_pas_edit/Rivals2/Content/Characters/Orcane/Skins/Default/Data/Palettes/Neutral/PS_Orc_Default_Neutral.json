@@ -27,9 +27,19 @@
     "Type": "PS_Orc_Default_Neutral_C",
     "Name": "Default__PS_Orc_Default_Neutral_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Orcane/Skins/Default/Data/Palettes/Neutral/PS_Orc_Default_Neutral.PS_Orc_Default_Neutral_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
+        {
+          "Key": "Pads",
+          "Value": {
+            "R": 0.220064,
+            "G": 0.416867,
+            "B": 0.598,
+            "A": 1.0,
+            "Hex": "81ADCB"
+          }
+        },
         {
           "Key": "Body",
           "Value": {
@@ -61,43 +71,63 @@
           }
         },
         {
-          "Key": "Pads",
-          "Value": {
-            "R": 0.220064,
-            "G": 0.416867,
-            "B": 0.598,
-            "A": 1.0,
-            "Hex": "81ADCB"
-          }
-        },
-        {
           "Key": "Sclera",
           "Value": {
-            "R": 0.630757,
-            "G": 0.473531,
-            "B": 0.038204,
+            "R": 0.88368,
+            "G": 0.649208,
+            "B": 0.0,
             "A": 1.0,
-            "Hex": "D0B737"
+            "Hex": "F2D300"
           }
         },
         {
-          "Key": "Pupil",
+          "Key": "LeftIris",
           "Value": {
-            "R": 0.188,
-            "G": 0.188,
-            "B": 0.188,
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
             "A": 1.0,
-            "Hex": "787878"
+            "Hex": "000000"
           }
         },
         {
-          "Key": "Shine",
+          "Key": "RightIris",
           "Value": {
-            "R": 0.973445,
-            "G": 0.973445,
-            "B": 0.973445,
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
             "A": 1.0,
-            "Hex": "FCFCFC"
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "LeftPupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "RightPupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Eyeliner",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
           }
         },
         {
@@ -123,11 +153,11 @@
         {
           "Key": "Liner",
           "Value": {
-            "R": 0.02257,
-            "G": 0.02257,
-            "B": 0.02257,
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
             "A": 1.0,
-            "Hex": "292929"
+            "Hex": "000000"
           }
         }
       ]

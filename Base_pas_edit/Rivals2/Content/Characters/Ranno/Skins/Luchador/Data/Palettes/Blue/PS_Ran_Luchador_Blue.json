@@ -1,0 +1,166 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Ran_Luchador_Blue_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Ran_Luchador_Blue_C'Default__PS_Ran_Luchador_Blue_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Ranno/Skins/Luchador/Data/Palettes/Blue/PS_Ran_Luchador_Blue.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Ran_Luchador_Blue_C",
+    "Name": "Default__PS_Ran_Luchador_Blue_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Ranno/Skins/Luchador/Data/Palettes/Blue/PS_Ran_Luchador_Blue.PS_Ran_Luchador_Blue_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Clothing",
+          "Value": {
+            "R": 0.025915,
+            "G": 0.075278,
+            "B": 0.355,
+            "A": 1.0,
+            "Hex": "2C4DA1"
+          }
+        },
+        {
+          "Key": "Boots",
+          "Value": {
+            "R": 0.0,
+            "G": 0.999999,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "00FFFF"
+          }
+        },
+        {
+          "Key": "Tights",
+          "Value": {
+            "R": 0.598,
+            "G": 0.011362,
+            "B": 0.011362,
+            "A": 1.0,
+            "Hex": "CB1B1B"
+          }
+        },
+        {
+          "Key": "Clothing Trim",
+          "Value": {
+            "R": 0.947307,
+            "G": 0.637597,
+            "B": 0.171441,
+            "A": 1.0,
+            "Hex": "F9D173"
+          }
+        },
+        {
+          "Key": "Gloves",
+          "Value": {
+            "R": 0.03434,
+            "G": 0.03434,
+            "B": 0.03434,
+            "A": 1.0,
+            "Hex": "343434"
+          }
+        },
+        {
+          "Key": "Mask Eyes",
+          "Value": {
+            "R": 0.598,
+            "G": 0.011362,
+            "B": 0.011362,
+            "A": 1.0,
+            "Hex": "CB1B1B"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.213491,
+            "G": 0.104538,
+            "B": 0.649305,
+            "A": 1.0,
+            "Hex": "7F5BD3"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.669621,
+            "G": 0.651406,
+            "B": 0.715693,
+            "A": 1.0,
+            "Hex": "D6D3DC"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.045468,
+            "G": 0.019345,
+            "B": 0.14996,
+            "A": 1.0,
+            "Hex": "3C266C"
+          }
+        },
+        {
+          "Key": "Tongue",
+          "Value": {
+            "R": 0.141655,
+            "G": 0.233212,
+            "B": 0.691,
+            "A": 1.0,
+            "Hex": "6985D9"
+          }
+        },
+        {
+          "Key": "Eyes_Shine",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 1.0,
+            "G": 0.303106,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF9600"
+          }
+        },
+        {
+          "Key": "Eyes_Iris",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        }
+      ]
+    }
+  }
+]

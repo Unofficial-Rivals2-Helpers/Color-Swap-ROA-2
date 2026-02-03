@@ -1,0 +1,166 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Zet_Default_Holiday_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Zet_Default_Holiday_C'Default__PS_Zet_Default_Holiday_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Zetterburn/Skins/Default/Data/Palettes/Holiday/PS_Zet_Default_Holiday.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Zet_Default_Holiday_C",
+    "Name": "Default__PS_Zet_Default_Holiday_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Zetterburn/Skins/Default/Data/Palettes/Holiday/PS_Zet_Default_Holiday.PS_Zet_Default_Holiday_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.534,
+            "G": 0.046992,
+            "B": 0.071342,
+            "A": 1.0,
+            "Hex": "C13D4B"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.827,
+            "G": 0.470556,
+            "B": 0.193518,
+            "A": 1.0,
+            "Hex": "EBB77A"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.727,
+            "G": 0.658278,
+            "B": 0.604864,
+            "A": 1.0,
+            "Hex": "DED4CC"
+          }
+        },
+        {
+          "Key": "Paws",
+          "Value": {
+            "R": 0.076185,
+            "G": 0.033105,
+            "B": 0.036889,
+            "A": 1.0,
+            "Hex": "4E3336"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.445201,
+            "G": 0.0,
+            "B": 0.201556,
+            "A": 1.0,
+            "Hex": "B2007C"
+          }
+        },
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 1.0,
+            "G": 0.727,
+            "B": 0.727,
+            "A": 1.0,
+            "Hex": "FFDEDE"
+          }
+        },
+        {
+          "Key": "Hair2",
+          "Value": {
+            "R": 1.0,
+            "G": 0.454,
+            "B": 0.472199,
+            "A": 1.0,
+            "Hex": "FFB4B7"
+          }
+        },
+        {
+          "Key": "Cloth",
+          "Value": {
+            "R": 0.236,
+            "G": 0.003616,
+            "B": 0.003616,
+            "A": 1.0,
+            "Hex": "850B0B"
+          }
+        },
+        {
+          "Key": "Metal",
+          "Value": {
+            "R": 0.467372,
+            "G": 0.706,
+            "B": 0.43066,
+            "A": 1.0,
+            "Hex": "B6DBB0"
+          }
+        },
+        {
+          "Key": "Leather",
+          "Value": {
+            "R": 0.03185,
+            "G": 0.147,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "326B00"
+          }
+        },
+        {
+          "Key": "Gums",
+          "Value": {
+            "R": 0.23074,
+            "G": 0.057805,
+            "B": 0.05448,
+            "A": 1.0,
+            "Hex": "844442"
+          }
+        },
+        {
+          "Key": "Teeth",
+          "Value": {
+            "R": 0.730461,
+            "G": 0.679542,
+            "B": 0.672443,
+            "A": 1.0,
+            "Hex": "DED7D6"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.752942,
+            "G": 0.760525,
+            "B": 0.752942,
+            "A": 1.0,
+            "Hex": "E1E2E1"
+          }
+        }
+      ]
+    }
+  }
+]

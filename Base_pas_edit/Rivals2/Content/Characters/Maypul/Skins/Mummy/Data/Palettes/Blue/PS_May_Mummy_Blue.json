@@ -27,7 +27,7 @@
     "Type": "PS_May_Mummy_Blue_C",
     "Name": "Default__PS_May_Mummy_Blue_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/Mummy/Data/Palettes/Blue/PS_May_Mummy_Blue.PS_May_Mummy_Blue_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -71,7 +71,27 @@
           }
         },
         {
-          "Key": "Iris",
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.408,
+            "G": 0.343128,
+            "B": 0.384445,
+            "A": 1.0,
+            "Hex": "AB9EA7"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.151042,
+            "G": 0.127026,
+            "B": 0.142322,
+            "A": 1.0,
+            "Hex": "6C6469"
+          }
+        },
+        {
+          "Key": "RightIris",
           "Value": {
             "R": 0.0612,
             "G": 0.306,
@@ -81,13 +101,13 @@
           }
         },
         {
-          "Key": "Sclera",
+          "Key": "LeftIris",
           "Value": {
-            "R": 0.408,
-            "G": 0.343128,
-            "B": 0.384445,
+            "R": 0.0612,
+            "G": 0.306,
+            "B": 0.0,
             "A": 1.0,
-            "Hex": "AB9EA7"
+            "Hex": "469600"
           }
         },
         {

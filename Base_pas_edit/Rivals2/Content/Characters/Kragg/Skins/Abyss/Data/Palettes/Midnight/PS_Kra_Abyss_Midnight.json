@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Kra_Abyss_Midnight_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Kra_Abyss_Midnight_C'Default__PS_Kra_Abyss_Midnight_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Kragg/Skins/Abyss/Data/Palettes/Midnight/PS_Kra_Abyss_Midnight.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Kra_Abyss_Midnight_C",
+    "Name": "Default__PS_Kra_Abyss_Midnight_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Kragg/Skins/Abyss/Data/Palettes/Midnight/PS_Kra_Abyss_Midnight.PS_Kra_Abyss_Midnight_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.14322,
+            "G": 0.145729,
+            "B": 0.341,
+            "A": 1.0,
+            "Hex": "6A6A9E"
+          }
+        },
+        {
+          "Key": "Chest",
+          "Value": {
+            "R": 0.237,
+            "G": 0.035787,
+            "B": 0.047945,
+            "A": 1.0,
+            "Hex": "86353E"
+          }
+        },
+        {
+          "Key": "Shell",
+          "Value": {
+            "R": 0.010293,
+            "G": 0.014875,
+            "B": 0.047,
+            "A": 1.0,
+            "Hex": "1A203D"
+          }
+        },
+        {
+          "Key": "Spikes",
+          "Value": {
+            "R": 0.200417,
+            "G": 0.038522,
+            "B": 0.206,
+            "A": 1.0,
+            "Hex": "7C377D"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.957,
+            "G": 0.061248,
+            "B": 0.089101,
+            "A": 1.0,
+            "Hex": "FB4654"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Eta_Champion_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Eta_Champion_Neutral_C'Default__PS_Eta_Champion_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Etalus/Skins/Champion/Data/Palettes/Neutral/PS_Eta_Champion_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Eta_Champion_Neutral_C",
+    "Name": "Default__PS_Eta_Champion_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Etalus/Skins/Champion/Data/Palettes/Neutral/PS_Eta_Champion_Neutral.PS_Eta_Champion_Neutral_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.023629,
+            "G": 0.0625,
+            "B": 0.052588,
+            "A": 1.0,
+            "Hex": "2A4641"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.337164,
+            "G": 0.514918,
+            "B": 0.456411,
+            "A": 1.0,
+            "Hex": "9DBEB4"
+          }
+        },
+        {
+          "Key": "Nose",
+          "Value": {
+            "R": 0.006512,
+            "G": 0.01096,
+            "B": 0.009721,
+            "A": 1.0,
+            "Hex": "131B19"
+          }
+        },
+        {
+          "Key": "Scars",
+          "Value": {
+            "R": 0.132894,
+            "G": 0.359375,
+            "B": 0.304121,
+            "A": 1.0,
+            "Hex": "66A296"
+          }
+        },
+        {
+          "Key": "PawPads",
+          "Value": {
+            "R": 0.006512,
+            "G": 0.01096,
+            "B": 0.009721,
+            "A": 1.0,
+            "Hex": "131B19"
+          }
+        },
+        {
+          "Key": "InnerEars",
+          "Value": {
+            "R": 0.01033,
+            "G": 0.042311,
+            "B": 0.03434,
+            "A": 1.0,
+            "Hex": "1A3A34"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.455,
+            "G": 0.455,
+            "B": 0.455,
+            "A": 1.0,
+            "Hex": "B4B4B4"
+          }
+        },
+        {
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.916,
+            "G": 0.433474,
+            "B": 0.062289,
+            "A": 1.0,
+            "Hex": "F6B046"
+          }
+        },
+        {
+          "Key": "LeftIris",
+          "Value": {
+            "R": 0.916,
+            "G": 0.433474,
+            "B": 0.062289,
+            "A": 1.0,
+            "Hex": "F6B046"
+          }
+        },
+        {
+          "Key": "LeftPupil",
+          "Value": {
+            "R": 0.004,
+            "G": 0.004,
+            "B": 0.004,
+            "A": 1.0,
+            "Hex": "0C0C0C"
+          }
+        },
+        {
+          "Key": "RightPupil",
+          "Value": {
+            "R": 0.004,
+            "G": 0.004,
+            "B": 0.004,
+            "A": 1.0,
+            "Hex": "0C0C0C"
+          }
+        },
+        {
+          "Key": "Eyeliner",
+          "Value": {
+            "R": 0.004,
+            "G": 0.004,
+            "B": 0.004,
+            "A": 1.0,
+            "Hex": "0C0C0C"
+          }
+        },
+        {
+          "Key": "Wraps",
+          "Value": {
+            "R": 0.448,
+            "G": 0.226691,
+            "B": 0.056448,
+            "A": 1.0,
+            "Hex": "B38343"
+          }
+        },
+        {
+          "Key": "Crystal",
+          "Value": {
+            "R": 0.0,
+            "G": 0.456411,
+            "B": 0.341914,
+            "A": 1.0,
+            "Hex": "00B49E"
+          }
+        },
+        {
+          "Key": "CrystalAccent",
+          "Value": {
+            "R": 0.0,
+            "G": 0.456411,
+            "B": 0.341914,
+            "A": 1.0,
+            "Hex": "00B49E"
+          }
+        },
+        {
+          "Key": "Accent",
+          "Value": {
+            "R": 0.304987,
+            "G": 0.610496,
+            "B": 0.434154,
+            "A": 1.0,
+            "Hex": "96CDB0"
+          }
+        },
+        {
+          "Key": "CrystalOutline",
+          "Value": {
+            "R": 0.708376,
+            "G": 1.0,
+            "B": 0.930111,
+            "A": 1.0,
+            "Hex": "DBFFF7"
+          }
+        }
+      ]
+    }
+  }
+]

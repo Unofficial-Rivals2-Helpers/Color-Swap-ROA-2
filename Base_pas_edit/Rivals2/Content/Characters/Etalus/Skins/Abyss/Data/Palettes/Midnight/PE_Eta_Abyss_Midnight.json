@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Eta_Abyss_Midnight_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Eta_Abyss_Midnight_C'Default__PE_Eta_Abyss_Midnight_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Etalus/Skins/Abyss/Data/Palettes/Midnight/PE_Eta_Abyss_Midnight.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Eta_Abyss_Midnight_C",
+    "Name": "Default__PE_Eta_Abyss_Midnight_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Etalus/Skins/Abyss/Data/Palettes/Midnight/PE_Eta_Abyss_Midnight.PE_Eta_Abyss_Midnight_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.101,
+            "G": 0.020402,
+            "B": 0.024897,
+            "A": 1.0,
+            "Hex": "59272B"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.266,
+            "G": 0.021014,
+            "B": 0.021014,
+            "A": 1.0,
+            "Hex": "8D2727"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.42869,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "AF0000"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.9,
+            "G": 0.189662,
+            "B": 0.189662,
+            "A": 1.0,
+            "Hex": "F47979"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

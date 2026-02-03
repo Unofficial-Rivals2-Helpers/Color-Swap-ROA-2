@@ -1,0 +1,86 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Orc_Abyss_Midnight_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Orc_Abyss_Midnight_C'Default__PS_Orc_Abyss_Midnight_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Orcane/Skins/Abyss/Data/Palettes/Midnight/PS_Orc_Abyss_Midnight.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Orc_Abyss_Midnight_C",
+    "Name": "Default__PS_Orc_Abyss_Midnight_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Orcane/Skins/Abyss/Data/Palettes/Midnight/PS_Orc_Abyss_Midnight.PS_Orc_Abyss_Midnight_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.01096,
+            "G": 0.020289,
+            "B": 0.078187,
+            "A": 1.0,
+            "Hex": "1B274F"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.262251,
+            "G": 0.401978,
+            "B": 0.672443,
+            "A": 1.0,
+            "Hex": "8CAAD6"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.181164,
+            "G": 0.031896,
+            "B": 0.040915,
+            "A": 1.0,
+            "Hex": "763239"
+          }
+        },
+        {
+          "Key": "AbyssEyesSclera",
+          "Value": {
+            "R": 0.001,
+            "G": 0.000995,
+            "B": 0.000995,
+            "A": 1.0,
+            "Hex": "030303"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.9,
+            "G": 0.0306,
+            "B": 0.043967,
+            "A": 1.0,
+            "Hex": "F4313B"
+          }
+        }
+      ]
+    }
+  }
+]

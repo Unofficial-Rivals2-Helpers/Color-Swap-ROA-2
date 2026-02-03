@@ -1,0 +1,316 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Gal_Yuletide_Blue_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Gal_Yuletide_Blue_C'Default__PS_Gal_Yuletide_Blue_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Yuletide/Data/Palettes/Blue/PS_Gal_Yuletide_Blue.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Gal_Yuletide_Blue_C",
+    "Name": "Default__PS_Gal_Yuletide_Blue_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Yuletide/Data/Palettes/Blue/PS_Gal_Yuletide_Blue.PS_Gal_Yuletide_Blue_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Cone",
+          "Value": {
+            "R": 0.041,
+            "G": 0.022686,
+            "B": 0.017138,
+            "A": 1.0,
+            "Hex": "392923"
+          }
+        },
+        {
+          "Key": "Tree",
+          "Value": {
+            "R": 0.0,
+            "G": 0.249,
+            "B": 0.1328,
+            "A": 1.0,
+            "Hex": "008966"
+          }
+        },
+        {
+          "Key": "Tinsel",
+          "Value": {
+            "R": 0.5,
+            "G": 0.5,
+            "B": 0.5,
+            "A": 1.0,
+            "Hex": "BCBCBC"
+          }
+        },
+        {
+          "Key": "Star",
+          "Value": {
+            "R": 0.085272,
+            "G": 0.359591,
+            "B": 0.408,
+            "A": 1.0,
+            "Hex": "52A2AB"
+          }
+        },
+        {
+          "Key": "Boot",
+          "Value": {
+            "R": 0.03364,
+            "G": 0.017168,
+            "B": 0.116,
+            "A": 1.0,
+            "Hex": "33235F"
+          }
+        },
+        {
+          "Key": "BootTrim",
+          "Value": {
+            "R": 0.5,
+            "G": 0.5,
+            "B": 0.5,
+            "A": 1.0,
+            "Hex": "BCBCBC"
+          }
+        },
+        {
+          "Key": "Light1",
+          "Value": {
+            "R": 0.000625,
+            "G": 0.010375,
+            "B": 0.025,
+            "A": 1.0,
+            "Hex": "021A2B"
+          }
+        },
+        {
+          "Key": "Light2",
+          "Value": {
+            "R": 0.000625,
+            "G": 0.000625,
+            "B": 0.025,
+            "A": 1.0,
+            "Hex": "02022B"
+          }
+        },
+        {
+          "Key": "Light3",
+          "Value": {
+            "R": 0.000625,
+            "G": 0.000625,
+            "B": 0.025,
+            "A": 1.0,
+            "Hex": "02022B"
+          }
+        },
+        {
+          "Key": "Light4",
+          "Value": {
+            "R": 0.000625,
+            "G": 0.010375,
+            "B": 0.025,
+            "A": 1.0,
+            "Hex": "021A2B"
+          }
+        },
+        {
+          "Key": "Trim",
+          "Value": {
+            "R": 0.085272,
+            "G": 0.359591,
+            "B": 0.408,
+            "A": 1.0,
+            "Hex": "52A2AB"
+          }
+        },
+        {
+          "Key": "Color1",
+          "Value": {
+            "R": 0.004394,
+            "G": 0.040059,
+            "B": 0.169,
+            "A": 1.0,
+            "Hex": "0E3872"
+          }
+        },
+        {
+          "Key": "Color2",
+          "Value": {
+            "R": 0.5,
+            "G": 0.5,
+            "B": 0.5,
+            "A": 1.0,
+            "Hex": "BCBCBC"
+          }
+        },
+        {
+          "Key": "Fist",
+          "Value": {
+            "R": 0.0532,
+            "G": 0.03024,
+            "B": 0.168,
+            "A": 1.0,
+            "Hex": "413072"
+          }
+        },
+        {
+          "Key": "Candy1",
+          "Value": {
+            "R": 0.5,
+            "G": 0.5,
+            "B": 0.5,
+            "A": 1.0,
+            "Hex": "BCBCBC"
+          }
+        },
+        {
+          "Key": "Candy2",
+          "Value": {
+            "R": 0.004394,
+            "G": 0.040059,
+            "B": 0.169,
+            "A": 1.0,
+            "Hex": "0E3872"
+          }
+        },
+        {
+          "Key": "Ornament1",
+          "Value": {
+            "R": 0.5,
+            "G": 0.5,
+            "B": 0.5,
+            "A": 1.0,
+            "Hex": "BCBCBC"
+          }
+        },
+        {
+          "Key": "Ornament2",
+          "Value": {
+            "R": 0.004394,
+            "G": 0.040059,
+            "B": 0.169,
+            "A": 1.0,
+            "Hex": "0E3872"
+          }
+        },
+        {
+          "Key": "Bell",
+          "Value": {
+            "R": 0.085272,
+            "G": 0.359591,
+            "B": 0.408,
+            "A": 1.0,
+            "Hex": "52A2AB"
+          }
+        },
+        {
+          "Key": "Light1R",
+          "Value": {
+            "R": 0.023,
+            "G": 0.15755,
+            "B": 0.92,
+            "A": 1.0,
+            "Hex": "2A6EF6"
+          }
+        },
+        {
+          "Key": "Light2R",
+          "Value": {
+            "R": 0.0192,
+            "G": 0.0192,
+            "B": 0.768,
+            "A": 1.0,
+            "Hex": "2525E3"
+          }
+        },
+        {
+          "Key": "Light3R",
+          "Value": {
+            "R": 0.0192,
+            "G": 0.0192,
+            "B": 0.768,
+            "A": 1.0,
+            "Hex": "2525E3"
+          }
+        },
+        {
+          "Key": "Magnet",
+          "Value": {
+            "R": 0.0874,
+            "G": 0.04968,
+            "B": 0.276,
+            "A": 1.0,
+            "Hex": "533F8F"
+          }
+        },
+        {
+          "Key": "Wood",
+          "Value": {
+            "R": 0.062,
+            "G": 0.028646,
+            "B": 0.01798,
+            "A": 1.0,
+            "Hex": "462F24"
+          }
+        },
+        {
+          "Key": "Light4R",
+          "Value": {
+            "R": 0.023,
+            "G": 0.15755,
+            "B": 0.92,
+            "A": 1.0,
+            "Hex": "2A6EF6"
+          }
+        },
+        {
+          "Key": "StarR",
+          "Value": {
+            "R": 0.09331,
+            "G": 0.188634,
+            "B": 0.215,
+            "A": 1.0,
+            "Hex": "567880"
+          }
+        },
+        {
+          "Key": "Color1R",
+          "Value": {
+            "R": 0.2604,
+            "G": 0.52642,
+            "B": 0.6,
+            "A": 1.0,
+            "Hex": "8CC0CC"
+          }
+        },
+        {
+          "Key": "TreeR",
+          "Value": {
+            "R": 0.2604,
+            "G": 0.52642,
+            "B": 0.6,
+            "A": 1.0,
+            "Hex": "8CC0CC"
+          }
+        }
+      ]
+    }
+  }
+]

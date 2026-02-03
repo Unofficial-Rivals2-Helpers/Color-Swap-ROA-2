@@ -27,7 +27,7 @@
     "Type": "PS_Lox_Default_CoolBlue_C",
     "Name": "Default__PS_Lox_Default_CoolBlue_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Loxodont/Skins/Default/Data/Palettes/CoolBlue/PS_Lox_Default_CoolBlue.PS_Lox_Default_CoolBlue_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -71,7 +71,17 @@
           }
         },
         {
-          "Key": "Pupil",
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.006786,
+            "G": 0.005873,
+            "B": 0.015,
+            "A": 1.0,
+            "Hex": "131120"
+          }
+        },
+        {
+          "Key": "RightIris",
           "Value": {
             "R": 0.176565,
             "G": 1.0,
@@ -81,13 +91,13 @@
           }
         },
         {
-          "Key": "Scelera",
+          "Key": "LeftIris",
           "Value": {
-            "R": 0.006786,
-            "G": 0.005873,
-            "B": 0.015,
+            "R": 0.176565,
+            "G": 1.0,
+            "B": 0.829566,
             "A": 1.0,
-            "Hex": "131120"
+            "Hex": "75FFEB"
           }
         },
         {

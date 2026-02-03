@@ -1,0 +1,196 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Gal_Luchador_Green_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Gal_Luchador_Green_C'Default__PS_Gal_Luchador_Green_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Luchador/Data/Palettes/Green/PS_Gal_Luchador_Green.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Gal_Luchador_Green_C",
+    "Name": "Default__PS_Gal_Luchador_Green_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Luchador/Data/Palettes/Green/PS_Gal_Luchador_Green.PS_Gal_Luchador_Green_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Mask",
+          "Value": {
+            "R": 0.047527,
+            "G": 0.039423,
+            "B": 0.051,
+            "A": 1.0,
+            "Hex": "3D3840"
+          }
+        },
+        {
+          "Key": "ClothingTrim",
+          "Value": {
+            "R": 0.728,
+            "G": 0.01092,
+            "B": 0.082628,
+            "A": 1.0,
+            "Hex": "DE1B51"
+          }
+        },
+        {
+          "Key": "ClothingAccent",
+          "Value": {
+            "R": 0.027958,
+            "G": 0.635417,
+            "B": 0.159574,
+            "A": 1.0,
+            "Hex": "2ED16F"
+          }
+        },
+        {
+          "Key": "Claw",
+          "Value": {
+            "R": 0.734375,
+            "G": 0.673815,
+            "B": 0.543132,
+            "A": 1.0,
+            "Hex": "DFD7C3"
+          }
+        },
+        {
+          "Key": "Shoulder",
+          "Value": {
+            "R": 0.027215,
+            "G": 0.047,
+            "B": 0.011421,
+            "A": 1.0,
+            "Hex": "2E3D1B"
+          }
+        },
+        {
+          "Key": "Jaw",
+          "Value": {
+            "R": 0.221532,
+            "G": 0.37,
+            "B": 0.02738,
+            "A": 1.0,
+            "Hex": "82A42E"
+          }
+        },
+        {
+          "Key": "Straps",
+          "Value": {
+            "R": 0.052083,
+            "G": 0.017171,
+            "B": 0.013292,
+            "A": 1.0,
+            "Hex": "40231E"
+          }
+        },
+        {
+          "Key": "ClothingTrimReinforced",
+          "Value": {
+            "R": 0.728,
+            "G": 0.01092,
+            "B": 0.082628,
+            "A": 1.0,
+            "Hex": "DE1B51"
+          }
+        },
+        {
+          "Key": "ClothingAccentReinforced",
+          "Value": {
+            "R": 0.027958,
+            "G": 0.635417,
+            "B": 0.159574,
+            "A": 1.0,
+            "Hex": "2ED16F"
+          }
+        },
+        {
+          "Key": "ShoulderReinforced",
+          "Value": {
+            "R": 0.124975,
+            "G": 0.309,
+            "B": 0.052221,
+            "A": 1.0,
+            "Hex": "639740"
+          }
+        },
+        {
+          "Key": "JawReinforced",
+          "Value": {
+            "R": 0.219784,
+            "G": 0.304987,
+            "B": 0.216846,
+            "A": 1.0,
+            "Hex": "819680"
+          }
+        },
+        {
+          "Key": "Gems",
+          "Value": {
+            "R": 0.731,
+            "G": 0.0,
+            "B": 0.0731,
+            "A": 1.0,
+            "Hex": "DE004C"
+          }
+        },
+        {
+          "Key": "Claws",
+          "Value": {
+            "R": 0.734375,
+            "G": 0.673815,
+            "B": 0.543132,
+            "A": 1.0,
+            "Hex": "DFD7C3"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.027215,
+            "G": 0.047,
+            "B": 0.011421,
+            "A": 1.0,
+            "Hex": "2E3D1B"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.654,
+            "G": 0.361226,
+            "B": 0.13734,
+            "A": 1.0,
+            "Hex": "D4A268"
+          }
+        },
+        {
+          "Key": "Horn",
+          "Value": {
+            "R": 0.734375,
+            "G": 0.673815,
+            "B": 0.543132,
+            "A": 1.0,
+            "Hex": "DFD7C3"
+          }
+        }
+      ]
+    }
+  }
+]

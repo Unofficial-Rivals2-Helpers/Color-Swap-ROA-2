@@ -27,7 +27,7 @@
     "Type": "PS_Fle_Sunny_Red_C",
     "Name": "Default__PS_Fle_Sunny_Red_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Sunny/Data/Palettes/Red/PS_Fle_Sunny_Red.PS_Fle_Sunny_Red_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -201,7 +201,17 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.757,
+            "G": 0.277567,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "E29000"
+          }
+        },
+        {
+          "Key": "LeftIris",
           "Value": {
             "R": 0.757,
             "G": 0.277567,

@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Ran_Basketball_NoTimetoTilt_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Ran_Basketball_NoTimetoTilt_C'Default__PE_Ran_Basketball_NoTimetoTilt_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Ranno/Skins/Basketball/Data/Palettes/NoTimetoTilt/PE_Ran_Basketball_NoTimetoTilt.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Ran_Basketball_NoTimetoTilt_C",
+    "Name": "Default__PE_Ran_Basketball_NoTimetoTilt_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Ranno/Skins/Basketball/Data/Palettes/NoTimetoTilt/PE_Ran_Basketball_NoTimetoTilt.PE_Ran_Basketball_NoTimetoTilt_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.025,
+            "G": 0.025,
+            "B": 0.025,
+            "A": 1.0,
+            "Hex": "2B2B2B"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.079,
+            "G": 0.079,
+            "B": 0.079,
+            "A": 1.0,
+            "Hex": "4F4F4F"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.195,
+            "G": 0.195,
+            "B": 0.195,
+            "A": 1.0,
+            "Hex": "7A7A7A"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.474,
+            "G": 0.474,
+            "B": 0.474,
+            "A": 1.0,
+            "Hex": "B7B7B7"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

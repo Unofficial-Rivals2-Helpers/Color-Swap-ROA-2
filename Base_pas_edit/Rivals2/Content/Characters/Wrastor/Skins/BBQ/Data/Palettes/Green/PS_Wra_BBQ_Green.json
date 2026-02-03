@@ -27,7 +27,7 @@
     "Type": "PS_Wra_BBQ_Green_C",
     "Name": "Default__PS_Wra_BBQ_Green_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Wrastor/Skins/BBQ/Data/Palettes/Green/PS_Wra_BBQ_Green.PS_Wra_BBQ_Green_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -68,6 +68,16 @@
             "B": 0.008952,
             "A": 1.0,
             "Hex": "C85E17"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.359375,
+            "G": 0.031664,
+            "B": 0.001872,
+            "A": 1.0,
+            "Hex": "A23206"
           }
         },
         {

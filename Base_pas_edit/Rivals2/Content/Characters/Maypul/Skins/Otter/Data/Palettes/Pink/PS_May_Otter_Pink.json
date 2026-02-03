@@ -27,7 +27,7 @@
     "Type": "PS_May_Otter_Pink_C",
     "Name": "Default__PS_May_Otter_Pink_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/Otter/Data/Palettes/Pink/PS_May_Otter_Pink.PS_May_Otter_Pink_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -101,7 +101,7 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
           "Value": {
             "R": 0.175599,
             "G": 0.333,
@@ -111,13 +111,13 @@
           }
         },
         {
-          "Key": "Pattern",
+          "Key": "LeftIris",
           "Value": {
-            "R": 0.622,
-            "G": 0.255642,
-            "B": 0.255642,
+            "R": 0.175599,
+            "G": 0.333,
+            "B": 0.007326,
             "A": 1.0,
-            "Hex": "CF8A8A"
+            "Hex": "749C14"
           }
         },
         {
@@ -138,6 +138,16 @@
             "B": 0.586,
             "A": 1.0,
             "Hex": "9184CA"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.622,
+            "G": 0.255642,
+            "B": 0.255642,
+            "A": 1.0,
+            "Hex": "CF8A8A"
           }
         }
       ]

@@ -1,0 +1,166 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_For_Default_Pink_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_For_Default_Pink_C'Default__PS_For_Default_Pink_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Forsburn/Skins/Default/Data/Palettes/Pink/PS_For_Default_Pink.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_For_Default_Pink_C",
+    "Name": "Default__PS_For_Default_Pink_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Forsburn/Skins/Default/Data/Palettes/Pink/PS_For_Default_Pink.PS_For_Default_Pink_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.675,
+            "G": 0.135,
+            "B": 0.216,
+            "A": 1.0,
+            "Hex": "D76780"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 1.0,
+            "G": 0.374,
+            "B": 0.582666,
+            "A": 1.0,
+            "Hex": "FFA5C9"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.161,
+            "G": 0.039284,
+            "B": 0.075799,
+            "A": 1.0,
+            "Hex": "70384E"
+          }
+        },
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 0.783,
+            "G": 0.07047,
+            "B": 0.260478,
+            "A": 1.0,
+            "Hex": "E54B8C"
+          }
+        },
+        {
+          "Key": "Hair2",
+          "Value": {
+            "R": 0.955973,
+            "G": 0.135748,
+            "B": 0.286122,
+            "A": 1.0,
+            "Hex": "FA6792"
+          }
+        },
+        {
+          "Key": "Cape",
+          "Value": {
+            "R": 0.181164,
+            "G": 0.012983,
+            "B": 0.052225,
+            "A": 1.0,
+            "Hex": "761E40"
+          }
+        },
+        {
+          "Key": "Bone",
+          "Value": {
+            "R": 0.774,
+            "G": 0.505422,
+            "B": 0.56809,
+            "A": 1.0,
+            "Hex": "E4BDC7"
+          }
+        },
+        {
+          "Key": "Cloth",
+          "Value": {
+            "R": 0.263,
+            "G": 0.025248,
+            "B": 0.100536,
+            "A": 1.0,
+            "Hex": "8C2C59"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.775,
+            "G": 0.437061,
+            "B": 0.024025,
+            "A": 1.0,
+            "Hex": "E4B12B"
+          }
+        },
+        {
+          "Key": "ClothTrim",
+          "Value": {
+            "R": 0.01691,
+            "G": 0.016242,
+            "B": 0.039,
+            "A": 1.0,
+            "Hex": "232237"
+          }
+        },
+        {
+          "Key": "Belt",
+          "Value": {
+            "R": 0.01691,
+            "G": 0.016242,
+            "B": 0.039,
+            "A": 1.0,
+            "Hex": "232237"
+          }
+        },
+        {
+          "Key": "Mask Eyes",
+          "Value": {
+            "R": 0.932,
+            "G": 0.443881,
+            "B": 0.016776,
+            "A": 1.0,
+            "Hex": "F8B223"
+          }
+        },
+        {
+          "Key": "White",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

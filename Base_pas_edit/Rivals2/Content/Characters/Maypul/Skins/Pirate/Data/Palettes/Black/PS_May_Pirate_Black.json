@@ -27,7 +27,7 @@
     "Type": "PS_May_Pirate_Black_C",
     "Name": "Default__PS_May_Pirate_Black_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/Pirate/Data/Palettes/Black/PS_May_Pirate_Black.PS_May_Pirate_Black_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -301,7 +301,17 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.883,
+            "G": 0.355084,
+            "B": 0.049448,
+            "A": 1.0,
+            "Hex": "F2A13F"
+          }
+        },
+        {
+          "Key": "LeftIris",
           "Value": {
             "R": 0.883,
             "G": 0.355084,

@@ -1,0 +1,196 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Eta_Grizzly_Holiday_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Eta_Grizzly_Holiday_C'Default__PS_Eta_Grizzly_Holiday_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Etalus/Skins/Grizzly/Data/Palettes/Holiday/PS_Eta_Grizzly_Holiday.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Eta_Grizzly_Holiday_C",
+    "Name": "Default__PS_Eta_Grizzly_Holiday_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Etalus/Skins/Grizzly/Data/Palettes/Holiday/PS_Eta_Grizzly_Holiday.PS_Eta_Grizzly_Holiday_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.973958,
+            "G": 0.568142,
+            "B": 0.568142,
+            "A": 1.0,
+            "Hex": "FDC7C7"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 1.0,
+            "G": 0.711,
+            "B": 0.711,
+            "A": 1.0,
+            "Hex": "FFDCDC"
+          }
+        },
+        {
+          "Key": "Nose",
+          "Value": {
+            "R": 0.802083,
+            "G": 0.142036,
+            "B": 0.151888,
+            "A": 1.0,
+            "Hex": "E8696D"
+          }
+        },
+        {
+          "Key": "Claws",
+          "Value": {
+            "R": 0.545724,
+            "G": 0.061246,
+            "B": 0.068478,
+            "A": 1.0,
+            "Hex": "C3464A"
+          }
+        },
+        {
+          "Key": "PawPads",
+          "Value": {
+            "R": 0.545724,
+            "G": 0.061246,
+            "B": 0.068478,
+            "A": 1.0,
+            "Hex": "C3464A"
+          }
+        },
+        {
+          "Key": "Ears",
+          "Value": {
+            "R": 0.775822,
+            "G": 0.396755,
+            "B": 0.396755,
+            "A": 1.0,
+            "Hex": "E4A9A9"
+          }
+        },
+        {
+          "Key": "Wraps",
+          "Value": {
+            "R": 0.442708,
+            "G": 0.027669,
+            "B": 0.033865,
+            "A": 1.0,
+            "Hex": "B22E33"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 1.0,
+            "G": 0.963464,
+            "B": 0.91039,
+            "A": 1.0,
+            "Hex": "FFFBF5"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.498264,
+            "G": 0.480059,
+            "B": 0.453614,
+            "A": 1.0,
+            "Hex": "BBB8B4"
+          }
+        },
+        {
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.045624,
+            "G": 0.619792,
+            "B": 0.025825,
+            "A": 1.0,
+            "Hex": "3CCF2C"
+          }
+        },
+        {
+          "Key": "LeftIris",
+          "Value": {
+            "R": 0.045624,
+            "G": 0.619792,
+            "B": 0.025825,
+            "A": 1.0,
+            "Hex": "3CCF2C"
+          }
+        },
+        {
+          "Key": "LeftPupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "RightPupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Eyeliner",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Hat",
+          "Value": {
+            "R": 0.783538,
+            "G": 0.005605,
+            "B": 0.031896,
+            "A": 1.0,
+            "Hex": "E51132"
+          }
+        },
+        {
+          "Key": "HatFur",
+          "Value": {
+            "R": 0.630757,
+            "G": 0.630757,
+            "B": 0.62396,
+            "A": 1.0,
+            "Hex": "D0D0CF"
+          }
+        }
+      ]
+    }
+  }
+]

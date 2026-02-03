@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Zet_Santa_White_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Zet_Santa_White_C'Default__PE_Zet_Santa_White_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Zetterburn/Skins/Santa/Data/Palettes/White/PE_Zet_Santa_White.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Zet_Santa_White_C",
+    "Name": "Default__PE_Zet_Santa_White_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Zetterburn/Skins/Santa/Data/Palettes/White/PE_Zet_Santa_White.PE_Zet_Santa_White_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.066094,
+            "G": 0.404884,
+            "B": 0.489583,
+            "A": 1.0,
+            "Hex": "48ABBA"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.183125,
+            "G": 0.536625,
+            "B": 0.625,
+            "A": 1.0,
+            "Hex": "77C2CF"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.452509,
+            "G": 0.690502,
+            "B": 0.75,
+            "A": 1.0,
+            "Hex": "B4D9E1"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.70665,
+            "G": 0.795496,
+            "B": 0.817708,
+            "A": 1.0,
+            "Hex": "DBE7EA"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.963542,
+            "G": 0.963542,
+            "B": 0.963542,
+            "A": 1.0,
+            "Hex": "FBFBFB"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

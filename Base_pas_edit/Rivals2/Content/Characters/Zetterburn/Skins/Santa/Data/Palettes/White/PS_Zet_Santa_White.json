@@ -1,0 +1,146 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Zet_Santa_White_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Zet_Santa_White_C'Default__PS_Zet_Santa_White_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Zetterburn/Skins/Santa/Data/Palettes/White/PS_Zet_Santa_White.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Zet_Santa_White_C",
+    "Name": "Default__PS_Zet_Santa_White_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Zetterburn/Skins/Santa/Data/Palettes/White/PS_Zet_Santa_White.PS_Zet_Santa_White_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 0.362295,
+            "G": 0.770859,
+            "B": 0.873,
+            "A": 1.0,
+            "Hex": "A2E4F1"
+          }
+        },
+        {
+          "Key": "Belt Buckle",
+          "Value": {
+            "R": 0.326016,
+            "G": 0.576316,
+            "B": 0.609375,
+            "A": 1.0,
+            "Hex": "9BC8CD"
+          }
+        },
+        {
+          "Key": "Snowsuit",
+          "Value": {
+            "R": 0.053062,
+            "G": 0.504212,
+            "B": 0.617,
+            "A": 1.0,
+            "Hex": "41BCCE"
+          }
+        },
+        {
+          "Key": "Snowsuit Trim",
+          "Value": {
+            "R": 0.6021,
+            "G": 0.795367,
+            "B": 0.892,
+            "A": 1.0,
+            "Hex": "CCE7F3"
+          }
+        },
+        {
+          "Key": "Belt",
+          "Value": {
+            "R": 0.065972,
+            "G": 0.041475,
+            "B": 0.03292,
+            "A": 1.0,
+            "Hex": "483933"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.0,
+            "G": 0.985532,
+            "B": 0.701658,
+            "A": 1.0,
+            "Hex": "00FEDA"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.449248,
+            "G": 0.525753,
+            "B": 0.556,
+            "A": 1.0,
+            "Hex": "B3C0C5"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.449248,
+            "G": 0.525753,
+            "B": 0.556,
+            "A": 1.0,
+            "Hex": "B3C0C5"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.817,
+            "G": 0.813569,
+            "B": 0.799843,
+            "A": 1.0,
+            "Hex": "EAE9E7"
+          }
+        },
+        {
+          "Key": "Paws",
+          "Value": {
+            "R": 0.02279,
+            "G": 0.056074,
+            "B": 0.106,
+            "A": 1.0,
+            "Hex": "29435B"
+          }
+        },
+        {
+          "Key": "Leather",
+          "Value": {
+            "R": 0.025187,
+            "G": 0.009721,
+            "B": 0.009134,
+            "A": 1.0,
+            "Hex": "2C1918"
+          }
+        }
+      ]
+    }
+  }
+]

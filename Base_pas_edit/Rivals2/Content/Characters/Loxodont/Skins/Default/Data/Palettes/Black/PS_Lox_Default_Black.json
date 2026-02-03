@@ -27,7 +27,7 @@
     "Type": "PS_Lox_Default_Black_C",
     "Name": "Default__PS_Lox_Default_Black_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Loxodont/Skins/Default/Data/Palettes/Black/PS_Lox_Default_Black.PS_Lox_Default_Black_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -71,7 +71,17 @@
           }
         },
         {
-          "Key": "Pupil",
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.015,
+            "G": 0.010998,
+            "B": 0.005873,
+            "A": 1.0,
+            "Hex": "201B11"
+          }
+        },
+        {
+          "Key": "RightIris",
           "Value": {
             "R": 0.432,
             "G": 0.110788,
@@ -81,13 +91,13 @@
           }
         },
         {
-          "Key": "Scelera",
+          "Key": "LeftIris",
           "Value": {
-            "R": 0.015,
-            "G": 0.010998,
-            "B": 0.005873,
+            "R": 0.432,
+            "G": 0.110788,
+            "B": 0.003718,
             "A": 1.0,
-            "Hex": "201B11"
+            "Hex": "B05D0C"
           }
         },
         {
