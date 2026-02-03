@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Eta_LowPoly_Red_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Eta_LowPoly_Red_C'Default__PE_Eta_LowPoly_Red_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Etalus/Skins/LowPoly/Data/Palettes/Red/PE_Eta_LowPoly_Red.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Eta_LowPoly_Red_C",
+    "Name": "Default__PE_Eta_LowPoly_Red_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Etalus/Skins/LowPoly/Data/Palettes/Red/PE_Eta_LowPoly_Red.PE_Eta_LowPoly_Red_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 1.0,
+            "G": 0.419748,
+            "B": 0.411458,
+            "A": 1.0,
+            "Hex": "FFAEAC"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.751736,
+            "G": 0.06849,
+            "B": 0.058729,
+            "A": 1.0,
+            "Hex": "E14A44"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.712,
+            "G": 0.293099,
+            "B": 0.250768,
+            "A": 1.0,
+            "Hex": "DC9389"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 1.0,
+            "G": 0.176471,
+            "B": 0.164706,
+            "A": 1.0,
+            "Hex": "FF7571"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.584314,
+            "G": 0.658824,
+            "B": 0.243137,
+            "A": 1.0,
+            "Hex": "C9D487"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

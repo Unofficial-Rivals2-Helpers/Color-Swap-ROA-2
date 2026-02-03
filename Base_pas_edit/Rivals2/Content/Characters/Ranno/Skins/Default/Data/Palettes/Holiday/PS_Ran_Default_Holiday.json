@@ -1,0 +1,126 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Ran_Default_Holiday_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Ran_Default_Holiday_C'Default__PS_Ran_Default_Holiday_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Ranno/Skins/Default/Data/Palettes/Holiday/PS_Ran_Default_Holiday.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Ran_Default_Holiday_C",
+    "Name": "Default__PS_Ran_Default_Holiday_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Ranno/Skins/Default/Data/Palettes/Holiday/PS_Ran_Default_Holiday.PS_Ran_Default_Holiday_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.105546,
+            "G": 0.365,
+            "B": 0.053655,
+            "A": 1.0,
+            "Hex": "5BA341"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.614005,
+            "G": 0.715693,
+            "B": 0.471642,
+            "A": 1.0,
+            "Hex": "CEDCB7"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.03449,
+            "G": 0.14996,
+            "B": 0.008568,
+            "A": 1.0,
+            "Hex": "346C17"
+          }
+        },
+        {
+          "Key": "Tongue",
+          "Value": {
+            "R": 0.222477,
+            "G": 0.428819,
+            "B": 0.02398,
+            "A": 1.0,
+            "Hex": "82AF2A"
+          }
+        },
+        {
+          "Key": "Pants",
+          "Value": {
+            "R": 0.236,
+            "G": 0.003616,
+            "B": 0.003616,
+            "A": 1.0,
+            "Hex": "850B0B"
+          }
+        },
+        {
+          "Key": "Wraps",
+          "Value": {
+            "R": 0.603827,
+            "G": 0.372561,
+            "B": 0.372561,
+            "A": 1.0,
+            "Hex": "CCA4A4"
+          }
+        },
+        {
+          "Key": "Eyes_Iris",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 1.0,
+            "G": 0.974434,
+            "B": 0.233,
+            "A": 1.0,
+            "Hex": "FFFD85"
+          }
+        },
+        {
+          "Key": "Eyes_Shine",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

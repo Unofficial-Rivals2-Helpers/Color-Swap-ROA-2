@@ -1,0 +1,416 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Cla_Elf_Blue_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Cla_Elf_Blue_C'Default__PS_Cla_Elf_Blue_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Clairen/Skins/Elf/Data/Palettes/Blue/PS_Cla_Elf_Blue.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Cla_Elf_Blue_C",
+    "Name": "Default__PS_Cla_Elf_Blue_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Clairen/Skins/Elf/Data/Palettes/Blue/PS_Cla_Elf_Blue.PS_Cla_Elf_Blue_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "BeltBuckle",
+          "Value": {
+            "R": 0.930111,
+            "G": 0.361108,
+            "B": 0.171441,
+            "A": 1.0,
+            "Hex": "F7A273"
+          }
+        },
+        {
+          "Key": "Dress",
+          "Value": {
+            "R": 0.020756,
+            "G": 0.028053,
+            "B": 0.130208,
+            "A": 1.0,
+            "Hex": "272E65"
+          }
+        },
+        {
+          "Key": "DressFur",
+          "Value": {
+            "R": 0.502887,
+            "G": 0.502887,
+            "B": 0.502887,
+            "A": 1.0,
+            "Hex": "BCBCBC"
+          }
+        },
+        {
+          "Key": "Tights",
+          "Value": {
+            "R": 0.017642,
+            "G": 0.018436,
+            "B": 0.029557,
+            "A": 1.0,
+            "Hex": "242530"
+          }
+        },
+        {
+          "Key": "Hat",
+          "Value": {
+            "R": 0.028516,
+            "G": 0.075408,
+            "B": 0.380208,
+            "A": 1.0,
+            "Hex": "2F4DA6"
+          }
+        },
+        {
+          "Key": "Belt",
+          "Value": {
+            "R": 0.36151,
+            "G": 0.464815,
+            "B": 0.631,
+            "A": 1.0,
+            "Hex": "A2B6D0"
+          }
+        },
+        {
+          "Key": "Shoes",
+          "Value": {
+            "R": 0.36151,
+            "G": 0.464815,
+            "B": 0.631,
+            "A": 1.0,
+            "Hex": "A2B6D0"
+          }
+        },
+        {
+          "Key": "ShoesTrim",
+          "Value": {
+            "R": 0.043566,
+            "G": 0.088452,
+            "B": 0.380208,
+            "A": 1.0,
+            "Hex": "3B54A6"
+          }
+        },
+        {
+          "Key": "Gloves",
+          "Value": {
+            "R": 0.36151,
+            "G": 0.464815,
+            "B": 0.631,
+            "A": 1.0,
+            "Hex": "A2B6D0"
+          }
+        },
+        {
+          "Key": "GlovesTrim",
+          "Value": {
+            "R": 0.043566,
+            "G": 0.088452,
+            "B": 0.380208,
+            "A": 1.0,
+            "Hex": "3B54A6"
+          }
+        },
+        {
+          "Key": "Cape",
+          "Value": {
+            "R": 0.043033,
+            "G": 0.309483,
+            "B": 0.442708,
+            "A": 1.0,
+            "Hex": "3A97B2"
+          }
+        },
+        {
+          "Key": "CapeTrim",
+          "Value": {
+            "R": 0.502887,
+            "G": 0.502887,
+            "B": 0.502887,
+            "A": 1.0,
+            "Hex": "BCBCBC"
+          }
+        },
+        {
+          "Key": "CandyCane",
+          "Value": {
+            "R": 0.021672,
+            "G": 0.069477,
+            "B": 0.380208,
+            "A": 1.0,
+            "Hex": "284AA6"
+          }
+        },
+        {
+          "Key": "CandyCaneStripe",
+          "Value": {
+            "R": 0.502887,
+            "G": 0.502887,
+            "B": 0.502887,
+            "A": 1.0,
+            "Hex": "BCBCBC"
+          }
+        },
+        {
+          "Key": "CandyCaneTip",
+          "Value": {
+            "R": 0.9174,
+            "G": 0.174,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "F674FF"
+          }
+        },
+        {
+          "Key": "CandyCaneBow",
+          "Value": {
+            "R": 0.043033,
+            "G": 0.309483,
+            "B": 0.442708,
+            "A": 1.0,
+            "Hex": "3A97B2"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.039423,
+            "G": 0.039423,
+            "B": 0.076389,
+            "A": 1.0,
+            "Hex": "38384E"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.093059,
+            "G": 0.097587,
+            "B": 0.168269,
+            "A": 1.0,
+            "Hex": "565872"
+          }
+        },
+        {
+          "Key": "Muzzle",
+          "Value": {
+            "R": 0.093059,
+            "G": 0.097587,
+            "B": 0.168269,
+            "A": 1.0,
+            "Hex": "565872"
+          }
+        },
+        {
+          "Key": "InnerEar",
+          "Value": {
+            "R": 0.162029,
+            "G": 0.093059,
+            "B": 0.191202,
+            "A": 1.0,
+            "Hex": "705679"
+          }
+        },
+        {
+          "Key": "Nose",
+          "Value": {
+            "R": 0.191202,
+            "G": 0.117102,
+            "B": 0.181577,
+            "A": 1.0,
+            "Hex": "796076"
+          }
+        },
+        {
+          "Key": "Brows",
+          "Value": {
+            "R": 0.039423,
+            "G": 0.039423,
+            "B": 0.076389,
+            "A": 1.0,
+            "Hex": "38384E"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.022192,
+            "G": 0.022192,
+            "B": 0.043,
+            "A": 1.0,
+            "Hex": "29293A"
+          }
+        },
+        {
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.503,
+            "G": 0.162277,
+            "B": 0.004381,
+            "A": 1.0,
+            "Hex": "BC700E"
+          }
+        },
+        {
+          "Key": "LeftIris",
+          "Value": {
+            "R": 0.503,
+            "G": 0.162277,
+            "B": 0.004381,
+            "A": 1.0,
+            "Hex": "BC700E"
+          }
+        },
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 0.03,
+            "G": 0.03,
+            "B": 0.06,
+            "A": 1.0,
+            "Hex": "303045"
+          }
+        },
+        {
+          "Key": "Braid",
+          "Value": {
+            "R": 0.502887,
+            "G": 0.502887,
+            "B": 0.502887,
+            "A": 1.0,
+            "Hex": "BCBCBC"
+          }
+        },
+        {
+          "Key": "BraidStripe",
+          "Value": {
+            "R": 0.211887,
+            "G": 0.043566,
+            "B": 0.380208,
+            "A": 1.0,
+            "Hex": "7F3BA6"
+          }
+        },
+        {
+          "Key": "Visor",
+          "Value": {
+            "R": 0.196669,
+            "G": 0.221266,
+            "B": 0.302083,
+            "A": 1.0,
+            "Hex": "7B8195"
+          }
+        },
+        {
+          "Key": "Glow",
+          "Value": {
+            "R": 0.0,
+            "G": 0.5,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "00BCFF"
+          }
+        },
+        {
+          "Key": "CapsuleWreath",
+          "Value": {
+            "R": 0.042311,
+            "G": 0.119538,
+            "B": 0.097657,
+            "A": 1.0,
+            "Hex": "3A6158"
+          }
+        },
+        {
+          "Key": "CapsuleRibbon",
+          "Value": {
+            "R": 0.020833,
+            "G": 0.084722,
+            "B": 0.5,
+            "A": 1.0,
+            "Hex": "2752BC"
+          }
+        },
+        {
+          "Key": "CapsuleOrnaments",
+          "Value": {
+            "R": 0.517195,
+            "G": 0.391059,
+            "B": 0.552083,
+            "A": 1.0,
+            "Hex": "BFA8C4"
+          }
+        },
+        {
+          "Key": "CapsuleCable",
+          "Value": {
+            "R": 0.01033,
+            "G": 0.014102,
+            "B": 0.019382,
+            "A": 1.0,
+            "Hex": "1A1F26"
+          }
+        },
+        {
+          "Key": "CapsuleLights1",
+          "Value": {
+            "R": 0.241936,
+            "G": 0.025187,
+            "B": 0.590619,
+            "A": 1.0,
+            "Hex": "872CCA"
+          }
+        },
+        {
+          "Key": "CapsuleLights2",
+          "Value": {
+            "R": 0.508881,
+            "G": 0.036889,
+            "B": 0.107688,
+            "A": 1.0,
+            "Hex": "BD365C"
+          }
+        },
+        {
+          "Key": "CapsuleLights3",
+          "Value": {
+            "R": 0.038204,
+            "G": 0.313989,
+            "B": 0.3002,
+            "A": 1.0,
+            "Hex": "379895"
+          }
+        },
+        {
+          "Key": "CapsuleLights4",
+          "Value": {
+            "R": 0.01033,
+            "G": 0.01033,
+            "B": 0.254152,
+            "A": 1.0,
+            "Hex": "1A1A8A"
+          }
+        }
+      ]
+    }
+  }
+]

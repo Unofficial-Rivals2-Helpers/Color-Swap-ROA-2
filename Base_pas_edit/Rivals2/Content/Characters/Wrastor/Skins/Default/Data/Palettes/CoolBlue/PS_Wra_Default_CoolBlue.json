@@ -27,7 +27,7 @@
     "Type": "PS_Wra_Default_CoolBlue_C",
     "Name": "Default__PS_Wra_Default_CoolBlue_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Wrastor/Skins/Default/Data/Palettes/CoolBlue/PS_Wra_Default_CoolBlue.PS_Wra_Default_CoolBlue_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -68,6 +68,16 @@
             "B": 0.130208,
             "A": 1.0,
             "Hex": "5B5F65"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.382758,
+            "G": 0.427721,
+            "B": 0.442708,
+            "A": 1.0,
+            "Hex": "A6AFB2"
           }
         },
         {

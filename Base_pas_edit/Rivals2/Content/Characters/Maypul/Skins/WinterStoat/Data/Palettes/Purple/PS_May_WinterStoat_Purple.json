@@ -1,0 +1,166 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_May_WinterStoat_Purple_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_May_WinterStoat_Purple_C'Default__PS_May_WinterStoat_Purple_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Maypul/Skins/WinterStoat/Data/Palettes/Purple/PS_May_WinterStoat_Purple.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_May_WinterStoat_Purple_C",
+    "Name": "Default__PS_May_WinterStoat_Purple_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/WinterStoat/Data/Palettes/Purple/PS_May_WinterStoat_Purple.PS_May_WinterStoat_Purple_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.514918,
+            "G": 0.391853,
+            "B": 0.514918,
+            "A": 1.0,
+            "Hex": "BEA8BE"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.068626,
+            "G": 0.02992,
+            "B": 0.11,
+            "A": 1.0,
+            "Hex": "4A305D"
+          }
+        },
+        {
+          "Key": "Ear",
+          "Value": {
+            "R": 0.383,
+            "G": 0.169286,
+            "B": 0.226276,
+            "A": 1.0,
+            "Hex": "A67283"
+          }
+        },
+        {
+          "Key": "Nose",
+          "Value": {
+            "R": 0.123,
+            "G": 0.047478,
+            "B": 0.061031,
+            "A": 1.0,
+            "Hex": "623D46"
+          }
+        },
+        {
+          "Key": "Tail",
+          "Value": {
+            "R": 0.024964,
+            "G": 0.009963,
+            "B": 0.041,
+            "A": 1.0,
+            "Hex": "2B1939"
+          }
+        },
+        {
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.545724,
+            "G": 0.257632,
+            "B": 0.090842,
+            "A": 1.0,
+            "Hex": "C38B55"
+          }
+        },
+        {
+          "Key": "LeftIris",
+          "Value": {
+            "R": 0.545724,
+            "G": 0.257632,
+            "B": 0.090842,
+            "A": 1.0,
+            "Hex": "C38B55"
+          }
+        },
+        {
+          "Key": "Leaf",
+          "Value": {
+            "R": 0.295539,
+            "G": 0.090842,
+            "B": 0.545724,
+            "A": 1.0,
+            "Hex": "9455C3"
+          }
+        },
+        {
+          "Key": "Vine",
+          "Value": {
+            "R": 0.045186,
+            "G": 0.03434,
+            "B": 0.027321,
+            "A": 1.0,
+            "Hex": "3C342E"
+          }
+        },
+        {
+          "Key": "PVine",
+          "Value": {
+            "R": 0.045186,
+            "G": 0.03434,
+            "B": 0.027321,
+            "A": 1.0,
+            "Hex": "3C342E"
+          }
+        },
+        {
+          "Key": "Pal",
+          "Value": {
+            "R": 0.295539,
+            "G": 0.090842,
+            "B": 0.545724,
+            "A": 1.0,
+            "Hex": "9455C3"
+          }
+        },
+        {
+          "Key": "Vine2",
+          "Value": {
+            "R": 0.082,
+            "G": 0.055615,
+            "B": 0.03854,
+            "A": 1.0,
+            "Hex": "514237"
+          }
+        },
+        {
+          "Key": "Poppy",
+          "Value": {
+            "R": 0.295539,
+            "G": 0.090842,
+            "B": 0.545724,
+            "A": 1.0,
+            "Hex": "9455C3"
+          }
+        }
+      ]
+    }
+  }
+]

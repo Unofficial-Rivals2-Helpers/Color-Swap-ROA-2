@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Kra_Champion_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Kra_Champion_Neutral_C'Default__PE_Kra_Champion_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Kragg/Skins/Champion/Data/Palettes/Neutral/PE_Kra_Champion_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Kra_Champion_Neutral_C",
+    "Name": "Default__PE_Kra_Champion_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Kragg/Skins/Champion/Data/Palettes/Neutral/PE_Kra_Champion_Neutral.PE_Kra_Champion_Neutral_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.009,
+            "G": 0.015,
+            "B": 0.013332,
+            "A": 1.0,
+            "Hex": "17201E"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.069608,
+            "G": 0.226,
+            "B": 0.189495,
+            "A": 1.0,
+            "Hex": "4A8378"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.0,
+            "G": 0.458333,
+            "B": 0.34375,
+            "A": 1.0,
+            "Hex": "00B59F"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.077582,
+            "G": 0.677083,
+            "B": 0.527208,
+            "A": 1.0,
+            "Hex": "4FD7C0"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.068599,
+            "G": 0.914322,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "4AF6FF"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -27,11 +27,21 @@
     "Type": "PS_Fle_Husky_Neutral_C",
     "Name": "Default__PS_Fle_Husky_Neutral_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Husky/Data/Palettes/Neutral/PS_Fle_Husky_Neutral.PS_Fle_Husky_Neutral_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.049707,
+            "G": 0.323143,
+            "B": 0.571125,
+            "A": 1.0,
+            "Hex": "3F9AC7"
+          }
+        },
+        {
+          "Key": "LeftIris",
           "Value": {
             "R": 0.049707,
             "G": 0.323143,

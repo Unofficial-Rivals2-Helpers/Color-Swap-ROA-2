@@ -1,0 +1,186 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Lar_Abyss_Green_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Lar_Abyss_Green_C'Default__PS_Lar_Abyss_Green_C'",
+      "ObjectPath": "Rivals2/Content/Characters/LaReina/Skins/Abyss/Data/Palettes/Green/PS_Lar_Abyss_Green.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Lar_Abyss_Green_C",
+    "Name": "Default__PS_Lar_Abyss_Green_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/LaReina/Skins/Abyss/Data/Palettes/Green/PS_Lar_Abyss_Green.PS_Lar_Abyss_Green_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.114958,
+            "G": 0.229,
+            "B": 0.166277,
+            "A": 1.0,
+            "Hex": "5F8471"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.048281,
+            "G": 0.122139,
+            "B": 0.063308,
+            "A": 1.0,
+            "Hex": "3E6247"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.01081,
+            "G": 0.353,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "1AA000"
+          }
+        },
+        {
+          "Key": "NailsAccent",
+          "Value": {
+            "R": 0.268404,
+            "G": 0.947307,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "8EF900"
+          }
+        },
+        {
+          "Key": "Clothing",
+          "Value": {
+            "R": 0.02207,
+            "G": 0.082,
+            "B": 0.005494,
+            "A": 1.0,
+            "Hex": "295110"
+          }
+        },
+        {
+          "Key": "ClothingAccent",
+          "Value": {
+            "R": 0.601944,
+            "G": 0.859,
+            "B": 0.124555,
+            "A": 1.0,
+            "Hex": "CCEF63"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.401042,
+            "G": 0.401042,
+            "B": 0.029276,
+            "A": 1.0,
+            "Hex": "AAAA2F"
+          }
+        },
+        {
+          "Key": "Kneepad",
+          "Value": {
+            "R": 0.02999,
+            "G": 0.049707,
+            "B": 0.045214,
+            "A": 1.0,
+            "Hex": "303F3C"
+          }
+        },
+        {
+          "Key": "KneepadAccent",
+          "Value": {
+            "R": 0.343069,
+            "G": 0.859,
+            "B": 0.139096,
+            "A": 1.0,
+            "Hex": "9EEF68"
+          }
+        },
+        {
+          "Key": "ClothingEye",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FFFF00"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.0,
+            "G": 0.48515,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "00B900"
+          }
+        },
+        {
+          "Key": "MaskSclera",
+          "Value": {
+            "R": 0.003984,
+            "G": 0.005,
+            "B": 0.003467,
+            "A": 1.0,
+            "Hex": "0C0F0B"
+          }
+        },
+        {
+          "Key": "MaskScleraShading",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "MaskEyeliner",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "ClothIris",
+          "Value": {
+            "R": 0.04194,
+            "G": 0.082,
+            "B": 0.006888,
+            "A": 1.0,
+            "Hex": "395113"
+          }
+        }
+      ]
+    }
+  }
+]

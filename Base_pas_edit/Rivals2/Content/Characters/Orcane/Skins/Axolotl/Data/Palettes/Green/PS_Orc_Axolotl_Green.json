@@ -27,7 +27,7 @@
     "Type": "PS_Orc_Axolotl_Green_C",
     "Name": "Default__PS_Orc_Axolotl_Green_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Orcane/Skins/Axolotl/Data/Palettes/Green/PS_Orc_Axolotl_Green.PS_Orc_Axolotl_Green_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -51,13 +51,33 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "Nails",
+          "Value": {
+            "R": 1.2,
+            "G": 1.2,
+            "B": 1.2,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Sclera",
           "Value": {
             "R": 0.0,
-            "G": 0.2373,
-            "B": 0.791,
+            "G": 0.267187,
+            "B": 0.890625,
             "A": 1.0,
-            "Hex": "0086E6"
+            "Hex": "008DF3"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.0,
+            "G": 0.090103,
+            "B": 0.300347,
+            "A": 1.0,
+            "Hex": "005495"
           }
         }
       ]

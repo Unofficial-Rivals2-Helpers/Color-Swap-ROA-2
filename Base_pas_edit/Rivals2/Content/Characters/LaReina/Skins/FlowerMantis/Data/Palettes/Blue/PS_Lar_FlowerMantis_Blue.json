@@ -1,0 +1,276 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Lar_FlowerMantis_Blue_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Lar_FlowerMantis_Blue_C'Default__PS_Lar_FlowerMantis_Blue_C'",
+      "ObjectPath": "Rivals2/Content/Characters/LaReina/Skins/FlowerMantis/Data/Palettes/Blue/PS_Lar_FlowerMantis_Blue.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Lar_FlowerMantis_Blue_C",
+    "Name": "Default__PS_Lar_FlowerMantis_Blue_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/LaReina/Skins/FlowerMantis/Data/Palettes/Blue/PS_Lar_FlowerMantis_Blue.PS_Lar_FlowerMantis_Blue_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Legs",
+          "Value": {
+            "R": 0.032616,
+            "G": 0.059554,
+            "B": 0.302,
+            "A": 1.0,
+            "Hex": "324595"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.008415,
+            "G": 0.079373,
+            "B": 0.099,
+            "A": 1.0,
+            "Hex": "164F58"
+          }
+        },
+        {
+          "Key": "PatternLight",
+          "Value": {
+            "R": 0.15344,
+            "G": 0.334711,
+            "B": 0.439657,
+            "A": 1.0,
+            "Hex": "6D9DB1"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.01576,
+            "G": 0.09074,
+            "B": 0.515625,
+            "A": 1.0,
+            "Hex": "2155BE"
+          }
+        },
+        {
+          "Key": "NailsAccent",
+          "Value": {
+            "R": 0.09432,
+            "G": 0.437842,
+            "B": 0.953125,
+            "A": 1.0,
+            "Hex": "56B1FA"
+          }
+        },
+        {
+          "Key": "PatternDark",
+          "Value": {
+            "R": 0.012286,
+            "G": 0.030229,
+            "B": 0.048172,
+            "A": 1.0,
+            "Hex": "1D303E"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.15344,
+            "G": 0.334711,
+            "B": 0.439657,
+            "A": 1.0,
+            "Hex": "6D9DB1"
+          }
+        },
+        {
+          "Key": "Mask",
+          "Value": {
+            "R": 0.355743,
+            "G": 0.490424,
+            "B": 0.723055,
+            "A": 1.0,
+            "Hex": "A1BADD"
+          }
+        },
+        {
+          "Key": "MaskGradient",
+          "Value": {
+            "R": 0.046902,
+            "G": 0.272934,
+            "B": 0.692708,
+            "A": 1.0,
+            "Hex": "3D8FD9"
+          }
+        },
+        {
+          "Key": "Antennae",
+          "Value": {
+            "R": 0.126984,
+            "G": 0.419239,
+            "B": 0.962,
+            "A": 1.0,
+            "Hex": "64ADFB"
+          }
+        },
+        {
+          "Key": "LegsGradient",
+          "Value": {
+            "R": 0.02384,
+            "G": 0.137265,
+            "B": 0.78,
+            "A": 1.0,
+            "Hex": "2A67E5"
+          }
+        },
+        {
+          "Key": "Shirt",
+          "Value": {
+            "R": 0.033693,
+            "G": 0.502886,
+            "B": 0.377768,
+            "A": 1.0,
+            "Hex": "33BCA5"
+          }
+        },
+        {
+          "Key": "ShirtDark",
+          "Value": {
+            "R": 0.017712,
+            "G": 0.144,
+            "B": 0.112428,
+            "A": 1.0,
+            "Hex": "246A5E"
+          }
+        },
+        {
+          "Key": "ShirtLight",
+          "Value": {
+            "R": 0.218099,
+            "G": 0.697917,
+            "B": 0.418023,
+            "A": 1.0,
+            "Hex": "81DAAD"
+          }
+        },
+        {
+          "Key": "ShirtAccent",
+          "Value": {
+            "R": 0.355743,
+            "G": 0.490424,
+            "B": 0.723055,
+            "A": 1.0,
+            "Hex": "A1BADD"
+          }
+        },
+        {
+          "Key": "Shoelaces",
+          "Value": {
+            "R": 0.355743,
+            "G": 0.490424,
+            "B": 0.723055,
+            "A": 1.0,
+            "Hex": "A1BADD"
+          }
+        },
+        {
+          "Key": "MaskPattern",
+          "Value": {
+            "R": 0.008415,
+            "G": 0.079373,
+            "B": 0.099,
+            "A": 1.0,
+            "Hex": "164F58"
+          }
+        },
+        {
+          "Key": "MaskAccent",
+          "Value": {
+            "R": 0.063492,
+            "G": 0.25842,
+            "B": 0.572,
+            "A": 1.0,
+            "Hex": "478BC7"
+          }
+        },
+        {
+          "Key": "MaskSclera",
+          "Value": {
+            "R": 0.026867,
+            "G": 0.055271,
+            "B": 0.879,
+            "A": 1.0,
+            "Hex": "2D42F1"
+          }
+        },
+        {
+          "Key": "MaskScleraShading",
+          "Value": {
+            "R": 0.089976,
+            "G": 0.62279,
+            "B": 0.978,
+            "A": 1.0,
+            "Hex": "54CFFD"
+          }
+        },
+        {
+          "Key": "MaskEyeliner",
+          "Value": {
+            "R": 0.010417,
+            "G": 0.010417,
+            "B": 0.010417,
+            "A": 1.0,
+            "Hex": "1A1A1A"
+          }
+        },
+        {
+          "Key": "Stand",
+          "Value": {
+            "R": 0.027048,
+            "G": 0.037664,
+            "B": 0.056,
+            "A": 1.0,
+            "Hex": "2D3643"
+          }
+        },
+        {
+          "Key": "Tarp",
+          "Value": {
+            "R": 0.531,
+            "G": 0.504981,
+            "B": 0.475245,
+            "A": 1.0,
+            "Hex": "C1BDB8"
+          }
+        },
+        {
+          "Key": "Pole",
+          "Value": {
+            "R": 0.132868,
+            "G": 0.104616,
+            "B": 0.104616,
+            "A": 1.0,
+            "Hex": "665B5B"
+          }
+        }
+      ]
+    }
+  }
+]

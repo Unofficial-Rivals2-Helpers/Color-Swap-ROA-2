@@ -1,0 +1,86 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Orc_Axolotl_Orange_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Orc_Axolotl_Orange_C'Default__PS_Orc_Axolotl_Orange_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Orcane/Skins/Axolotl/Data/Palettes/Orange/PS_Orc_Axolotl_Orange.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Orc_Axolotl_Orange_C",
+    "Name": "Default__PS_Orc_Axolotl_Orange_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Orcane/Skins/Axolotl/Data/Palettes/Orange/PS_Orc_Axolotl_Orange.PS_Orc_Axolotl_Orange_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.172,
+            "G": 0.062814,
+            "B": 0.029584,
+            "A": 1.0,
+            "Hex": "734730"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.744,
+            "G": 0.044493,
+            "B": 0.001159,
+            "A": 1.0,
+            "Hex": "E03B03"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 1.2,
+            "G": 1.2,
+            "B": 1.2,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.982,
+            "G": 0.453589,
+            "B": 0.076153,
+            "A": 1.0,
+            "Hex": "FDB44E"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.331597,
+            "G": 0.153166,
+            "B": 0.025715,
+            "A": 1.0,
+            "Hex": "9C6D2C"
+          }
+        }
+      ]
+    }
+  }
+]

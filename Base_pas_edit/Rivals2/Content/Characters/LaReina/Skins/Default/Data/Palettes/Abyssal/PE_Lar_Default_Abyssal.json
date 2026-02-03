@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Lar_Default_Abyssal_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Lar_Default_Abyssal_C'Default__PE_Lar_Default_Abyssal_C'",
+      "ObjectPath": "Rivals2/Content/Characters/LaReina/Skins/Default/Data/Palettes/Abyssal/PE_Lar_Default_Abyssal.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Lar_Default_Abyssal_C",
+    "Name": "Default__PE_Lar_Default_Abyssal_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/LaReina/Skins/Default/Data/Palettes/Abyssal/PE_Lar_Default_Abyssal.PE_Lar_Default_Abyssal_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.003187,
+            "G": 0.0,
+            "B": 0.027321,
+            "A": 1.0,
+            "Hex": "0A002E"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.038649,
+            "G": 0.018527,
+            "B": 0.191,
+            "A": 1.0,
+            "Hex": "372579"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.15202,
+            "G": 0.078588,
+            "B": 0.708,
+            "A": 1.0,
+            "Hex": "6D4FDB"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.886921,
+            "G": 0.165132,
+            "B": 0.982251,
+            "A": 1.0,
+            "Hex": "F271FD"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.445201,
+            "G": 0.012286,
+            "B": 0.351403,
+            "A": 1.0,
+            "Hex": "B21DA0"
+          }
+        }
+      ]
+    }
+  }
+]

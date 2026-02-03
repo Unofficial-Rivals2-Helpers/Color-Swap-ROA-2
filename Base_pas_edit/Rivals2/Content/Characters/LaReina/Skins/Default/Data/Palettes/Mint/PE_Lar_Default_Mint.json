@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Lar_Default_Mint_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Lar_Default_Mint_C'Default__PE_Lar_Default_Mint_C'",
+      "ObjectPath": "Rivals2/Content/Characters/LaReina/Skins/Default/Data/Palettes/Mint/PE_Lar_Default_Mint.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Lar_Default_Mint_C",
+    "Name": "Default__PE_Lar_Default_Mint_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/LaReina/Skins/Default/Data/Palettes/Mint/PE_Lar_Default_Mint.PE_Lar_Default_Mint_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.005182,
+            "G": 0.026241,
+            "B": 0.016413,
+            "A": 1.0,
+            "Hex": "102D22"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.006049,
+            "G": 0.099899,
+            "B": 0.056102,
+            "A": 1.0,
+            "Hex": "125943"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.069192,
+            "G": 0.744,
+            "B": 0.432878,
+            "A": 1.0,
+            "Hex": "4AE0B0"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.906,
+            "G": 0.28086,
+            "B": 0.373695,
+            "A": 1.0,
+            "Hex": "F591A5"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.278894,
+            "G": 0.064803,
+            "B": 0.096917,
+            "A": 1.0,
+            "Hex": "904858"
+          }
+        }
+      ]
+    }
+  }
+]

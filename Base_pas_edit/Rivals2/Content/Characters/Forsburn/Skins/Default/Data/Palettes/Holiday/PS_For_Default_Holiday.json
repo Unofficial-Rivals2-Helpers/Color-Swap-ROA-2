@@ -1,0 +1,166 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_For_Default_Holiday_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_For_Default_Holiday_C'Default__PS_For_Default_Holiday_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Forsburn/Skins/Default/Data/Palettes/Holiday/PS_For_Default_Holiday.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_For_Default_Holiday_C",
+    "Name": "Default__PS_For_Default_Holiday_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Forsburn/Skins/Default/Data/Palettes/Holiday/PS_For_Default_Holiday.PS_For_Default_Holiday_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.105546,
+            "G": 0.365,
+            "B": 0.053655,
+            "A": 1.0,
+            "Hex": "5BA341"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.454133,
+            "G": 0.792,
+            "B": 0.228888,
+            "A": 1.0,
+            "Hex": "B4E684"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.064515,
+            "G": 0.187,
+            "B": 0.040018,
+            "A": 1.0,
+            "Hex": "487838"
+          }
+        },
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 1.0,
+            "G": 0.634,
+            "B": 0.634,
+            "A": 1.0,
+            "Hex": "FFD1D1"
+          }
+        },
+        {
+          "Key": "Hair2",
+          "Value": {
+            "R": 1.0,
+            "G": 0.233,
+            "B": 0.258565,
+            "A": 1.0,
+            "Hex": "FF858B"
+          }
+        },
+        {
+          "Key": "Cape",
+          "Value": {
+            "R": 0.387,
+            "G": 0.021672,
+            "B": 0.021672,
+            "A": 1.0,
+            "Hex": "A72828"
+          }
+        },
+        {
+          "Key": "Bone",
+          "Value": {
+            "R": 0.557,
+            "G": 0.472893,
+            "B": 0.472893,
+            "A": 1.0,
+            "Hex": "C5B7B7"
+          }
+        },
+        {
+          "Key": "Cloth",
+          "Value": {
+            "R": 0.546,
+            "G": 0.030576,
+            "B": 0.030576,
+            "A": 1.0,
+            "Hex": "C33131"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.904661,
+            "G": 0.417885,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "F4AD00"
+          }
+        },
+        {
+          "Key": "ClothTrim",
+          "Value": {
+            "R": 0.945,
+            "G": 0.475672,
+            "B": 0.072765,
+            "A": 1.0,
+            "Hex": "F9B84C"
+          }
+        },
+        {
+          "Key": "Belt",
+          "Value": {
+            "R": 0.03538,
+            "G": 0.174,
+            "B": 0.007656,
+            "A": 1.0,
+            "Hex": "357415"
+          }
+        },
+        {
+          "Key": "Mask Eyes",
+          "Value": {
+            "R": 1.0,
+            "G": 0.571416,
+            "B": 0.01096,
+            "A": 1.0,
+            "Hex": "FFC71B"
+          }
+        },
+        {
+          "Key": "White",
+          "Value": {
+            "R": 0.88368,
+            "G": 0.88368,
+            "B": 0.88368,
+            "A": 1.0,
+            "Hex": "F2F2F2"
+          }
+        }
+      ]
+    }
+  }
+]

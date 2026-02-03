@@ -1,0 +1,116 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Ran_LowPoly_Orange_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Ran_LowPoly_Orange_C'Default__PS_Ran_LowPoly_Orange_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Ranno/Skins/LowPoly/Data/Palettes/Orange/PS_Ran_LowPoly_Orange.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Ran_LowPoly_Orange_C",
+    "Name": "Default__PS_Ran_LowPoly_Orange_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Ranno/Skins/LowPoly/Data/Palettes/Orange/PS_Ran_LowPoly_Orange.PS_Ran_LowPoly_Orange_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.254,
+            "G": 0.122767,
+            "B": 0.05715,
+            "A": 1.0,
+            "Hex": "8A6243"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.563,
+            "G": 0.369778,
+            "B": 0.211688,
+            "A": 1.0,
+            "Hex": "C6A47F"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.144,
+            "G": 0.049361,
+            "B": 0.023184,
+            "A": 1.0,
+            "Hex": "6A3F2A"
+          }
+        },
+        {
+          "Key": "Tongue",
+          "Value": {
+            "R": 0.137493,
+            "G": 0.705283,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "68DBFF"
+          }
+        },
+        {
+          "Key": "Pants",
+          "Value": {
+            "R": 0.773,
+            "G": 0.109766,
+            "B": 0.00773,
+            "A": 1.0,
+            "Hex": "E45D15"
+          }
+        },
+        {
+          "Key": "Wraps",
+          "Value": {
+            "R": 0.00644,
+            "G": 0.042056,
+            "B": 0.14,
+            "A": 1.0,
+            "Hex": "123A68"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.269143,
+            "G": 0.658375,
+            "B": 0.171836,
+            "A": 1.0,
+            "Hex": "8ED473"
+          }
+        },
+        {
+          "Key": "Eyes2",
+          "Value": {
+            "R": 0.16942,
+            "G": 0.518,
+            "B": 0.144522,
+            "A": 1.0,
+            "Hex": "72BF6A"
+          }
+        }
+      ]
+    }
+  }
+]

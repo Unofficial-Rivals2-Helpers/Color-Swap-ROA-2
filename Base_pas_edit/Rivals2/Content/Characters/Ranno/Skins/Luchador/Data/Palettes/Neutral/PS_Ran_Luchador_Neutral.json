@@ -1,0 +1,166 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Ran_Luchador_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Ran_Luchador_Neutral_C'Default__PS_Ran_Luchador_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Ranno/Skins/Luchador/Data/Palettes/Neutral/PS_Ran_Luchador_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Ran_Luchador_Neutral_C",
+    "Name": "Default__PS_Ran_Luchador_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Ranno/Skins/Luchador/Data/Palettes/Neutral/PS_Ran_Luchador_Neutral.PS_Ran_Luchador_Neutral_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Clothing",
+          "Value": {
+            "R": 0.001629,
+            "G": 0.181,
+            "B": 0.128232,
+            "A": 1.0,
+            "Hex": "057664"
+          }
+        },
+        {
+          "Key": "Boots",
+          "Value": {
+            "R": 0.291771,
+            "G": 0.799103,
+            "B": 0.002428,
+            "A": 1.0,
+            "Hex": "93E708"
+          }
+        },
+        {
+          "Key": "Tights",
+          "Value": {
+            "R": 0.658375,
+            "G": 0.008023,
+            "B": 0.187821,
+            "A": 1.0,
+            "Hex": "D41678"
+          }
+        },
+        {
+          "Key": "Clothing Trim",
+          "Value": {
+            "R": 0.947307,
+            "G": 0.637597,
+            "B": 0.171441,
+            "A": 1.0,
+            "Hex": "F9D173"
+          }
+        },
+        {
+          "Key": "Gloves",
+          "Value": {
+            "R": 0.03434,
+            "G": 0.03434,
+            "B": 0.03434,
+            "A": 1.0,
+            "Hex": "343434"
+          }
+        },
+        {
+          "Key": "Mask Eyes",
+          "Value": {
+            "R": 0.658375,
+            "G": 0.008023,
+            "B": 0.187821,
+            "A": 1.0,
+            "Hex": "D41678"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.047684,
+            "G": 0.275404,
+            "B": 0.649305,
+            "A": 1.0,
+            "Hex": "3D8FD3"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.651406,
+            "G": 0.651406,
+            "B": 0.715693,
+            "A": 1.0,
+            "Hex": "D3D3DC"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.008568,
+            "G": 0.057805,
+            "B": 0.14996,
+            "A": 1.0,
+            "Hex": "17446C"
+          }
+        },
+        {
+          "Key": "Tongue",
+          "Value": {
+            "R": 0.691,
+            "G": 0.141655,
+            "B": 0.141655,
+            "A": 1.0,
+            "Hex": "D96969"
+          }
+        },
+        {
+          "Key": "Eyes_Shine",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 1.0,
+            "G": 0.303106,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF9600"
+          }
+        },
+        {
+          "Key": "Eyes_Iris",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        }
+      ]
+    }
+  }
+]

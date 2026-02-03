@@ -1,0 +1,206 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Kra_Soccer_Arrival_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Kra_Soccer_Arrival_C'Default__PS_Kra_Soccer_Arrival_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Kragg/Skins/Soccer/Data/Palettes/Arrival/PS_Kra_Soccer_Arrival.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Kra_Soccer_Arrival_C",
+    "Name": "Default__PS_Kra_Soccer_Arrival_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Kragg/Skins/Soccer/Data/Palettes/Arrival/PS_Kra_Soccer_Arrival.PS_Kra_Soccer_Arrival_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "ShoeSole",
+          "Value": {
+            "R": 0.009699,
+            "G": 0.009454,
+            "B": 0.016807,
+            "A": 1.0,
+            "Hex": "191823"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.21875,
+            "G": 0.020508,
+            "B": 0.020508,
+            "A": 1.0,
+            "Hex": "812727"
+          }
+        },
+        {
+          "Key": "Shorts",
+          "Value": {
+            "R": 0.004476,
+            "G": 0.01213,
+            "B": 0.057292,
+            "A": 1.0,
+            "Hex": "0E1C43"
+          }
+        },
+        {
+          "Key": "Shirt",
+          "Value": {
+            "R": 0.466719,
+            "G": 0.466719,
+            "B": 0.515,
+            "A": 1.0,
+            "Hex": "B6B6BE"
+          }
+        },
+        {
+          "Key": "Trim",
+          "Value": {
+            "R": 0.004476,
+            "G": 0.01213,
+            "B": 0.057292,
+            "A": 1.0,
+            "Hex": "0E1C43"
+          }
+        },
+        {
+          "Key": "Shoes",
+          "Value": {
+            "R": 0.466719,
+            "G": 0.466719,
+            "B": 0.515,
+            "A": 1.0,
+            "Hex": "B6B6BE"
+          }
+        },
+        {
+          "Key": "ShoeTrim",
+          "Value": {
+            "R": 0.244792,
+            "G": 0.006375,
+            "B": 0.006375,
+            "A": 1.0,
+            "Hex": "881212"
+          }
+        },
+        {
+          "Key": "ShinTrim",
+          "Value": {
+            "R": 0.003099,
+            "G": 0.002626,
+            "B": 0.016807,
+            "A": 1.0,
+            "Hex": "0A0823"
+          }
+        },
+        {
+          "Key": "Shin",
+          "Value": {
+            "R": 0.004476,
+            "G": 0.01213,
+            "B": 0.057292,
+            "A": 1.0,
+            "Hex": "0E1C43"
+          }
+        },
+        {
+          "Key": "BallBlack",
+          "Value": {
+            "R": 0.009699,
+            "G": 0.009454,
+            "B": 0.016807,
+            "A": 1.0,
+            "Hex": "191823"
+          }
+        },
+        {
+          "Key": "BallWhite",
+          "Value": {
+            "R": 0.399125,
+            "G": 0.428094,
+            "B": 0.515,
+            "A": 1.0,
+            "Hex": "AAAFBE"
+          }
+        },
+        {
+          "Key": "HelmTrim",
+          "Value": {
+            "R": 0.004476,
+            "G": 0.01213,
+            "B": 0.057292,
+            "A": 1.0,
+            "Hex": "0E1C43"
+          }
+        },
+        {
+          "Key": "Helmet",
+          "Value": {
+            "R": 0.466719,
+            "G": 0.466719,
+            "B": 0.515,
+            "A": 1.0,
+            "Hex": "B6B6BE"
+          }
+        },
+        {
+          "Key": "Spike",
+          "Value": {
+            "R": 0.399125,
+            "G": 0.428094,
+            "B": 0.515,
+            "A": 1.0,
+            "Hex": "AAAFBE"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.306953,
+            "G": 0.385738,
+            "B": 0.982251,
+            "A": 1.0,
+            "Hex": "97A7FD"
+          }
+        },
+        {
+          "Key": "EmblemTop",
+          "Value": {
+            "R": 0.015462,
+            "G": 0.021029,
+            "B": 0.098958,
+            "A": 1.0,
+            "Hex": "212758"
+          }
+        },
+        {
+          "Key": "EmblemBack",
+          "Value": {
+            "R": 0.244792,
+            "G": 0.006375,
+            "B": 0.006375,
+            "A": 1.0,
+            "Hex": "881212"
+          }
+        }
+      ]
+    }
+  }
+]

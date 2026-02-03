@@ -1,0 +1,306 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Ran_Clown_Green_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Ran_Clown_Green_C'Default__PS_Ran_Clown_Green_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Ranno/Skins/Clown/Data/Palettes/Green/PS_Ran_Clown_Green.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Ran_Clown_Green_C",
+    "Name": "Default__PS_Ran_Clown_Green_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Ranno/Skins/Clown/Data/Palettes/Green/PS_Ran_Clown_Green.PS_Ran_Clown_Green_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Hair1",
+          "Value": {
+            "R": 0.796875,
+            "G": 0.772111,
+            "B": 0.053955,
+            "A": 1.0,
+            "Hex": "E7E441"
+          }
+        },
+        {
+          "Key": "Hair2",
+          "Value": {
+            "R": 0.890625,
+            "G": 0.150381,
+            "B": 0.027832,
+            "A": 1.0,
+            "Hex": "F36C2E"
+          }
+        },
+        {
+          "Key": "Hair3",
+          "Value": {
+            "R": 0.149306,
+            "G": 0.416667,
+            "B": 0.052083,
+            "A": 1.0,
+            "Hex": "6CAD40"
+          }
+        },
+        {
+          "Key": "Hair4",
+          "Value": {
+            "R": 0.221459,
+            "G": 0.058024,
+            "B": 0.484375,
+            "A": 1.0,
+            "Hex": "8244B9"
+          }
+        },
+        {
+          "Key": "Shirt1",
+          "Value": {
+            "R": 0.559,
+            "G": 0.508299,
+            "B": 0.051987,
+            "A": 1.0,
+            "Hex": "C5BD40"
+          }
+        },
+        {
+          "Key": "Shirt2",
+          "Value": {
+            "R": 0.031212,
+            "G": 0.459,
+            "B": 0.11677,
+            "A": 1.0,
+            "Hex": "31B560"
+          }
+        },
+        {
+          "Key": "Pants",
+          "Value": {
+            "R": 0.006615,
+            "G": 0.135,
+            "B": 0.006615,
+            "A": 1.0,
+            "Hex": "136713"
+          }
+        },
+        {
+          "Key": "Suspenders",
+          "Value": {
+            "R": 0.283923,
+            "G": 0.01397,
+            "B": 0.536458,
+            "A": 1.0,
+            "Hex": "911FC2"
+          }
+        },
+        {
+          "Key": "Nose",
+          "Value": {
+            "R": 0.628,
+            "G": 0.084916,
+            "B": 0.013188,
+            "A": 1.0,
+            "Hex": "D0521E"
+          }
+        },
+        {
+          "Key": "Gloves",
+          "Value": {
+            "R": 0.734375,
+            "G": 0.684864,
+            "B": 0.590438,
+            "A": 1.0,
+            "Hex": "DFD8CA"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 1.0,
+            "G": 0.050654,
+            "B": 0.100414,
+            "A": 1.0,
+            "Hex": "FF3F59"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.403533,
+            "G": 0.398771,
+            "B": 0.416667,
+            "A": 1.0,
+            "Hex": "AAAAAD"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.567,
+            "G": 0.042468,
+            "B": 0.024381,
+            "A": 1.0,
+            "Hex": "C73A2B"
+          }
+        },
+        {
+          "Key": "Tongue",
+          "Value": {
+            "R": 0.135243,
+            "G": 0.0,
+            "B": 0.427083,
+            "A": 1.0,
+            "Hex": "6700AF"
+          }
+        },
+        {
+          "Key": "Balloons1",
+          "Value": {
+            "R": 0.129476,
+            "G": 0.671875,
+            "B": 0.219876,
+            "A": 1.0,
+            "Hex": "65D681"
+          }
+        },
+        {
+          "Key": "Balloons2",
+          "Value": {
+            "R": 0.35525,
+            "G": 0.725,
+            "B": 0.10875,
+            "A": 1.0,
+            "Hex": "A1DE5D"
+          }
+        },
+        {
+          "Key": "Balloons3",
+          "Value": {
+            "R": 1.0,
+            "G": 0.201467,
+            "B": 0.096,
+            "A": 1.0,
+            "Hex": "FF7C57"
+          }
+        },
+        {
+          "Key": "Balloons4",
+          "Value": {
+            "R": 0.720522,
+            "G": 0.755,
+            "B": 0.065442,
+            "A": 1.0,
+            "Hex": "DDE248"
+          }
+        },
+        {
+          "Key": "Pinbase",
+          "Value": {
+            "R": 0.23074,
+            "G": 0.226966,
+            "B": 0.23074,
+            "A": 1.0,
+            "Hex": "848384"
+          }
+        },
+        {
+          "Key": "PinAccent",
+          "Value": {
+            "R": 0.254152,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "8A0000"
+          }
+        },
+        {
+          "Key": "PinTrim",
+          "Value": {
+            "R": 0.736111,
+            "G": 0.499931,
+            "B": 0.005608,
+            "A": 1.0,
+            "Hex": "DFBC11"
+          }
+        },
+        {
+          "Key": "PieTin",
+          "Value": {
+            "R": 0.312582,
+            "G": 0.319444,
+            "B": 0.312582,
+            "A": 1.0,
+            "Hex": "989998"
+          }
+        },
+        {
+          "Key": "PieCream",
+          "Value": {
+            "R": 0.417699,
+            "G": 0.904661,
+            "B": 0.155489,
+            "A": 1.0,
+            "Hex": "ADF46E"
+          }
+        },
+        {
+          "Key": "Eyes_Shine",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.39917,
+            "G": 0.628,
+            "B": 0.044588,
+            "A": 1.0,
+            "Hex": "AAD03B"
+          }
+        },
+        {
+          "Key": "Eyes_Iris",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Bubble",
+          "Value": {
+            "R": 0.237679,
+            "G": 0.796875,
+            "B": 0.083008,
+            "A": 1.0,
+            "Hex": "86E751"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -27,7 +27,7 @@
     "Type": "PS_Orc_Axolotl_Neutral_C",
     "Name": "Default__PS_Orc_Axolotl_Neutral_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Orcane/Skins/Axolotl/Data/Palettes/Neutral/PS_Orc_Axolotl_Neutral.PS_Orc_Axolotl_Neutral_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -51,13 +51,33 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "Nails",
+          "Value": {
+            "R": 1.2,
+            "G": 1.2,
+            "B": 1.2,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Sclera",
           "Value": {
             "R": 0.057805,
             "G": 0.708376,
             "B": 0.745404,
             "A": 1.0,
             "Hex": "44DBE0"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.023292,
+            "G": 0.285427,
+            "B": 0.300347,
+            "A": 1.0,
+            "Hex": "2A9295"
           }
         }
       ]

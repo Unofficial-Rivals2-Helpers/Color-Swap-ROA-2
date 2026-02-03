@@ -1,0 +1,116 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Fle_Arctic_Blue_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Fle_Arctic_Blue_C'Default__PE_Fle_Arctic_Blue_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Fleet/Skins/Arctic/Data/Palettes/Blue/PE_Fle_Arctic_Blue.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Fle_Arctic_Blue_C",
+    "Name": "Default__PE_Fle_Arctic_Blue_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Arctic/Data/Palettes/Blue/PE_Fle_Arctic_Blue.PE_Fle_Arctic_Blue_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.494792,
+            "G": 0.553733,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "BBC5FF"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.207357,
+            "G": 0.244384,
+            "B": 0.947917,
+            "A": 1.0,
+            "Hex": "7E88FA"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.379395,
+            "G": 0.409643,
+            "B": 0.984375,
+            "A": 1.0,
+            "Hex": "A6ACFE"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.651042,
+            "G": 0.668489,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "D3D6FF"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 0.578125,
+            "G": 0.810156,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "C8E9FF"
+          }
+        },
+        {
+          "Key": "Element7",
+          "Value": {
+            "R": 0.369792,
+            "G": 0.663889,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "A4D5FF"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Lar_Lucha_Blue_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Lar_Lucha_Blue_C'Default__PE_Lar_Lucha_Blue_C'",
+      "ObjectPath": "Rivals2/Content/Characters/LaReina/Skins/Lucha/Data/Palettes/Blue/PE_Lar_Lucha_Blue.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Lar_Lucha_Blue_C",
+    "Name": "Default__PE_Lar_Lucha_Blue_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/LaReina/Skins/Lucha/Data/Palettes/Blue/PE_Lar_Lucha_Blue.PE_Lar_Lucha_Blue_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.119,
+            "A": 1.0,
+            "Hex": "000061"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.014391,
+            "G": 0.014391,
+            "B": 0.351,
+            "A": 1.0,
+            "Hex": "2020A0"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.020601,
+            "G": 0.057721,
+            "B": 0.763,
+            "A": 1.0,
+            "Hex": "2744E3"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.297571,
+            "G": 0.609799,
+            "B": 0.883,
+            "A": 1.0,
+            "Hex": "94CDF2"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.384334,
+            "G": 0.19762,
+            "B": 0.82,
+            "A": 1.0,
+            "Hex": "A77BEA"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.287691,
+            "G": 0.036077,
+            "B": 0.839,
+            "A": 1.0,
+            "Hex": "9235EC"
+          }
+        }
+      ]
+    }
+  }
+]

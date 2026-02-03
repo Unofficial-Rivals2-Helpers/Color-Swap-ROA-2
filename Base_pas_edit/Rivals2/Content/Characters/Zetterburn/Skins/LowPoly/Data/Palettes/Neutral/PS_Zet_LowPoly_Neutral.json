@@ -1,0 +1,196 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Zet_LowPoly_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Zet_LowPoly_Neutral_C'Default__PS_Zet_LowPoly_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Zetterburn/Skins/LowPoly/Data/Palettes/Neutral/PS_Zet_LowPoly_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Zet_LowPoly_Neutral_C",
+    "Name": "Default__PS_Zet_LowPoly_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Zetterburn/Skins/LowPoly/Data/Palettes/Neutral/PS_Zet_LowPoly_Neutral.PS_Zet_LowPoly_Neutral_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.3564,
+            "G": 0.138432,
+            "B": 0.045186,
+            "A": 1.0,
+            "Hex": "A1683C"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.814847,
+            "G": 0.752942,
+            "B": 0.162029,
+            "A": 1.0,
+            "Hex": "E9E170"
+          }
+        },
+        {
+          "Key": "Muzzle",
+          "Value": {
+            "R": 0.848958,
+            "G": 0.780772,
+            "B": 0.504523,
+            "A": 1.0,
+            "Hex": "EEE5BD"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.572917,
+            "G": 0.484706,
+            "B": 0.484706,
+            "A": 1.0,
+            "Hex": "C8B9B9"
+          }
+        },
+        {
+          "Key": "Innermouth",
+          "Value": {
+            "R": 0.346704,
+            "G": 0.038204,
+            "B": 0.023153,
+            "A": 1.0,
+            "Hex": "9F372A"
+          }
+        },
+        {
+          "Key": "Teeth",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Pawpads",
+          "Value": {
+            "R": 0.102242,
+            "G": 0.0865,
+            "B": 0.0865,
+            "A": 1.0,
+            "Hex": "5A5353"
+          }
+        },
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 0.708376,
+            "G": 0.107023,
+            "B": 0.074214,
+            "A": 1.0,
+            "Hex": "DB5C4D"
+          }
+        },
+        {
+          "Key": "Hair2",
+          "Value": {
+            "R": 0.887923,
+            "G": 0.212231,
+            "B": 0.049707,
+            "A": 1.0,
+            "Hex": "F27F3F"
+          }
+        },
+        {
+          "Key": "Cloth",
+          "Value": {
+            "R": 0.760525,
+            "G": 0.066626,
+            "B": 0.038204,
+            "A": 1.0,
+            "Hex": "E24937"
+          }
+        },
+        {
+          "Key": "Belt",
+          "Value": {
+            "R": 0.057292,
+            "G": 0.057292,
+            "B": 0.057292,
+            "A": 1.0,
+            "Hex": "434343"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.947917,
+            "G": 0.947917,
+            "B": 0.947917,
+            "A": 1.0,
+            "Hex": "FAFAFA"
+          }
+        },
+        {
+          "Key": "Eyebrows",
+          "Value": {
+            "R": 0.48515,
+            "G": 0.078187,
+            "B": 0.046665,
+            "A": 1.0,
+            "Hex": "B94F3D"
+          }
+        },
+        {
+          "Key": "Eyeshadow",
+          "Value": {
+            "R": 1.0,
+            "G": 0.932495,
+            "B": 0.260417,
+            "A": 1.0,
+            "Hex": "FFF88C"
+          }
+        },
+        {
+          "Key": "Eyecolor",
+          "Value": {
+            "R": 0.191202,
+            "G": 0.715693,
+            "B": 0.0865,
+            "A": 1.0,
+            "Hex": "79DC53"
+          }
+        },
+        {
+          "Key": "Metal",
+          "Value": {
+            "R": 0.463542,
+            "G": 0.463542,
+            "B": 0.463542,
+            "A": 1.0,
+            "Hex": "B5B5B5"
+          }
+        }
+      ]
+    }
+  }
+]

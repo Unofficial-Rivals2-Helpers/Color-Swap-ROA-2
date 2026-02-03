@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Zet_Santa_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Zet_Santa_Neutral_C'Default__PE_Zet_Santa_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Zetterburn/Skins/Santa/Data/Palettes/Neutral/PE_Zet_Santa_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Zet_Santa_Neutral_C",
+    "Name": "Default__PE_Zet_Santa_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Zetterburn/Skins/Santa/Data/Palettes/Neutral/PE_Zet_Santa_Neutral.PE_Zet_Santa_Neutral_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.116041,
+            "G": 0.289294,
+            "B": 0.489583,
+            "A": 1.0,
+            "Hex": "6093BA"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.234755,
+            "G": 0.443877,
+            "B": 0.625,
+            "A": 1.0,
+            "Hex": "85B2CF"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.452509,
+            "G": 0.601594,
+            "B": 0.75,
+            "A": 1.0,
+            "Hex": "B4CCE1"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.70665,
+            "G": 0.809566,
+            "B": 0.817708,
+            "A": 1.0,
+            "Hex": "DBE9EA"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.963542,
+            "G": 0.963542,
+            "B": 0.963542,
+            "A": 1.0,
+            "Hex": "FBFBFB"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

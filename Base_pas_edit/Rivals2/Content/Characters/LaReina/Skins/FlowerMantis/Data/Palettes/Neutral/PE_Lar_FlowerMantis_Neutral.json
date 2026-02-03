@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Lar_FlowerMantis_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Lar_FlowerMantis_Neutral_C'Default__PE_Lar_FlowerMantis_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/LaReina/Skins/FlowerMantis/Data/Palettes/Neutral/PE_Lar_FlowerMantis_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Lar_FlowerMantis_Neutral_C",
+    "Name": "Default__PE_Lar_FlowerMantis_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/LaReina/Skins/FlowerMantis/Data/Palettes/Neutral/PE_Lar_FlowerMantis_Neutral.PE_Lar_FlowerMantis_Neutral_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.008762,
+            "G": 0.098958,
+            "B": 0.022942,
+            "A": 1.0,
+            "Hex": "175829"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.024441,
+            "G": 0.276042,
+            "B": 0.063995,
+            "A": 1.0,
+            "Hex": "2B8F47"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.053955,
+            "G": 0.609375,
+            "B": 0.141273,
+            "A": 1.0,
+            "Hex": "41CD69"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.953125,
+            "G": 0.09432,
+            "B": 0.09432,
+            "A": 1.0,
+            "Hex": "FA5656"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.755208,
+            "G": 0.027534,
+            "B": 0.232663,
+            "A": 1.0,
+            "Hex": "E22E85"
+          }
+        }
+      ]
+    }
+  }
+]

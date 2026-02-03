@@ -27,7 +27,7 @@
     "Type": "PS_May_Birder_Green_C",
     "Name": "Default__PS_May_Birder_Green_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/Birder/Data/Palettes/Green/PS_May_Birder_Green.PS_May_Birder_Green_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -261,7 +261,7 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
           "Value": {
             "R": 0.0,
             "G": 0.31325,
@@ -271,13 +271,13 @@
           }
         },
         {
-          "Key": "Scelera",
+          "Key": "LeftIris",
           "Value": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0,
+            "R": 0.0,
+            "G": 0.31325,
+            "B": 0.895,
             "A": 1.0,
-            "Hex": "FFFFFF"
+            "Hex": "0098F3"
           }
         },
         {

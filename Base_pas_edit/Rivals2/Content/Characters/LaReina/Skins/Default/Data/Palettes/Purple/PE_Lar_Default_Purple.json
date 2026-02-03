@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Lar_Default_Purple_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Lar_Default_Purple_C'Default__PE_Lar_Default_Purple_C'",
+      "ObjectPath": "Rivals2/Content/Characters/LaReina/Skins/Default/Data/Palettes/Purple/PE_Lar_Default_Purple.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Lar_Default_Purple_C",
+    "Name": "Default__PE_Lar_Default_Purple_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/LaReina/Skins/Default/Data/Palettes/Purple/PE_Lar_Default_Purple.PE_Lar_Default_Purple_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.008652,
+            "G": 0.0,
+            "B": 0.027321,
+            "A": 1.0,
+            "Hex": "17002E"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.073144,
+            "G": 0.018527,
+            "B": 0.191,
+            "A": 1.0,
+            "Hex": "4C2579"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.277902,
+            "G": 0.078588,
+            "B": 0.708,
+            "A": 1.0,
+            "Hex": "904FDB"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.702,
+            "G": 0.359914,
+            "B": 0.080028,
+            "A": 1.0,
+            "Hex": "DAA250"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.617,
+            "G": 0.27401,
+            "B": 0.011723,
+            "A": 1.0,
+            "Hex": "CE8F1C"
+          }
+        }
+      ]
+    }
+  }
+]

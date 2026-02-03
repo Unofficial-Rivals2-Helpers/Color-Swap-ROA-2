@@ -1,0 +1,156 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Kra_Luchador_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Kra_Luchador_Neutral_C'Default__PS_Kra_Luchador_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Kragg/Skins/Luchador/Data/Palettes/Neutral/PS_Kra_Luchador_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Kra_Luchador_Neutral_C",
+    "Name": "Default__PS_Kra_Luchador_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Kragg/Skins/Luchador/Data/Palettes/Neutral/PS_Kra_Luchador_Neutral.PS_Kra_Luchador_Neutral_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.317694,
+            "G": 0.610496,
+            "B": 0.107447,
+            "A": 1.0,
+            "Hex": "99CD5C"
+          }
+        },
+        {
+          "Key": "Clothing",
+          "Value": {
+            "R": 0.036824,
+            "G": 0.237,
+            "B": 0.014931,
+            "A": 1.0,
+            "Hex": "368620"
+          }
+        },
+        {
+          "Key": "ClothingAccent",
+          "Value": {
+            "R": 0.491021,
+            "G": 0.036336,
+            "B": 0.036336,
+            "A": 1.0,
+            "Hex": "BA3535"
+          }
+        },
+        {
+          "Key": "Straps",
+          "Value": {
+            "R": 0.022174,
+            "G": 0.022174,
+            "B": 0.022174,
+            "A": 1.0,
+            "Hex": "292929"
+          }
+        },
+        {
+          "Key": "Trim",
+          "Value": {
+            "R": 0.839,
+            "G": 0.522377,
+            "B": 0.076349,
+            "A": 1.0,
+            "Hex": "ECBF4E"
+          }
+        },
+        {
+          "Key": "Brick",
+          "Value": {
+            "R": 0.181,
+            "G": 0.07654,
+            "B": 0.045069,
+            "A": 1.0,
+            "Hex": "764E3C"
+          }
+        },
+        {
+          "Key": "Gauntlet",
+          "Value": {
+            "R": 0.181,
+            "G": 0.07654,
+            "B": 0.045069,
+            "A": 1.0,
+            "Hex": "764E3C"
+          }
+        },
+        {
+          "Key": "Helm",
+          "Value": {
+            "R": 0.181,
+            "G": 0.07654,
+            "B": 0.045069,
+            "A": 1.0,
+            "Hex": "764E3C"
+          }
+        },
+        {
+          "Key": "Boots",
+          "Value": {
+            "R": 0.181,
+            "G": 0.07654,
+            "B": 0.045069,
+            "A": 1.0,
+            "Hex": "764E3C"
+          }
+        },
+        {
+          "Key": "Gloves",
+          "Value": {
+            "R": 0.036824,
+            "G": 0.237,
+            "B": 0.014931,
+            "A": 1.0,
+            "Hex": "368620"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.955973,
+            "G": 0.491021,
+            "B": 0.046665,
+            "A": 1.0,
+            "Hex": "FABA3D"
+          }
+        },
+        {
+          "Key": "Rock",
+          "Value": {
+            "R": 0.243055,
+            "G": 0.095834,
+            "B": 0.05148,
+            "A": 1.0,
+            "Hex": "875740"
+          }
+        }
+      ]
+    }
+  }
+]

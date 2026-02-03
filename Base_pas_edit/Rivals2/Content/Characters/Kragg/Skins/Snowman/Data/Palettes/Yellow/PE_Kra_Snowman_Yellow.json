@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Kra_Snowman_Yellow_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Kra_Snowman_Yellow_C'Default__PE_Kra_Snowman_Yellow_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Kragg/Skins/Snowman/Data/Palettes/Yellow/PE_Kra_Snowman_Yellow.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Kra_Snowman_Yellow_C",
+    "Name": "Default__PE_Kra_Snowman_Yellow_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Kragg/Skins/Snowman/Data/Palettes/Yellow/PE_Kra_Snowman_Yellow.PE_Kra_Snowman_Yellow_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.059,
+            "G": 0.035636,
+            "B": 0.012272,
+            "A": 1.0,
+            "Hex": "44351D"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.325,
+            "G": 0.196301,
+            "B": 0.0676,
+            "A": 1.0,
+            "Hex": "9B7A49"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.686685,
+            "G": 0.504914,
+            "B": 0.323143,
+            "A": 1.0,
+            "Hex": "D8BD9A"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.991102,
+            "G": 0.879627,
+            "B": 0.768151,
+            "A": 1.0,
+            "Hex": "FEF1E3"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

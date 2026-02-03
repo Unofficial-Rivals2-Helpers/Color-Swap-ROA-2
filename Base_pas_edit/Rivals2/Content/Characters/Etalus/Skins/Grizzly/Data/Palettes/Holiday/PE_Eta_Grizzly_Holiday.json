@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Eta_Grizzly_Holiday_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Eta_Grizzly_Holiday_C'Default__PE_Eta_Grizzly_Holiday_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Etalus/Skins/Grizzly/Data/Palettes/Holiday/PE_Eta_Grizzly_Holiday.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Eta_Grizzly_Holiday_C",
+    "Name": "Default__PE_Eta_Grizzly_Holiday_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Etalus/Skins/Grizzly/Data/Palettes/Holiday/PE_Eta_Grizzly_Holiday.PE_Eta_Grizzly_Holiday_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.056128,
+            "G": 0.266356,
+            "B": 0.036889,
+            "A": 1.0,
+            "Hex": "438D36"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.11524,
+            "G": 0.546875,
+            "B": 0.07574,
+            "A": 1.0,
+            "Hex": "5FC34E"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.298225,
+            "G": 0.911458,
+            "B": 0.242106,
+            "A": 1.0,
+            "Hex": "95F587"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.561007,
+            "G": 1.0,
+            "B": 0.520833,
+            "A": 1.0,
+            "Hex": "C6FFBF"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

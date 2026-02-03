@@ -27,7 +27,7 @@
     "Type": "PS_Fle_Sunny_Neutral_C",
     "Name": "Default__PS_Fle_Sunny_Neutral_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Sunny/Data/Palettes/Neutral/PS_Fle_Sunny_Neutral.PS_Fle_Sunny_Neutral_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -201,7 +201,17 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.183,
+            "G": 0.06145,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "774600"
+          }
+        },
+        {
+          "Key": "LeftIris",
           "Value": {
             "R": 0.183,
             "G": 0.06145,

@@ -27,7 +27,7 @@
     "Type": "PS_May_Default_CoolBlue_C",
     "Name": "Default__PS_May_Default_CoolBlue_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/Default/Data/Palettes/CoolBlue/PS_May_Default_CoolBlue.PS_May_Default_CoolBlue_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -111,13 +111,73 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "Sclera",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.22,
+            "G": 0.22,
+            "B": 0.22,
+            "A": 1.0,
+            "Hex": "818181"
+          }
+        },
+        {
+          "Key": "RightIris",
           "Value": {
             "R": 0.036889,
             "G": 0.450786,
             "B": 0.637597,
             "A": 1.0,
             "Hex": "36B3D1"
+          }
+        },
+        {
+          "Key": "LeftIris",
+          "Value": {
+            "R": 0.036889,
+            "G": 0.450786,
+            "B": 0.637597,
+            "A": 1.0,
+            "Hex": "36B3D1"
+          }
+        },
+        {
+          "Key": "LeftPupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "RightPupil",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Eyeliner",
+          "Value": {
+            "R": 0.015,
+            "G": 0.01206,
+            "B": 0.0108,
+            "A": 1.0,
+            "Hex": "201C1A"
           }
         },
         {

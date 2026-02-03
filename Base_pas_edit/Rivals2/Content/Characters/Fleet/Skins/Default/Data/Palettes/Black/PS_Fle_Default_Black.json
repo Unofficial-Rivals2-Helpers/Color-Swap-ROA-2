@@ -27,7 +27,7 @@
     "Type": "PS_Fle_Default_Black_C",
     "Name": "Default__PS_Fle_Default_Black_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Default/Data/Palettes/Black/PS_Fle_Default_Black.PS_Fle_Default_Black_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -181,7 +181,17 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.591142,
+            "G": 0.682292,
+            "B": 0.074626,
+            "A": 1.0,
+            "Hex": "CAD84D"
+          }
+        },
+        {
+          "Key": "LeftIris",
           "Value": {
             "R": 0.591142,
             "G": 0.682292,

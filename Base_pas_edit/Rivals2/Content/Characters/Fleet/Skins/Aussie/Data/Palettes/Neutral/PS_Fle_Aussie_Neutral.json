@@ -27,7 +27,7 @@
     "Type": "PS_Fle_Aussie_Neutral_C",
     "Name": "Default__PS_Fle_Aussie_Neutral_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Aussie/Data/Palettes/Neutral/PS_Fle_Aussie_Neutral.PS_Fle_Aussie_Neutral_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -71,7 +71,17 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.296138,
+            "G": 0.061246,
+            "B": 0.01096,
+            "A": 1.0,
+            "Hex": "94461B"
+          }
+        },
+        {
+          "Key": "LeftIris",
           "Value": {
             "R": 0.296138,
             "G": 0.061246,

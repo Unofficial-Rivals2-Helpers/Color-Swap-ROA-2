@@ -27,11 +27,21 @@
     "Type": "PS_Fle_Husky_Purple_C",
     "Name": "Default__PS_Fle_Husky_Purple_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Husky/Data/Palettes/Purple/PS_Fle_Husky_Purple.PS_Fle_Husky_Purple_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.821,
+            "G": 0.4926,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "EABA00"
+          }
+        },
+        {
+          "Key": "LeftIris",
           "Value": {
             "R": 0.821,
             "G": 0.4926,

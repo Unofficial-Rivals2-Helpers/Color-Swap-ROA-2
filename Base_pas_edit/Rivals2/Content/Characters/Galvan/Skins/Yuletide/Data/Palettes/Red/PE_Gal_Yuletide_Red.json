@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Gal_Yuletide_Red_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Gal_Yuletide_Red_C'Default__PE_Gal_Yuletide_Red_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Galvan/Skins/Yuletide/Data/Palettes/Red/PE_Gal_Yuletide_Red.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Gal_Yuletide_Red_C",
+    "Name": "Default__PE_Gal_Yuletide_Red_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Galvan/Skins/Yuletide/Data/Palettes/Red/PE_Gal_Yuletide_Red.PE_Gal_Yuletide_Red_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.108,
+            "G": 0.009936,
+            "B": 0.037721,
+            "A": 1.0,
+            "Hex": "5C1936"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.672443,
+            "G": 0.011113,
+            "B": 0.189622,
+            "A": 1.0,
+            "Hex": "D61B79"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.921582,
+            "G": 0.137316,
+            "B": 0.333382,
+            "A": 1.0,
+            "Hex": "F6689C"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.973446,
+            "G": 0.297027,
+            "B": 0.601415,
+            "A": 1.0,
+            "Hex": "FC94CC"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.752,
+            "G": 0.126336,
+            "B": 0.157618,
+            "A": 1.0,
+            "Hex": "E1636E"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.991102,
+            "G": 0.361752,
+            "B": 0.393219,
+            "A": 1.0,
+            "Hex": "FEA2A8"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 0.752,
+            "G": 0.126336,
+            "B": 0.157618,
+            "A": 1.0,
+            "Hex": "E1636E"
+          }
+        }
+      ]
+    }
+  }
+]

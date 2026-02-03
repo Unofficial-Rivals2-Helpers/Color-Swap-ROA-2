@@ -27,7 +27,7 @@
     "Type": "PS_Fle_Cupid_Blue_C",
     "Name": "Default__PS_Fle_Cupid_Blue_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Cupid/Data/Palettes/Blue/PS_Fle_Cupid_Blue.PS_Fle_Cupid_Blue_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -131,7 +131,17 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.219618,
+            "G": 1.0,
+            "B": 0.192708,
+            "A": 1.0,
+            "Hex": "81FF79"
+          }
+        },
+        {
+          "Key": "LeftIris",
           "Value": {
             "R": 0.219618,
             "G": 1.0,

@@ -1,0 +1,296 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Eta_Franken_Blue_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Eta_Franken_Blue_C'Default__PS_Eta_Franken_Blue_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Etalus/Skins/Franken/Data/Palettes/Blue/PS_Eta_Franken_Blue.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Eta_Franken_Blue_C",
+    "Name": "Default__PS_Eta_Franken_Blue_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Etalus/Skins/Franken/Data/Palettes/Blue/PS_Eta_Franken_Blue.PS_Eta_Franken_Blue_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 0.027321,
+            "G": 0.016529,
+            "B": 0.016529,
+            "A": 1.0,
+            "Hex": "2E2222"
+          }
+        },
+        {
+          "Key": "Skin",
+          "Value": {
+            "R": 0.052486,
+            "G": 0.216594,
+            "B": 0.326,
+            "A": 1.0,
+            "Hex": "41809B"
+          }
+        },
+        {
+          "Key": "Skin2",
+          "Value": {
+            "R": 0.066505,
+            "G": 0.235,
+            "B": 0.223767,
+            "A": 1.0,
+            "Hex": "498582"
+          }
+        },
+        {
+          "Key": "Skin3",
+          "Value": {
+            "R": 0.117345,
+            "G": 0.10187,
+            "B": 0.334,
+            "A": 1.0,
+            "Hex": "605A9C"
+          }
+        },
+        {
+          "Key": "Stitches",
+          "Value": {
+            "R": 0.021219,
+            "G": 0.016807,
+            "B": 0.016807,
+            "A": 1.0,
+            "Hex": "282323"
+          }
+        },
+        {
+          "Key": "Nose",
+          "Value": {
+            "R": 0.074379,
+            "G": 0.061712,
+            "B": 0.116,
+            "A": 1.0,
+            "Hex": "4D465F"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 0.009134,
+            "G": 0.01033,
+            "B": 0.009134,
+            "A": 1.0,
+            "Hex": "181A18"
+          }
+        },
+        {
+          "Key": "Metal",
+          "Value": {
+            "R": 0.038148,
+            "G": 0.047432,
+            "B": 0.066,
+            "A": 1.0,
+            "Hex": "373D48"
+          }
+        },
+        {
+          "Key": "Pants",
+          "Value": {
+            "R": 0.147,
+            "G": 0.047979,
+            "B": 0.047979,
+            "A": 1.0,
+            "Hex": "6B3E3E"
+          }
+        },
+        {
+          "Key": "Stripes",
+          "Value": {
+            "R": 0.068478,
+            "G": 0.024489,
+            "B": 0.022174,
+            "A": 1.0,
+            "Hex": "4A2B29"
+          }
+        },
+        {
+          "Key": "Belt",
+          "Value": {
+            "R": 0.052338,
+            "G": 0.028294,
+            "B": 0.086,
+            "A": 1.0,
+            "Hex": "402F53"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.004,
+            "G": 0.004,
+            "B": 0.004,
+            "A": 1.0,
+            "Hex": "0C0C0C"
+          }
+        },
+        {
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.566667,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "C7FF00"
+          }
+        },
+        {
+          "Key": "LeftIris",
+          "Value": {
+            "R": 0.566667,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "C7FF00"
+          }
+        },
+        {
+          "Key": "LeftPupil",
+          "Value": {
+            "R": 0.566667,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "C7FF00"
+          }
+        },
+        {
+          "Key": "RightPupil",
+          "Value": {
+            "R": 0.566667,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "C7FF00"
+          }
+        },
+        {
+          "Key": "Eyeliner",
+          "Value": {
+            "R": 0.001,
+            "G": 0.001,
+            "B": 0.001,
+            "A": 1.0,
+            "Hex": "030303"
+          }
+        },
+        {
+          "Key": "Emissive",
+          "Value": {
+            "R": 0.03265,
+            "G": 0.063667,
+            "B": 0.653,
+            "A": 1.0,
+            "Hex": "3247D4"
+          }
+        },
+        {
+          "Key": "Rings",
+          "Value": {
+            "R": 0.223,
+            "G": 0.216373,
+            "B": 0.223,
+            "A": 1.0,
+            "Hex": "828082"
+          }
+        },
+        {
+          "Key": "Tubes",
+          "Value": {
+            "R": 0.039,
+            "G": 0.037841,
+            "B": 0.039,
+            "A": 1.0,
+            "Hex": "373637"
+          }
+        },
+        {
+          "Key": "Shirt",
+          "Value": {
+            "R": 0.334844,
+            "G": 0.468272,
+            "B": 0.508881,
+            "A": 1.0,
+            "Hex": "9DB6BD"
+          }
+        },
+        {
+          "Key": "Glass",
+          "Value": {
+            "R": 0.03265,
+            "G": 0.063667,
+            "B": 0.653,
+            "A": 1.0,
+            "Hex": "3247D4"
+          }
+        },
+        {
+          "Key": "White",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Floor",
+          "Value": {
+            "R": 0.059675,
+            "G": 0.049707,
+            "B": 0.078187,
+            "A": 1.0,
+            "Hex": "453F4F"
+          }
+        },
+        {
+          "Key": "Metal2",
+          "Value": {
+            "R": 0.282,
+            "G": 0.27362,
+            "B": 0.282,
+            "A": 1.0,
+            "Hex": "918F91"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Zet_Vampire_White_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Zet_Vampire_White_C'Default__PS_Zet_Vampire_White_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Zetterburn/Skins/Vampire/Data/Palettes/White/PS_Zet_Vampire_White.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Zet_Vampire_White_C",
+    "Name": "Default__PS_Zet_Vampire_White_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Zetterburn/Skins/Vampire/Data/Palettes/White/PS_Zet_Vampire_White.PS_Zet_Vampire_White_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.128,
+            "G": 0.038132,
+            "B": 0.022272,
+            "A": 1.0,
+            "Hex": "643729"
+          }
+        },
+        {
+          "Key": "Pads",
+          "Value": {
+            "R": 0.019,
+            "G": 0.013984,
+            "B": 0.013984,
+            "A": 1.0,
+            "Hex": "251F1F"
+          }
+        },
+        {
+          "Key": "Iris",
+          "Value": {
+            "R": 0.104,
+            "G": 0.16,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "5B6F00"
+          }
+        },
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 0.018,
+            "G": 0.006638,
+            "B": 0.003798,
+            "A": 1.0,
+            "Hex": "24130C"
+          }
+        },
+        {
+          "Key": "Cravat",
+          "Value": {
+            "R": 0.387,
+            "G": 0.004479,
+            "B": 0.023606,
+            "A": 1.0,
+            "Hex": "A70E2A"
+          }
+        },
+        {
+          "Key": "Pants",
+          "Value": {
+            "R": 0.29,
+            "G": 0.24679,
+            "B": 0.28856,
+            "A": 1.0,
+            "Hex": "938892"
+          }
+        },
+        {
+          "Key": "Coat",
+          "Value": {
+            "R": 0.809,
+            "G": 0.688459,
+            "B": 0.804982,
+            "A": 1.0,
+            "Hex": "E9D9E8"
+          }
+        },
+        {
+          "Key": "Inner",
+          "Value": {
+            "R": 0.203,
+            "G": 0.008526,
+            "B": 0.027972,
+            "A": 1.0,
+            "Hex": "7C172E"
+          }
+        },
+        {
+          "Key": "Trim",
+          "Value": {
+            "R": 0.673,
+            "G": 0.500981,
+            "B": 0.290736,
+            "A": 1.0,
+            "Hex": "D6BC93"
+          }
+        }
+      ]
+    }
+  }
+]

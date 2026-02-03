@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Lar_Hornet_Red_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Lar_Hornet_Red_C'Default__PE_Lar_Hornet_Red_C'",
+      "ObjectPath": "Rivals2/Content/Characters/LaReina/Skins/Hornet/Data/Palettes/Red/PE_Lar_Hornet_Red.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Lar_Hornet_Red_C",
+    "Name": "Default__PE_Lar_Hornet_Red_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/LaReina/Skins/Hornet/Data/Palettes/Red/PE_Lar_Hornet_Red.PE_Lar_Hornet_Red_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.989583,
+            "G": 0.005154,
+            "B": 0.005154,
+            "A": 1.0,
+            "Hex": "FE0F0F"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.953125,
+            "G": 0.069499,
+            "B": 0.069499,
+            "A": 1.0,
+            "Hex": "FA4A4A"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.953125,
+            "G": 0.335154,
+            "B": 0.090839,
+            "A": 1.0,
+            "Hex": "FA9D55"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.015543,
+            "G": 0.015619,
+            "B": 0.015625,
+            "A": 1.0,
+            "Hex": "212121"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_For_Undead_Purple_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_For_Undead_Purple_C'Default__PS_For_Undead_Purple_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Forsburn/Skins/Undead/Data/Palettes/Purple/PS_For_Undead_Purple.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_For_Undead_Purple_C",
+    "Name": "Default__PS_For_Undead_Purple_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Forsburn/Skins/Undead/Data/Palettes/Purple/PS_For_Undead_Purple.PS_For_Undead_Purple_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Bone",
+          "Value": {
+            "R": 0.174029,
+            "G": 0.065263,
+            "B": 0.349,
+            "A": 1.0,
+            "Hex": "7448A0"
+          }
+        },
+        {
+          "Key": "Meat",
+          "Value": {
+            "R": 0.207,
+            "G": 0.058788,
+            "B": 0.179828,
+            "A": 1.0,
+            "Hex": "7E4476"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.183966,
+            "G": 0.116584,
+            "B": 0.247,
+            "A": 1.0,
+            "Hex": "776088"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.048312,
+            "G": 0.02052,
+            "B": 0.09,
+            "A": 1.0,
+            "Hex": "3E2754"
+          }
+        },
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 0.013915,
+            "G": 0.006715,
+            "B": 0.017,
+            "A": 1.0,
+            "Hex": "1F1323"
+          }
+        },
+        {
+          "Key": "Cloth",
+          "Value": {
+            "R": 0.019124,
+            "G": 0.01855,
+            "B": 0.053,
+            "A": 1.0,
+            "Hex": "252541"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "ClothTrim",
+          "Value": {
+            "R": 0.008487,
+            "G": 0.010422,
+            "B": 0.023,
+            "A": 1.0,
+            "Hex": "161A2A"
+          }
+        },
+        {
+          "Key": "Belt",
+          "Value": {
+            "R": 0.153,
+            "G": 0.103979,
+            "B": 0.044064,
+            "A": 1.0,
+            "Hex": "6D5B3B"
+          }
+        },
+        {
+          "Key": "White",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

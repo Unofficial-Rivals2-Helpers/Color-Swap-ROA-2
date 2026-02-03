@@ -1,0 +1,116 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Fle_Abyssal_Green_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Fle_Abyssal_Green_C'Default__PE_Fle_Abyssal_Green_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Fleet/Skins/Default/Data/Palettes/Abyssal/PE_Fle_Abyssal_Green.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Fle_Abyssal_Green_C",
+    "Name": "Default__PE_Fle_Abyssal_Green_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Default/Data/Palettes/Abyssal/PE_Fle_Abyssal_Green.PE_Fle_Abyssal_Green_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.296138,
+            "G": 0.028133,
+            "B": 0.273804,
+            "A": 1.0,
+            "Hex": "942E8F"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.533277,
+            "G": 0.062927,
+            "B": 0.415689,
+            "A": 1.0,
+            "Hex": "C147AD"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 1.0,
+            "G": 0.171,
+            "B": 0.861833,
+            "A": 1.0,
+            "Hex": "FF73EF"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.863157,
+            "G": 0.637597,
+            "B": 0.887923,
+            "A": 1.0,
+            "Hex": "EFD1F2"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 1.0,
+            "G": 0.650566,
+            "B": 0.047,
+            "A": 1.0,
+            "Hex": "FFD33D"
+          }
+        },
+        {
+          "Key": "Element7",
+          "Value": {
+            "R": 0.879,
+            "G": 0.178906,
+            "B": 0.071199,
+            "A": 1.0,
+            "Hex": "F1754B"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -27,7 +27,7 @@
     "Type": "PS_Orc_Axolotl_Blue_C",
     "Name": "Default__PS_Orc_Axolotl_Blue_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Orcane/Skins/Axolotl/Data/Palettes/Blue/PS_Orc_Axolotl_Blue.PS_Orc_Axolotl_Blue_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -51,13 +51,33 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "Nails",
           "Value": {
-            "R": 0.851,
-            "G": 0.221685,
-            "B": 0.011914,
+            "R": 1.2,
+            "G": 1.2,
+            "B": 1.2,
             "A": 1.0,
-            "Hex": "EE821C"
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 1.0,
+            "G": 0.2605,
+            "B": 0.014,
+            "A": 1.0,
+            "Hex": "FF8C1F"
+          }
+        },
+        {
+          "Key": "ScleraShading",
+          "Value": {
+            "R": 0.342014,
+            "G": 0.089095,
+            "B": 0.004788,
+            "A": 1.0,
+            "Hex": "9E540F"
           }
         }
       ]

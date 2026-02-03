@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Eta_LowPoly_Green_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Eta_LowPoly_Green_C'Default__PE_Eta_LowPoly_Green_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Etalus/Skins/LowPoly/Data/Palettes/Green/PE_Eta_LowPoly_Green.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Eta_LowPoly_Green_C",
+    "Name": "Default__PE_Eta_LowPoly_Green_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Etalus/Skins/LowPoly/Data/Palettes/Green/PE_Eta_LowPoly_Green.PE_Eta_LowPoly_Green_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.323143,
+            "G": 0.760525,
+            "B": 0.327778,
+            "A": 1.0,
+            "Hex": "9AE29B"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.323143,
+            "G": 0.760525,
+            "B": 0.327778,
+            "A": 1.0,
+            "Hex": "9AE29B"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.168269,
+            "G": 0.439657,
+            "B": 0.07036,
+            "A": 1.0,
+            "Hex": "72B14B"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.323143,
+            "G": 0.760525,
+            "B": 0.327778,
+            "A": 1.0,
+            "Hex": "9AE29B"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.168269,
+            "G": 0.439657,
+            "B": 0.07036,
+            "A": 1.0,
+            "Hex": "72B14B"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

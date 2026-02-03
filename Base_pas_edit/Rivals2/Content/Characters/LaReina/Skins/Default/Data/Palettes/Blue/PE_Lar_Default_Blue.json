@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Lar_Default_Blue_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Lar_Default_Blue_C'Default__PE_Lar_Default_Blue_C'",
+      "ObjectPath": "Rivals2/Content/Characters/LaReina/Skins/Default/Data/Palettes/Blue/PE_Lar_Default_Blue.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Lar_Default_Blue_C",
+    "Name": "Default__PE_Lar_Default_Blue_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/LaReina/Skins/Default/Data/Palettes/Blue/PE_Lar_Default_Blue.PE_Lar_Default_Blue_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.000906,
+            "G": 0.006058,
+            "B": 0.015625,
+            "A": 1.0,
+            "Hex": "021221"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.014031,
+            "G": 0.098443,
+            "B": 0.255208,
+            "A": 1.0,
+            "Hex": "1F588A"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.486088,
+            "G": 0.665957,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "B9D5FF"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 1.0,
+            "G": 0.1,
+            "B": 0.1,
+            "A": 1.0,
+            "Hex": "FF5959"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.338542,
+            "G": 0.017943,
+            "B": 0.017943,
+            "A": 1.0,
+            "Hex": "9D2424"
+          }
+        }
+      ]
+    }
+  }
+]

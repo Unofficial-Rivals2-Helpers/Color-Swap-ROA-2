@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Wra_Default_Holiday_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Wra_Default_Holiday_C'Default__PE_Wra_Default_Holiday_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Wrastor/Skins/Default/Data/Palettes/Holiday/PE_Wra_Default_Holiday.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Wra_Default_Holiday_C",
+    "Name": "Default__PE_Wra_Default_Holiday_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Wrastor/Skins/Default/Data/Palettes/Holiday/PE_Wra_Default_Holiday.PE_Wra_Default_Holiday_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.675,
+            "G": 0.035775,
+            "B": 0.035775,
+            "A": 1.0,
+            "Hex": "D73535"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.929,
+            "G": 0.223889,
+            "B": 0.223889,
+            "A": 1.0,
+            "Hex": "F78282"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.677567,
+            "G": 0.991102,
+            "B": 0.661065,
+            "A": 1.0,
+            "Hex": "D7FED5"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.109965,
+            "G": 0.653,
+            "B": 0.071177,
+            "A": 1.0,
+            "Hex": "5DD44B"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.83,
+            "G": 1.0,
+            "B": 0.878167,
+            "A": 1.0,
+            "Hex": "EBFFF1"
+          }
+        }
+      ]
+    }
+  }
+]

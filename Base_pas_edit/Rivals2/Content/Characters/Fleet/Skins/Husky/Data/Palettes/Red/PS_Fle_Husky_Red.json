@@ -31,7 +31,17 @@
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
+          "Value": {
+            "R": 0.327778,
+            "G": 0.020289,
+            "B": 0.093059,
+            "A": 1.0,
+            "Hex": "9B2756"
+          }
+        },
+        {
+          "Key": "LeftIris",
           "Value": {
             "R": 0.327778,
             "G": 0.020289,

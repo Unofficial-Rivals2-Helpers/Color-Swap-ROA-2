@@ -1,0 +1,116 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_For_SmokeClan_Yellow_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_For_SmokeClan_Yellow_C'Default__PE_For_SmokeClan_Yellow_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Forsburn/Skins/SmokeClan/Data/Palettes/Yellow/PE_For_SmokeClan_Yellow.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_For_SmokeClan_Yellow_C",
+    "Name": "Default__PE_For_SmokeClan_Yellow_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Forsburn/Skins/SmokeClan/Data/Palettes/Yellow/PE_For_SmokeClan_Yellow.PE_For_SmokeClan_Yellow_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.128,
+            "G": 0.068267,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "644A00"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.485,
+            "G": 0.271358,
+            "B": 0.057715,
+            "A": 1.0,
+            "Hex": "B98E44"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.128,
+            "G": 0.068267,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "644A00"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.399,
+            "G": 0.226621,
+            "B": 0.001202,
+            "A": 1.0,
+            "Hex": "AA8303"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.973445,
+            "G": 0.666247,
+            "B": 0.135633,
+            "A": 1.0,
+            "Hex": "FCD567"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Cloth",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

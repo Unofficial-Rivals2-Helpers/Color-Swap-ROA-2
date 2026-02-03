@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_May_WinterStoat_Purple_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_May_WinterStoat_Purple_C'Default__PE_May_WinterStoat_Purple_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Maypul/Skins/WinterStoat/Data/Palettes/Purple/PE_May_WinterStoat_Purple.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_May_WinterStoat_Purple_C",
+    "Name": "Default__PE_May_WinterStoat_Purple_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Maypul/Skins/WinterStoat/Data/Palettes/Purple/PE_May_WinterStoat_Purple.PE_May_WinterStoat_Purple_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.024964,
+            "G": 0.009963,
+            "B": 0.041,
+            "A": 1.0,
+            "Hex": "2B1939"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.068626,
+            "G": 0.02992,
+            "B": 0.11,
+            "A": 1.0,
+            "Hex": "4A305D"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.09308,
+            "G": 0.028611,
+            "B": 0.171875,
+            "A": 1.0,
+            "Hex": "562F73"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.64415,
+            "G": 0.353,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "D2A0FF"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.77505,
+            "G": 0.591,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "E4CAFF"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

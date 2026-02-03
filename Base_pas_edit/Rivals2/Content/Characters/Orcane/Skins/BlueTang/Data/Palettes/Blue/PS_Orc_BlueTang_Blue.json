@@ -27,7 +27,7 @@
     "Type": "PS_Orc_BlueTang_Blue_C",
     "Name": "Default__PS_Orc_BlueTang_Blue_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Orcane/Skins/BlueTang/Data/Palettes/Blue/PS_Orc_BlueTang_Blue.PS_Orc_BlueTang_Blue_C'",
-    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -81,23 +81,23 @@
           }
         },
         {
-          "Key": "Pupil",
+          "Key": "LeftIris",
           "Value": {
-            "R": 0.120822,
-            "G": 0.120822,
-            "B": 0.2,
+            "R": 0.007342,
+            "G": 0.007342,
+            "B": 0.012153,
             "A": 1.0,
-            "Hex": "61617C"
+            "Hex": "14141C"
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "RightIris",
           "Value": {
-            "R": 0.5125,
-            "G": 0.458333,
-            "B": 1.0,
+            "R": 0.007342,
+            "G": 0.007342,
+            "B": 0.012153,
             "A": 1.0,
-            "Hex": "BEB5FF"
+            "Hex": "14141C"
           }
         },
         {

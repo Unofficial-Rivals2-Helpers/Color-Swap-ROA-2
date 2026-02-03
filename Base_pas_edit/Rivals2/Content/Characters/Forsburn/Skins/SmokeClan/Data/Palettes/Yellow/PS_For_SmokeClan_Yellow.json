@@ -1,0 +1,186 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_For_SmokeClan_Yellow_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_For_SmokeClan_Yellow_C'Default__PS_For_SmokeClan_Yellow_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Forsburn/Skins/SmokeClan/Data/Palettes/Yellow/PS_For_SmokeClan_Yellow.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_For_SmokeClan_Yellow_C",
+    "Name": "Default__PS_For_SmokeClan_Yellow_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Forsburn/Skins/SmokeClan/Data/Palettes/Yellow/PS_For_SmokeClan_Yellow.PS_For_SmokeClan_Yellow_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Metal",
+          "Value": {
+            "R": 0.099,
+            "G": 0.099,
+            "B": 0.099,
+            "A": 1.0,
+            "Hex": "585858"
+          }
+        },
+        {
+          "Key": "Mask",
+          "Value": {
+            "R": 0.023,
+            "G": 0.023,
+            "B": 0.023,
+            "A": 1.0,
+            "Hex": "2A2A2A"
+          }
+        },
+        {
+          "Key": "Robe",
+          "Value": {
+            "R": 0.7,
+            "G": 0.296081,
+            "B": 0.0315,
+            "A": 1.0,
+            "Hex": "DA9431"
+          }
+        },
+        {
+          "Key": "RobeAccent",
+          "Value": {
+            "R": 0.032,
+            "G": 0.017002,
+            "B": 0.011072,
+            "A": 1.0,
+            "Hex": "32231B"
+          }
+        },
+        {
+          "Key": "Shirt",
+          "Value": {
+            "R": 0.7,
+            "G": 0.296081,
+            "B": 0.0315,
+            "A": 1.0,
+            "Hex": "DA9431"
+          }
+        },
+        {
+          "Key": "ShirtAccent",
+          "Value": {
+            "R": 0.103,
+            "G": 0.011639,
+            "B": 0.011639,
+            "A": 1.0,
+            "Hex": "5A1C1C"
+          }
+        },
+        {
+          "Key": "Rope",
+          "Value": {
+            "R": 0.103,
+            "G": 0.011639,
+            "B": 0.011639,
+            "A": 1.0,
+            "Hex": "5A1C1C"
+          }
+        },
+        {
+          "Key": "Fur",
+          "Value": {
+            "R": 0.321,
+            "G": 0.243816,
+            "B": 0.184254,
+            "A": 1.0,
+            "Hex": "9A8777"
+          }
+        },
+        {
+          "Key": "Wraps",
+          "Value": {
+            "R": 0.103,
+            "G": 0.011639,
+            "B": 0.011639,
+            "A": 1.0,
+            "Hex": "5A1C1C"
+          }
+        },
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.258183,
+            "G": 0.10348,
+            "B": 0.037178,
+            "A": 1.0,
+            "Hex": "8B5A36"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.374,
+            "G": 0.210637,
+            "B": 0.140624,
+            "A": 1.0,
+            "Hex": "A57F69"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.077,
+            "G": 0.037158,
+            "B": 0.021406,
+            "A": 1.0,
+            "Hex": "4E3628"
+          }
+        },
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 0.059,
+            "G": 0.028472,
+            "B": 0.016402,
+            "A": 1.0,
+            "Hex": "442F22"
+          }
+        },
+        {
+          "Key": "Hair2",
+          "Value": {
+            "R": 0.077,
+            "G": 0.037158,
+            "B": 0.021406,
+            "A": 1.0,
+            "Hex": "4E3628"
+          }
+        },
+        {
+          "Key": "Eyes",
+          "Value": {
+            "R": 0.55,
+            "G": 0.03025,
+            "B": 0.03025,
+            "A": 1.0,
+            "Hex": "C43030"
+          }
+        }
+      ]
+    }
+  }
+]

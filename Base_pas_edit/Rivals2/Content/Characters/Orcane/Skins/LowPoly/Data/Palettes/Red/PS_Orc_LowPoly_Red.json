@@ -1,0 +1,116 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Orc_LowPoly_Red_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Orc_LowPoly_Red_C'Default__PS_Orc_LowPoly_Red_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Orcane/Skins/LowPoly/Data/Palettes/Red/PS_Orc_LowPoly_Red.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Orc_LowPoly_Red_C",
+    "Name": "Default__PS_Orc_LowPoly_Red_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Orcane/Skins/LowPoly/Data/Palettes/Red/PS_Orc_LowPoly_Red.PS_Orc_LowPoly_Red_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.604167,
+            "G": 0.132761,
+            "B": 0.100732,
+            "A": 1.0,
+            "Hex": "CC6659"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 1.0,
+            "G": 0.837393,
+            "B": 0.682292,
+            "A": 1.0,
+            "Hex": "FFECD8"
+          }
+        },
+        {
+          "Key": "Nails",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Pawpads",
+          "Value": {
+            "R": 0.182292,
+            "G": 0.090182,
+            "B": 0.102919,
+            "A": 1.0,
+            "Hex": "76555A"
+          }
+        },
+        {
+          "Key": "Teeth",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Mouth",
+          "Value": {
+            "R": 0.982251,
+            "G": 0.212231,
+            "B": 0.212231,
+            "A": 1.0,
+            "Hex": "FD7F7F"
+          }
+        },
+        {
+          "Key": "Sclera",
+          "Value": {
+            "R": 0.930111,
+            "G": 0.045015,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "F73C00"
+          }
+        },
+        {
+          "Key": "Eyeshine",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

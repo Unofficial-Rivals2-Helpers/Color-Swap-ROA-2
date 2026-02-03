@@ -1,0 +1,96 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_Zet_LowPoly_Neutral_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_Zet_LowPoly_Neutral_C'Default__PE_Zet_LowPoly_Neutral_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Zetterburn/Skins/LowPoly/Data/Palettes/Neutral/PE_Zet_LowPoly_Neutral.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_Zet_LowPoly_Neutral_C",
+    "Name": "Default__PE_Zet_LowPoly_Neutral_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Zetterburn/Skins/LowPoly/Data/Palettes/Neutral/PE_Zet_LowPoly_Neutral.PE_Zet_LowPoly_Neutral_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "000000"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 1.0,
+            "G": 0.039348,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF3800"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.887923,
+            "G": 0.212231,
+            "B": 0.049707,
+            "A": 1.0,
+            "Hex": "F27F3F"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.973446,
+            "G": 0.879244,
+            "B": 0.184539,
+            "A": 1.0,
+            "Hex": "FCF177"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.991102,
+            "G": 0.973446,
+            "B": 0.745404,
+            "A": 1.0,
+            "Hex": "FEFCE0"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -27,7 +27,7 @@
     "Type": "PS_Fle_Default_Abyssal_C",
     "Name": "Default__PS_Fle_Default_Abyssal_C",
     "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Default/Data/Palettes/Abyssal/PS_Fle_Default_Abyssal.PS_Fle_Default_Abyssal_C'",
-    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "CustomColorSlotDefinitions": [
         {
@@ -181,7 +181,17 @@
           }
         },
         {
-          "Key": "Eyes",
+          "Key": "Sclera",
+          "Value": {
+            "R": 1.0,
+            "G": 0.647633,
+            "B": 0.039,
+            "A": 1.0,
+            "Hex": "FFD337"
+          }
+        },
+        {
+          "Key": "RightIris",
           "Value": {
             "R": 1.0,
             "G": 0.272867,
@@ -191,13 +201,13 @@
           }
         },
         {
-          "Key": "Scelera",
+          "Key": "LeftIris",
           "Value": {
             "R": 1.0,
-            "G": 0.647633,
-            "B": 0.039,
+            "G": 0.272867,
+            "B": 0.161,
             "A": 1.0,
-            "Hex": "FFD337"
+            "Hex": "FF8F70"
           }
         },
         {

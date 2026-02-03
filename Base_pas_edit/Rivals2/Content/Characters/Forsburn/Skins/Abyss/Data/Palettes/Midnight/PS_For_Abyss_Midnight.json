@@ -1,0 +1,116 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_For_Abyss_Midnight_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_For_Abyss_Midnight_C'Default__PS_For_Abyss_Midnight_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Forsburn/Skins/Abyss/Data/Palettes/Midnight/PS_For_Abyss_Midnight.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_For_Abyss_Midnight_C",
+    "Name": "Default__PS_For_Abyss_Midnight_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Forsburn/Skins/Abyss/Data/Palettes/Midnight/PS_For_Abyss_Midnight.PS_For_Abyss_Midnight_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.121875,
+            "G": 0.13875,
+            "B": 0.375,
+            "A": 1.0,
+            "Hex": "6268A5"
+          }
+        },
+        {
+          "Key": "Horn",
+          "Value": {
+            "R": 0.035919,
+            "G": 0.018135,
+            "B": 0.065,
+            "A": 1.0,
+            "Hex": "352448"
+          }
+        },
+        {
+          "Key": "Hair",
+          "Value": {
+            "R": 0.338,
+            "G": 0.029068,
+            "B": 0.050564,
+            "A": 1.0,
+            "Hex": "9D2F3F"
+          }
+        },
+        {
+          "Key": "Hair2",
+          "Value": {
+            "R": 0.615,
+            "G": 0.118695,
+            "B": 0.153229,
+            "A": 1.0,
+            "Hex": "CE616D"
+          }
+        },
+        {
+          "Key": "Cloth",
+          "Value": {
+            "R": 0.012347,
+            "G": 0.021302,
+            "B": 0.083,
+            "A": 1.0,
+            "Hex": "1D2851"
+          }
+        },
+        {
+          "Key": "Bone",
+          "Value": {
+            "R": 0.438648,
+            "G": 0.541409,
+            "B": 0.746,
+            "A": 1.0,
+            "Hex": "B1C3E0"
+          }
+        },
+        {
+          "Key": "AbyssEyesSclera",
+          "Value": {
+            "R": 0.003,
+            "G": 0.003,
+            "B": 0.003,
+            "A": 1.0,
+            "Hex": "090909"
+          }
+        },
+        {
+          "Key": "AbyssEyesIris",
+          "Value": {
+            "R": 1.0,
+            "G": 0.052861,
+            "B": 0.074214,
+            "A": 1.0,
+            "Hex": "FF414D"
+          }
+        }
+      ]
+    }
+  }
+]

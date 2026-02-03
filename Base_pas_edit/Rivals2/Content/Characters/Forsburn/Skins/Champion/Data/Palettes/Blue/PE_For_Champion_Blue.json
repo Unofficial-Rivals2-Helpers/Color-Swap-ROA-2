@@ -1,0 +1,116 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PE_For_Champion_Blue_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PE_For_Champion_Blue_C'Default__PE_For_Champion_Blue_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Forsburn/Skins/Champion/Data/Palettes/Blue/PE_For_Champion_Blue.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PE_For_Champion_Blue_C",
+    "Name": "Default__PE_For_Champion_Blue_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Forsburn/Skins/Champion/Data/Palettes/Blue/PE_For_Champion_Blue.PE_For_Champion_Blue_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Element0",
+          "Value": {
+            "R": 0.601241,
+            "G": 0.597872,
+            "B": 0.8,
+            "A": 1.0,
+            "Hex": "CCCBE8"
+          }
+        },
+        {
+          "Key": "Element1",
+          "Value": {
+            "R": 0.058938,
+            "G": 0.066466,
+            "B": 0.1,
+            "A": 1.0,
+            "Hex": "444959"
+          }
+        },
+        {
+          "Key": "Element2",
+          "Value": {
+            "R": 0.007843,
+            "G": 0.007843,
+            "B": 0.011765,
+            "A": 1.0,
+            "Hex": "15151C"
+          }
+        },
+        {
+          "Key": "Element3",
+          "Value": {
+            "R": 0.068611,
+            "G": 0.001518,
+            "B": 0.672443,
+            "A": 1.0,
+            "Hex": "4A05D6"
+          }
+        },
+        {
+          "Key": "Element4",
+          "Value": {
+            "R": 0.062093,
+            "G": 0.104227,
+            "B": 0.567708,
+            "A": 1.0,
+            "Hex": "465BC7"
+          }
+        },
+        {
+          "Key": "Element5",
+          "Value": {
+            "R": 0.451232,
+            "G": 0.520861,
+            "B": 0.973445,
+            "A": 1.0,
+            "Hex": "B3BFFC"
+          }
+        },
+        {
+          "Key": "Element6",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        {
+          "Key": "Cloth",
+          "Value": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+]

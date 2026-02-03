@@ -1,0 +1,166 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PS_Fle_Abyss_Midnight_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'RivalsColorPalette'",
+      "ObjectPath": "/Script/Rivals2"
+    },
+    "ClassFlags": "CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PS_Fle_Abyss_Midnight_C'Default__PS_Fle_Abyss_Midnight_C'",
+      "ObjectPath": "Rivals2/Content/Characters/Fleet/Skins/Abyss/Data/Palettes/Midnight/PS_Fle_Abyss_Midnight.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "PS_Fle_Abyss_Midnight_C",
+    "Name": "Default__PS_Fle_Abyss_Midnight_C",
+    "Class": "BlueprintGeneratedClass'Rivals2/Content/Characters/Fleet/Skins/Abyss/Data/Palettes/Midnight/PS_Fle_Abyss_Midnight.PS_Fle_Abyss_Midnight_C'",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "CustomColorSlotDefinitions": [
+        {
+          "Key": "Body",
+          "Value": {
+            "R": 0.217787,
+            "G": 0.228735,
+            "B": 0.557,
+            "A": 1.0,
+            "Hex": "8183C5"
+          }
+        },
+        {
+          "Key": "Belly",
+          "Value": {
+            "R": 0.39501,
+            "G": 0.552741,
+            "B": 0.855,
+            "A": 1.0,
+            "Hex": "A9C4EE"
+          }
+        },
+        {
+          "Key": "Pattern",
+          "Value": {
+            "R": 0.019044,
+            "G": 0.028676,
+            "B": 0.092,
+            "A": 1.0,
+            "Hex": "252F55"
+          }
+        },
+        {
+          "Key": "Paws",
+          "Value": {
+            "R": 0.215615,
+            "G": 0.05061,
+            "B": 0.241,
+            "A": 1.0,
+            "Hex": "803F87"
+          }
+        },
+        {
+          "Key": "Shirt",
+          "Value": {
+            "R": 0.068,
+            "G": 0.013396,
+            "B": 0.035238,
+            "A": 1.0,
+            "Hex": "4A1E34"
+          }
+        },
+        {
+          "Key": "Pants",
+          "Value": {
+            "R": 0.0917,
+            "G": 0.09071,
+            "B": 0.174,
+            "A": 1.0,
+            "Hex": "555574"
+          }
+        },
+        {
+          "Key": "Buckle",
+          "Value": {
+            "R": 0.416,
+            "G": 0.071552,
+            "B": 0.077293,
+            "A": 1.0,
+            "Hex": "AD4B4E"
+          }
+        },
+        {
+          "Key": "Tentacles",
+          "Value": {
+            "R": 0.011147,
+            "G": 0.021453,
+            "B": 0.071,
+            "A": 1.0,
+            "Hex": "1B284B"
+          }
+        },
+        {
+          "Key": "TentacleSpines",
+          "Value": {
+            "R": 0.416,
+            "G": 0.04992,
+            "B": 0.056021,
+            "A": 1.0,
+            "Hex": "AD3F43"
+          }
+        },
+        {
+          "Key": "Bone",
+          "Value": {
+            "R": 0.547,
+            "G": 0.33914,
+            "B": 0.342604,
+            "A": 1.0,
+            "Hex": "C39E9E"
+          }
+        },
+        {
+          "Key": "AbyssSclera",
+          "Value": {
+            "R": 0.000282,
+            "G": 0.000554,
+            "B": 0.003,
+            "A": 1.0,
+            "Hex": "000109"
+          }
+        },
+        {
+          "Key": "AbyssIris",
+          "Value": {
+            "R": 0.547,
+            "G": 0.073845,
+            "B": 0.081731,
+            "A": 1.0,
+            "Hex": "C34D51"
+          }
+        },
+        {
+          "Key": "Apple",
+          "Value": {
+            "R": 0.402,
+            "G": 0.05427,
+            "B": 0.320863,
+            "A": 1.0,
+            "Hex": "AA429A"
+          }
+        }
+      ]
+    }
+  }
+]
